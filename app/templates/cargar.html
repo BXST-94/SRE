@@ -1,0 +1,220 @@
+{% extends "base.html" %}
+{% block title %}Cargar usuario — Recomendador explicable{% endblock %}
+
+{% block content %}
+<section class="panel">
+  <div class="panel-head">
+    <h2>Cargar usuario en vivo</h2>
+    <p class="muted">
+      Se ejecutarán <strong>2 llamadas reales</strong> al modelo
+      (1× Call #1 + 1× Call #2, que cubre los 5 productos) y se guardará el resultado en <em>Recomendador</em>. Cada clic llama al modelo real; no se reutiliza ningún resultado previo.
+    </p>
+  </div>
+
+  <div class="clave-box" style="margin:0 0 14px 0;padding:12px 14px;border:1px solid #d4a017;border-radius:8px;background:rgba(212,160,23,.08)">
+    <label for="clave-openrouter"><strong>Tu clave de OpenRouter</strong></label>
+    <input id="clave-openrouter" type="password" class="input-search" autocomplete="off" spellcheck="false" placeholder="Pega tu clave (empieza por sk-or-)">
+    <p class="muted small" style="margin:6px 0 0 0">
+      La clave viaja a este servidor solo para hacer las 2 llamadas de este an&aacute;lisis. No se guarda en disco, no se comparte con otros visitantes y se descarta al terminar; el navegador la recuerda &uacute;nicamente en esta pesta&ntilde;a. Aun as&iacute;, este sitio es un proyecto de maestr&iacute;a: usa una clave desechable o con l&iacute;mite de gasto y rev&oacute;cala despu&eacute;s. Si no pegas ninguna, solo funciona cuando quien presenta activ&oacute; la clave de demostraci&oacute;n del servidor.
+    </p>
+    <p class="muted small" style="margin:4px 0 0 0">
+      Servicio gratuito de Render: si estuvo inactivo, la primera carga tarda cerca de un minuto y los an&aacute;lisis guardados se borran cuando el servicio se reinicia.
+    </p>
+  </div>
+
+  <div class="cargar-toolbar">
+    <input id="buscar" type="text" placeholder="Buscar por user_id…"
+           class="input-search" autocomplete="off">
+    <span class="muted small" id="contador-lista">{{ usuarios|length }} usuarios</span>
+  </div>
+
+  <p class="muted small">&#9733; = usuario del lote ya probado ({{ usuarios|selectattr('estrella')|list|length }} de {{ usuarios|length }}). Todos llaman al modelo real al hacer clic: unos 0.003 USD y unos 64 s.</p>
+  <ul id="lista-usuarios" class="user-list">
+    {% for u in usuarios %}
+      <li class="user-row" data-uid="{{ u.uid }}">
+        <div class="user-main">
+          <code class="uid">{{ u.uid }}</code>
+          {% if u.estrella %}<span class="estrella" style="color:#d4a017" title="Probado en el lote: Call #1 y Call #2 terminaron completas">&#9733;</span>{% endif %}
+          <span class="muted small">
+            {% if u.ejecutado %}<span class="badge badge-ok">✓ ejecutado en vivo</span>
+            {% else %}<span class="badge badge-dim">sin ejecutar</span>{% endif %}
+            {% if u.en_atribucion %}<span class="badge badge-ok-soft">atribución ✓</span>{% endif %}
+          </span>
+        </div>
+        <div class="user-actions">
+          {% if u.ejecutado %}
+            <a href="{{ url_for('historial', user=u.uid) }}" class="btn btn-ghost">Ver</a>
+          {% endif %}
+          <button class="btn btn-primary" data-cargar="{{ u.uid }}">Analizar con IA</button>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<!-- Overlay de carga -->
+<div id="overlay" class="overlay hidden" aria-live="polite">
+  <div class="loader-card">
+    <div class="loader-icon"><span class="glyph">IA</span></div>
+    <h2 class="loader-title">Analizando comentarios y recomendaciones</h2>
+    <p class="loader-sub">Generando tu explicación personalizada…</p>
+
+    <div class="progress-wrap">
+      <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+      <div id="progress-pct" class="progress-pct">5%</div>
+    </div>
+
+    <p id="stage" class="loader-stage">Inicializando pipeline…</p>
+    <p id="job-uid" class="loader-uid"></p>
+
+    <div id="error-box" class="loader-error hidden"></div>
+    <button id="cerrar-error" class="btn btn-ghost hidden">Cerrar</button>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  const SCHEDULE = [
+    { t: 0,     p: 5  },
+    { t: 12000, p: 30 },
+    { t: 50000, p: 90 },
+    { t: 70000, p: 99 },
+  ];
+
+  function computeProgress(elapsedMs) {
+    if (elapsedMs <= 0) return SCHEDULE[0].p;
+    for (let i = 1; i < SCHEDULE.length; i++) {
+      const a = SCHEDULE[i - 1], b = SCHEDULE[i];
+      if (elapsedMs <= b.t) {
+        const k = (elapsedMs - a.t) / (b.t - a.t);
+        return a.p + (b.p - a.p) * k;
+      }
+    }
+    return 99;
+  }
+
+  const overlay    = document.getElementById('overlay');
+  const fill       = document.getElementById('progress-fill');
+  const pct        = document.getElementById('progress-pct');
+  const stage      = document.getElementById('stage');
+  const jobUidEl   = document.getElementById('job-uid');
+  const errorBox   = document.getElementById('error-box');
+  const cerrarBtn  = document.getElementById('cerrar-error');
+  const buscador   = document.getElementById('buscar');
+  const lista      = document.getElementById('lista-usuarios');
+  const contador   = document.getElementById('contador-lista');
+  const claveInput = document.getElementById('clave-openrouter');
+
+  // La clave se recuerda solo en esta pestana del navegador (sessionStorage); nunca se guarda en el servidor
+  try {
+    const guardada = sessionStorage.getItem('clave_openrouter');
+    if (guardada) claveInput.value = guardada;
+  } catch (e) { /* sin almacenamiento: no pasa nada */ }
+
+  function obtenerClave() {
+    const k = (claveInput.value || '').trim();
+    try { sessionStorage.setItem('clave_openrouter', k); } catch (e) { /* ignorar */ }
+    return k;
+  }
+
+  buscador.addEventListener('input', () => {
+    const q = buscador.value.trim().toLowerCase();
+    let n = 0;
+    lista.querySelectorAll('.user-row').forEach(li => {
+      const uid = li.dataset.uid.toLowerCase();
+      const match = !q || uid.includes(q);
+      li.style.display = match ? '' : 'none';
+      if (match) n++;
+    });
+    contador.textContent = n + ' usuarios';
+  });
+
+  lista.addEventListener('click', (ev) => {
+    const btn = ev.target.closest('button[data-cargar]');
+    if (!btn) return;
+    startJob(btn.dataset.cargar, btn);
+  });
+
+  cerrarBtn.addEventListener('click', () => {
+    overlay.classList.add('hidden');
+    errorBox.classList.add('hidden');
+    cerrarBtn.classList.add('hidden');
+  });
+
+  async function startJob(uid, btn) {
+    btn.disabled = true;
+    overlay.classList.remove('hidden');
+    errorBox.classList.add('hidden');
+    cerrarBtn.classList.add('hidden');
+    fill.style.width = '5%';
+    pct.textContent = '5%';
+    stage.textContent = 'Inicializando pipeline…';
+    jobUidEl.textContent = 'Usuario: ' + uid;
+
+    const t0 = performance.now();
+    let rafId;
+    const tick = () => {
+      const el = performance.now() - t0;
+      const p = computeProgress(el);
+      fill.style.width = p.toFixed(1) + '%';
+      pct.textContent = p.toFixed(0) + '%';
+      rafId = requestAnimationFrame(tick);
+    };
+    rafId = requestAnimationFrame(tick);
+
+    let jobId;
+    try {
+      const r = await fetch('/api/cargar_usuario', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ uid, api_key: obtenerClave() })
+      });
+      const data = await r.json();
+      if (!r.ok) throw new Error(data.error || 'Error al iniciar el job');
+      jobId = data.job_id;
+    } catch (e) {
+      cancelAnimationFrame(rafId);
+      showError(e.message);
+      btn.disabled = false;
+      return;
+    }
+
+    // Polling
+    const poll = setInterval(async () => {
+      try {
+        const r = await fetch('/api/job_status/' + jobId);
+        const s = await r.json();
+        if (s.etapa) stage.textContent = s.etapa;
+        if (s.status === 'done') {
+          clearInterval(poll);
+          cancelAnimationFrame(rafId);
+          fill.style.width = '100%';
+          pct.textContent = '100%';
+          stage.textContent = '¡Listo! Redirigiendo…';
+          setTimeout(() => {
+            window.location.href = '/historial?user=' + encodeURIComponent(uid);
+          }, 700);
+        } else if (s.status === 'error') {
+          clearInterval(poll);
+          cancelAnimationFrame(rafId);
+          showError(s.error || 'Error desconocido');
+          btn.disabled = false;
+        }
+      } catch (e) {
+        // ignorar fallo transitorio de red, seguimos polleando
+      }
+    }, 2000);
+  }
+
+  function showError(msg) {
+    overlay.classList.remove('hidden');
+    errorBox.textContent = msg;
+    errorBox.classList.remove('hidden');
+    cerrarBtn.classList.remove('hidden');
+    stage.textContent = 'Error';
+  }
+})();
+</script>
+{% endblock %}

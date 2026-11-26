@@ -1,0 +1,4 @@
+# Dependencias minimas de la actividad (Jupyter o Colab). Probado con pandas 3.1.1, matplotlib 3.11.2 y bokeh 3.10.2.
+pandas
+matplotlib
+bokeh

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}API - Recomendador explicable{% endblock %}
+
+{% block content %}
+<section class="panel">
+  <div class="panel-head">
+    <h2>Uso del modelo y de la clave</h2>
+    <p class="muted">
+      Cada an&aacute;lisis hace <strong>2 llamadas reales</strong> a OpenRouter con el modelo
+      <code>deepseek/deepseek-v4.1-flash-1017</code>. Cuesta unos 0.003 USD por usuario y tarda cerca de un minuto.
+    </p>
+  </div>
+
+  <h3>Tu clave de OpenRouter</h3>
+  <p class="muted">
+    La clave se pega en la pesta&ntilde;a <a href="{{ url_for('cargar') }}">Cargar usuario</a>. Viaja con cada an&aacute;lisis,
+    vive solo en la memoria del servidor mientras dura ese an&aacute;lisis y se descarta al terminar. no se guarda en disco,
+    no se reutiliza para otros visitantes y ninguna pantalla la muestra.
+  </p>
+  <p class="muted small">
+    Recomendaci&oacute;n: usa una clave desechable o con l&iacute;mite de gasto y rev&oacute;cala despu&eacute;s de probar.
+  </p>
+
+  <h3>Tope diario del sitio</h3>
+  <p class="muted small">
+    Fecha del servidor: {{ quota.fecha }}. El tope es global para todos los visitantes y se reinicia al cambiar de d&iacute;a.
+  </p>
+  <ul>
+    {% for m, q in quota.por_modelo.items() %}
+    <li><code>{{ m }}</code>: {{ q.usadas }} usadas, {{ q.restantes }} restantes de {{ q.limite }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

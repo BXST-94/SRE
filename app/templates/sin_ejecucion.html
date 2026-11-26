@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Sin ejecución — {{ uid }}{% endblock %}
+
+{% block content %}
+<section class="panel">
+  <div class="panel-head">
+    <h2>Todavía no hay una ejecución en vivo para este usuario</h2>
+    <p class="muted">Usuario: <code>{{ uid }}</code></p>
+    <p class="muted">
+      Ve a <a href="{{ url_for('cargar') }}">Cargar usuario</a> y pulsa «Analizar con IA» para ejecutar el modelo ahora.
+    </p>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Sin resultados — Recomendador explicable{% endblock %}
+
+{% block content %}
+<section class="panel">
+  <div class="panel-head">
+    <h2>No hay un análisis guardado para este usuario</h2>
+    <p class="muted">
+      Ve a la pestaña <a href="{{ url_for('cargar') }}">Cargar usuario</a> y pulsa «Analizar con IA»{% if usuarios %}, o abre uno de los usuarios ya cargados:{% else %}.{% endif %}
+    </p>
+  </div>
+  {% if usuarios %}
+  <ul>
+    {% for u in usuarios %}
+      <li><a href="{{ url_for('historial', user=u) }}"><code>{{ u }}</code></a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endblock %}

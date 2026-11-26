@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Recomendador explicable{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="app-shell">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">◆</span>
+      <div class="brand-text">
+        <h1>Recomendador explicable</h1>
+        <span class="tagline">SASRec · atribución contrafactual · LLM</span>
+      </div>
+    </div>
+    <nav class="tabs">
+      <a href="{{ url_for('cargar') }}"
+         class="tab {% if active_tab == 'cargar' %}active{% endif %}">Cargar usuario</a>
+      <a href="{{ url_for('historial') }}"
+         class="tab {% if active_tab == 'historial' %}active{% endif %}">Recomendador</a>
+      <a href="{{ url_for('api_view') }}"
+         class="tab {% if active_tab == 'api' %}active{% endif %}">
+        API
+        {% if quota_principal is defined %}
+          <span class="pill">{{ quota_principal.restantes }}/{{ quota_principal.limite }}</span>
+        {% endif %}
+      </a>
+    </nav>
+  </header>
+
+  <main class="content">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="app-footer">
+    <p class="frase">{{ frase_defensa }}</p>
+    <p class="limit">{{ limitacion }}</p>
+  </footer>
+
+</div>
+{% block scripts %}{% endblock %}
+</body>
+</html>

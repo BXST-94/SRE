@@ -1,0 +1,28 @@
+# Claves y secretos
+api_key_override*
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.checkpoints
+
+# Bases de datos locales
+*.sqlite
+*.sqlite3
+*.db
+!actividad/amazon_electronics.sqlite
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Cache
+cache/en_vivo/

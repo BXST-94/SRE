@@ -1,0 +1,259 @@
+{% extends "base.html" %}
+{% block title %}Recomendador — {{ user_id }}{% endblock %}
+
+{% block content %}
+<div class="vh">
+
+<section class="panel panel-user">
+  <form method="get" class="user-form">
+    <label for="user">Usuario cacheado:</label>
+    <select id="user" name="user" onchange="this.form.submit()">
+      {% for u in usuarios %}
+        <option value="{{ u }}" {% if u == user_id %}selected{% endif %}>{{ u }}</option>
+      {% endfor %}
+    </select>
+    <span class="muted small">Veredicto Call #1:
+      <strong class="{{ 'ok' if verif_call1.veredicto_global == 'FIEL' else 'warn' }}">
+        {{ verif_call1.veredicto_global }}
+      </strong>
+    </span>
+  </form>
+</section>
+
+<section class="leyenda" aria-label="Leyenda de colores">
+  <span class="leyenda-item origen-alg"><i></i>Algoritmo (SASRec y atribución contrafactual)</span>
+  <span class="leyenda-item origen-ia"><i></i>Generado por la IA</span>
+  <span class="leyenda-item origen-hist"><i></i>Historial de comentarios del usuario</span>
+  <span class="leyenda-item origen-alerta"><i></i>Advertencias</span>
+</section>
+
+<section class="panel perfil">
+  <div class="panel-head">
+    <h2>Perfil del usuario <small class="muted">(Call #1)</small></h2>
+  </div>
+  <div class="cols">
+    <div>
+      <details class="origen origen-hist" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Historial de comentarios</span><span class="origen-sello">reseñas reales</span></summary>
+        <ul class="lista-ia">
+          {% for p in perfil.preferencias %}
+            <li class="item-ia">
+              <strong class="aspecto">{{ p.aspecto }}</strong>
+              <div class="cita">
+                <span class="cita-tag">[{{ p.evidencia_ids|join(", ") }}]</span>
+                <p class="cita-texto">"{{ p.fragmento }}"</p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+      <details class="origen origen-ia" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Preferencias</span><span class="origen-sello">generado por la IA</span></summary>
+        <ul class="lista-ia">
+          {% for p in perfil.preferencias %}
+            <li class="item-ia">
+              <strong class="aspecto">{{ p.aspecto }}</strong><span class="ref">[{{ p.evidencia_ids|join(", ") }}]</span>
+              <p class="texto-ia">{{ p.descripcion }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details class="origen origen-hist" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Historial de comentarios</span><span class="origen-sello">reseñas reales</span></summary>
+        <ul class="lista-ia">
+          {% for a in perfil.advertencias %}
+            <li class="item-ia">
+              <strong class="aspecto">{{ a.aspecto }}</strong>
+              <div class="cita">
+                <span class="cita-tag">[{{ a.evidencia_ids|join(", ") }}]</span>
+                <p class="cita-texto">"{{ a.fragmento }}"</p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+      <details class="origen origen-alerta" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Advertencias</span><span class="origen-sello">generado por la IA</span></summary>
+        <ul class="lista-ia">
+          {% for a in perfil.advertencias %}
+            <li class="item-ia">
+              <strong class="aspecto">{{ a.aspecto }}</strong><span class="ref">[{{ a.evidencia_ids|join(", ") }}]</span>
+              <p class="texto-ia">{{ a.descripcion }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section class="panel historial">
+  <div class="panel-head">
+    <h2>Últimas {{ historial|length }} compras <small class="muted">(antes del corte temporal)</small></h2>
+  </div>
+  <details class="origen origen-hist" open>
+    <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Historial del usuario</span><span class="origen-sello">compras reales, no generado</span></summary>
+    <ul class="historial-list">
+      {% for h in historial %}
+        <li class="hist-item">
+          {% if h.imagen %}
+            <img src="{{ h.imagen }}" alt="" class="hist-img" onerror="this.style.display='none'">
+          {% else %}
+            <div class="hist-img hist-img-placeholder">sin imagen</div>
+          {% endif %}
+          <div class="hist-text">
+            <span class="rating">{{ "%.1f"|format(h.rating) }}★</span>
+            <span class="hist-title">{{ h.titulo }}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </details>
+</section>
+
+<section class="top5">
+  <div class="panel-head">
+    <h2>Top-5 recomendado por el modelo</h2>
+  </div>
+  {% for it in items %}
+  <article class="card">
+    <div class="origen origen-alg prod-head">
+      <span class="origen-tag">&#9660; Algoritmo · ranking SASRec</span>
+      <span class="origen-sello">calculado por el modelo</span>
+      <div class="prod-head-in">
+        {% if it.imagen %}
+          <img src="{{ it.imagen }}" alt="" class="prod-img" onerror="this.style.display='none'">
+        {% else %}
+          <div class="prod-img prod-img-placeholder">sin imagen</div>
+        {% endif %}
+        <div class="prod-info">
+          <div class="prod-top">
+            <span class="rank">#{{ it.posicion }}</span>
+            <span class="badge {{ it.badge.clase }}">{{ it.badge.texto }}</span>
+          </div>
+          <h3>{{ it.titulo }}</h3>
+          <div class="meta">
+            {{ it.categoria }}{% if it.precio is not none %} · ${{ "%.2f"|format(it.precio) }}{% endif %}
+            · <code>{{ it.parent_asin }}</code>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card-body">
+      {% if it.razones_atribucion %}
+      <details class="origen origen-alg">
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Atribución contrafactual ({{ it.razones_atribucion|length }} reseñas del usuario)</span><span class="origen-sello">calculado por el modelo</span></summary>
+        <ul class="atribucion">
+          {% for r in it.razones_atribucion %}
+            <li>
+              <div class="atr-prod">
+                {% if r.producto_imagen %}<img src="{{ r.producto_imagen }}" alt="" class="atr-img" onerror="this.style.display='none'">{% else %}<div class="atr-img atr-img-placeholder">sin imagen</div>{% endif %}
+                <div class="atr-prod-txt">
+                  <span class="atr-prod-tag">Producto del historial · [{{ r.id }}]</span>
+                  <span class="atr-prod-nombre">{{ r.producto_titulo }}</span>
+                </div>
+              </div>
+              <div class="atr-metricas"><strong>[{{ r.id }}]</strong> peso {{ "%.2f"|format(r.peso) }}
+              · Δlogit {{ "%+.2f"|format(r.delta_logit) }}
+              · {{ r.removed_rating }}★ · split {{ r.split }}</div>
+              <div class="cita">
+                <span class="cita-tag">Historial de comentarios · reseña quitada</span>
+                <p class="cita-texto"><em>{{ r.removed_title }}</em>
+                — <span class="texto">"{{ r.removed_text[:200] }}{% if r.removed_text|length > 200 %}…{% endif %}"</span></p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endif %}
+
+      <details class="origen origen-ia" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Por qué lo recomienda</span><span class="origen-sello">generado por la IA</span></summary>
+        <p class="texto-ia texto-grande">{{ it.por_que_el_modelo }}</p>
+        <p class="nota-origen">Los pesos citados vienen de la atribución contrafactual; la frase la redacta el LLM.</p>
+      </details>
+
+      {% if it.coincide_con %}
+      <details class="origen origen-hist" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Reseñas citadas</span><span class="origen-sello">texto literal, no generado</span></summary>
+        <ul class="lista-ia">
+          {% for cc in it.coincide_con %}
+            <li class="item-ia">
+              <strong class="aspecto">{{ cc.aspecto }}</strong>
+              {% if cc.flags %}<span class="flag">{{ cc.flags|join(", ") }}</span>{% endif %}
+              <div class="cita">
+                <span class="cita-tag">{{ 'Historial de comentarios' if cc.id[:1] == 'P' else 'Reseña del producto' }} · [{{ cc.id }}]</span>
+                <p class="cita-texto">"{{ cc.fragmento }}"</p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+      <details class="origen origen-ia" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Coincidencias</span><span class="origen-sello">generado por la IA</span></summary>
+        <ul class="lista-ia">
+          {% for cc in it.coincide_con %}
+            <li class="item-ia"><strong class="aspecto">{{ cc.aspecto }}</strong><span class="ref">[{{ cc.id }}]</span></li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% else %}
+      <details class="origen origen-ia" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Coincidencias</span><span class="origen-sello">generado por la IA</span></summary>
+        <p class="vacio">Ninguna reseña del producto respalda tus preferencias de forma literal.</p>
+      </details>
+      {% endif %}
+
+      {% if it.ten_en_cuenta %}
+      <details class="origen origen-hist" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Reseña citada</span><span class="origen-sello">texto literal, no generado</span></summary>
+        <div class="cita">
+          <span class="cita-tag">{{ 'Historial de comentarios' if it.ten_en_cuenta.id[:1] == 'P' else 'Reseña del producto' }} · [{{ it.ten_en_cuenta.id }}]</span>
+          <p class="cita-texto">"{{ it.ten_en_cuenta.fragmento }}"</p>
+        </div>
+        {% if it.ten_en_cuenta.flags %}<span class="flag">{{ it.ten_en_cuenta.flags|join(", ") }}</span>{% endif %}
+      </details>
+      <details class="origen origen-alerta" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Ten en cuenta</span><span class="origen-sello">generado por la IA</span></summary>
+        <p class="texto-ia">{{ it.ten_en_cuenta.texto }}</p>
+      </details>
+      {% else %}
+      <details class="origen origen-alerta" open>
+        <summary><span class="origen-tag"><span class="flecha">&#9660;</span> Ten en cuenta</span><span class="origen-sello">generado por la IA</span></summary>
+        <p class="vacio">Sin reseñas negativas anteriores al corte del usuario.</p>
+      </details>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+
+<section class="panel fallo">
+  <h2>{{ caso_fallo.titulo }}</h2>
+  <p>{{ caso_fallo.descripcion }}</p>
+  <ul>
+    {% for e in caso_fallo.errores %}
+      <li><strong>{{ e.aspecto }}</strong> — citó {{ e.citado }}: {{ e.problema }}</li>
+    {% endfor %}
+  </ul>
+  <p><strong>Lección:</strong> {{ caso_fallo.leccion }}</p>
+</section>
+
+<section class="panel">
+  <p class="muted small">
+    <strong>HR@5 / NDCG@5:</strong>
+    {% if metricas and metricas.sasrec is defined and metricas.sasrec.hr5 is defined and metricas.sasrec.ndcg5 is defined and metricas.most_popular is defined and metricas.most_popular.hr5 is defined and metricas.most_popular.ndcg5 is defined %}
+      SASRec {{ "%.4f"|format(metricas.sasrec.hr5) }} / {{ "%.4f"|format(metricas.sasrec.ndcg5) }}
+      · MostPopular {{ "%.4f"|format(metricas.most_popular.hr5) }} / {{ "%.4f"|format(metricas.most_popular.ndcg5) }}
+      {% if metricas.n_usuarios %}<small>(n={{ metricas.n_usuarios }})</small>{% endif %}
+    {% else %}
+      — <small>(pendiente: métricas no encontradas en cache)</small>
+    {% endif %}
+  </p>
+</section>
+
+</div>
+{% endblock %}
