@@ -1,0 +1,470 @@
+{% extends "base.html" %}
+{% block title %}Chatbot - Recomendador{% endblock %}
+
+{% block content %}
+<div class="chat-layout" id="chat-layout">
+
+  {# ============ SIDEBAR IZQUIERDO: CONVERSACIONES ============ #}
+  <aside class="chat-sidebar chat-sidebar-left" id="sidebar-left">
+    <div class="sidebar-header">
+      <button class="sidebar-toggle" data-target="left" type="button"
+              title="Colapsar conversaciones" aria-label="Colapsar conversaciones">◀</button>
+      <span class="sidebar-header-title">Conversaciones</span>
+    </div>
+
+    <div class="sidebar-body">
+      <div class="sidebar-top">
+        <label class="sidebar-label">Usuario
+          <select id="uid">
+            <option value="">(invitado, sin historial)</option>
+            {% for u in usuarios %}
+              <option value="{{ u }}">{{ u }}</option>
+            {% endfor %}
+          </select>
+        </label>
+        <button id="nueva-conversacion" class="btn-primary" type="button">+ Nueva conversación</button>
+      </div>
+
+      <div class="sidebar-conv-list">
+        <p class="sidebar-title">Conversaciones</p>
+        <ul id="conv-list"></ul>
+        <p id="conv-empty" class="muted small">Aun no hay conversaciones para este usuario.</p>
+      </div>
+
+      <details class="sidebar-settings">
+        <summary>⚙️ API key</summary>
+        <label class="sidebar-label">Clave OpenRouter
+          <input id="clave-openrouter" type="password" autocomplete="off" spellcheck="false"
+                 placeholder="sk-or-...">
+        </label>
+        <p class="muted small">Solo se usa en esta pestaña, no se guarda en disco.</p>
+      </details>
+    </div>
+  </aside>
+
+  {# ============ CENTRO: CHAT ============ #}
+  <section class="chat-main">
+    <div class="chat-banner">
+      <span>📦 Catálogo local: <strong>{{ total_items }}</strong> productos en
+        <strong>{{ n_categorias }}</strong> categorías</span>
+      <span class="banner-sep">·</span>
+      <span>🤖 Modelo: <code>{{ modelo }}</code></span>
+    </div>
+
+    <div class="chat-messages" id="messages">
+      <div class="msg bot">
+        <div class="msg-avatar">🤖</div>
+        <div class="msg-bubble">
+          <p>¡Hola! Soy tu asistente de compras. Cuentame que buscas o haz click
+          en una categoría de la derecha para empezar.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="chat-input-bar">
+      <textarea id="mensaje" rows="2"
+        placeholder="Escribe tu mensaje... (Enter para enviar, Shift+Enter para salto de linea)"></textarea>
+      <button id="enviar" class="btn-primary" type="button">Enviar</button>
+    </div>
+    <p id="estado" class="muted small"></p>
+  </section>
+
+  {# ============ SIDEBAR DERECHO: CATEGORÍAS ============ #}
+  <aside class="chat-sidebar chat-sidebar-right" id="sidebar-right">
+    <div class="sidebar-header">
+      <span class="sidebar-header-title">Categorías</span>
+      <button class="sidebar-toggle" data-target="right" type="button"
+              title="Colapsar categorías" aria-label="Colapsar categorías">▶</button>
+    </div>
+
+    <div class="sidebar-body">
+      <p class="sidebar-hint muted small">Click en una categoría para buscarla.</p>
+      <ul class="cat-list">
+        {% for c in categorias_lista %}
+          <li class="cat-item" data-cat="{{ c['nombre'] }}" title="Buscar en {{ c['nombre'] }}">
+            <span class="cat-name">{{ c['nombre'] }}</span>
+            <span class="cat-count">{{ c['n'] }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+      <div class="sidebar-footer muted small">
+        🤖 {{ modelo }}
+      </div>
+    </div>
+  </aside>
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  const layout = document.getElementById('chat-layout');
+  const uidEl = document.getElementById('uid');
+  const msgEl = document.getElementById('mensaje');
+  const btn = document.getElementById('enviar');
+  const estado = document.getElementById('estado');
+  const messagesEl = document.getElementById('messages');
+  const clave = document.getElementById('clave-openrouter');
+  const nuevaConv = document.getElementById('nueva-conversacion');
+  const convList = document.getElementById('conv-list');
+  const convEmpty = document.getElementById('conv-empty');
+
+  let convActual = null;
+  let enviando = false;
+
+  // ---------- colapsables ----------
+  function actualizarFlecha(toggleBtn, side, collapsed) {
+    if (side === 'left') {
+      toggleBtn.textContent = collapsed ? '▶' : '◀';
+      toggleBtn.title = collapsed ? 'Expandir conversaciones' : 'Colapsar conversaciones';
+    } else {
+      toggleBtn.textContent = collapsed ? '◀' : '▶';
+      toggleBtn.title = collapsed ? 'Expandir categorías' : 'Colapsar categorías';
+    }
+    toggleBtn.setAttribute('aria-label', toggleBtn.title);
+  }
+
+  function initToggle(side) {
+    const cls = side + '-collapsed';
+    const toggleBtn = document.querySelector('.sidebar-toggle[data-target="' + side + '"]');
+    if (!toggleBtn) return;
+
+    let collapsed = false;
+    try { collapsed = localStorage.getItem('chat_collapse_' + side) === '1'; } catch (e) {}
+
+    if (collapsed) layout.classList.add(cls);
+    actualizarFlecha(toggleBtn, side, collapsed);
+
+    toggleBtn.addEventListener('click', function () {
+      const nowCollapsed = layout.classList.toggle(cls);
+      actualizarFlecha(toggleBtn, side, nowCollapsed);
+      try { localStorage.setItem('chat_collapse_' + side, nowCollapsed ? '1' : '0'); } catch (e) {}
+    });
+  }
+
+  initToggle('left');
+  initToggle('right');
+
+  // ---------- categorías: click = buscar y enviar automáticamente ----------
+  document.querySelectorAll('.cat-item').forEach(function (li) {
+    li.addEventListener('click', function () {
+      if (enviando) return;
+      const nombre = li.dataset.cat || '';
+      msgEl.value = 'Busco productos de ' + nombre;
+      enviar();
+    });
+  });
+
+  // ---------- clave ----------
+  try {
+    const g = sessionStorage.getItem('clave_openrouter');
+    if (g) clave.value = g;
+  } catch (e) {}
+
+  function guardarClave() {
+    try { sessionStorage.setItem('clave_openrouter', clave.value || ''); } catch (e) {}
+  }
+
+  function escapar(s) {
+    return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) {
+      return c === '&' ? '&amp;' : c === '<' ? '&lt;' : c === '>' ? '&gt;' : '&quot;';
+    });
+  }
+
+  function hace(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return iso;
+    const diff = (Date.now() - d.getTime()) / 1000;
+    if (diff < 60) return 'hace instantes';
+    if (diff < 3600) return 'hace ' + Math.floor(diff / 60) + ' min';
+    if (diff < 86400) return 'hace ' + Math.floor(diff / 3600) + ' h';
+    if (diff < 604800) return 'hace ' + Math.floor(diff / 86400) + ' d';
+    return d.toLocaleDateString();
+  }
+
+  // ---------- productos ----------
+  function productImageHTML(p) {
+    const img = p.imagen
+      ? '<img src="' + escapar(p.imagen) + '" alt="" loading="lazy" onerror="this.remove()">'
+      : '';
+    return '<div class="p-img"><div class="ph">📷</div>' + img + '</div>';
+  }
+
+  function formatoPrecio(v) {
+    if (v == null || v === '') return 'n/d';
+    const n = Number(v);
+    if (isNaN(n)) return escapar(String(v));
+    return '$' + n.toFixed(2);
+  }
+
+  function renderTablaProductos(productos) {
+    if (!productos || !productos.length) return '';
+    let html = '<div class="chat-table-wrap"><table class="prod-table"><thead><tr>' +
+      '<th></th><th>Producto</th><th>Características</th><th>Por qué te lo recomiendo</th><th>Precio</th>' +
+      '</tr></thead><tbody>';
+    productos.forEach(function (p) {
+      html += '<tr>' +
+        '<td class="p-img-cell">' + productImageHTML(p) + '</td>' +
+        '<td class="p-title-cell"><div class="p-title">' + escapar(p.title || '(sin título)') + '</div>' +
+        '<div class="p-asin muted small">' + escapar(p.parent_asin || '') + '</div></td>' +
+        '<td class="p-carac-cell">' + escapar(p.caracteristicas || '') + '</td>' +
+        '<td class="p-motivo-cell">' + escapar(p.motivo || '') + '</td>' +
+        '<td class="p-precio-cell">' + formatoPrecio(p.precio) + '</td>' +
+        '</tr>';
+    });
+    html += '</tbody></table></div>';
+    return html;
+  }
+
+  function renderHistorial(historial) {
+    if (!historial || !historial.length) return '';
+    let html = '<div class="chat-history"><h4>📚 Basado en tu historial</h4><ul class="history-list">';
+    historial.forEach(function (h) {
+      const img = h.imagen
+        ? '<img src="' + escapar(h.imagen) + '" alt="" loading="lazy" onerror="this.remove()">'
+        : '<span class="ph">📷</span>';
+      html += '<li>' +
+        '<div class="history-img">' + img + '</div>' +
+        '<div class="history-body">' +
+          '<div class="history-title">' +
+            '<span class="ref-p">[' + escapar(h.p || 'P?') + ']</span> ' +
+            escapar(h.titulo || '(sin título)') +
+          '</div>' +
+          '<div class="history-meta small muted">' +
+            escapar(h.parent_asin || '') + ' · ' + formatoPrecio(h.precio) +
+            (h.rating ? ' · ' + escapar(String(h.rating)) + '★' : '') +
+          '</div>' +
+          '<div class="history-resumen">' + escapar(h.resumen || '') + '</div>' +
+        '</div></li>';
+    });
+    html += '</ul></div>';
+    return html;
+  }
+
+  // ---------- render de un turno ----------
+  function renderTurno(t) {
+    const div = document.createElement('div');
+    div.className = 'msg ' + (t.rol === 'user' ? 'user' : 'bot');
+    const avatar = document.createElement('div');
+    avatar.className = 'msg-avatar';
+    avatar.textContent = t.rol === 'user' ? '👤' : '🤖';
+    const bubble = document.createElement('div');
+    bubble.className = 'msg-bubble';
+
+    const payload = t.payload || {};
+
+    if (t.rol === 'user') {
+      const p = document.createElement('p');
+      p.textContent = t.texto || '';
+      bubble.appendChild(p);
+    } else {
+      const resumen = payload.resumen || t.texto || '';
+      if (resumen) {
+        const p = document.createElement('p');
+        p.textContent = resumen;
+        bubble.appendChild(p);
+      }
+      if (payload.productos && payload.productos.length) {
+        const wrap = document.createElement('div');
+        wrap.innerHTML = renderTablaProductos(payload.productos);
+        bubble.appendChild(wrap);
+      }
+      if (payload.historial && payload.historial.length) {
+        const wrap = document.createElement('div');
+        wrap.innerHTML = renderHistorial(payload.historial);
+        bubble.appendChild(wrap);
+      }
+      const advs = payload.advertencias || t.advertencias || [];
+      if (advs.length) {
+        const wrap = document.createElement('div');
+        wrap.className = 'advertencias';
+        wrap.innerHTML = '<strong>⚠️ Advertencias</strong><ul>' +
+          advs.map(function (a) { return '<li>' + escapar(a) + '</li>'; }).join('') +
+          '</ul>';
+        bubble.appendChild(wrap);
+      }
+    }
+
+    div.appendChild(avatar);
+    div.appendChild(bubble);
+    messagesEl.appendChild(div);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+  }
+
+  function limpiarMensajes() {
+    const hijos = Array.from(messagesEl.children);
+    hijos.slice(1).forEach(function (n) { n.remove(); });
+  }
+
+  function mostrarTyping() {
+    const div = document.createElement('div');
+    div.className = 'msg bot';
+    div.id = 'typing-indicator';
+    div.innerHTML = '<div class="msg-avatar">🤖</div>' +
+      '<div class="msg-bubble"><span class="typing"><span></span><span></span><span></span></span></div>';
+    messagesEl.appendChild(div);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+  }
+  function quitarTyping() {
+    const t = document.getElementById('typing-indicator');
+    if (t) t.remove();
+  }
+
+  // ---------- sidebar conversaciones ----------
+  function cargarListaConversaciones() {
+    const uid = uidEl.value;
+    convList.innerHTML = '';
+    fetch('/chatbot/api/conversations?uid=' + encodeURIComponent(uid))
+      .then(function (r) { return r.json(); })
+      .then(function (lista) {
+        if (!lista.length) {
+          convEmpty.classList.remove('hidden');
+          return;
+        }
+        convEmpty.classList.add('hidden');
+        lista.forEach(function (c) {
+          const li = document.createElement('li');
+          li.className = 'conv-item' + (c.id === convActual ? ' active' : '');
+          li.dataset.id = c.id;
+          li.innerHTML =
+            '<div class="conv-titulo">' + escapar(c.titulo || 'Sin titulo') + '</div>' +
+            '<div class="conv-meta small muted">' +
+              hace(c.actualizada) +
+              ' · <span class="conv-del" title="Borrar">🗑️</span>' +
+            '</div>';
+          li.addEventListener('click', function (e) {
+            if (e.target.classList.contains('conv-del')) return;
+            abrirConversacion(c.id);
+          });
+          li.querySelector('.conv-del').addEventListener('click', function (e) {
+            e.stopPropagation();
+            if (!confirm('¿Borrar esta conversacion?')) return;
+            fetch('/chatbot/api/conversations/' + c.id, { method: 'DELETE' })
+              .then(function () {
+                if (c.id === convActual) {
+                  convActual = null;
+                  limpiarMensajes();
+                }
+                cargarListaConversaciones();
+              });
+          });
+          convList.appendChild(li);
+        });
+      })
+      .catch(function (e) {
+        convEmpty.classList.remove('hidden');
+        convEmpty.textContent = 'Error cargando conversaciones: ' + e.message;
+      });
+  }
+
+  function abrirConversacion(convId) {
+    convActual = convId;
+    limpiarMensajes();
+    fetch('/chatbot/api/conversations/' + convId)
+      .then(function (r) { return r.json(); })
+      .then(function (conv) {
+        (conv.turnos || []).forEach(renderTurno);
+        estado.textContent = 'Conversacion: ' + (conv.titulo || '');
+        cargarListaConversaciones();
+      })
+      .catch(function (e) {
+        estado.textContent = 'Error: ' + e.message;
+      });
+  }
+
+  // ---------- enviar ----------
+  function enviar() {
+    if (enviando) return;
+
+    const mensaje = (msgEl.value || '').trim();
+    if (!mensaje) { estado.textContent = 'Escribe que buscas.'; return; }
+    if (!clave.value.trim()) {
+      estado.textContent = 'Pega tu clave de OpenRouter en la barra lateral (⚙️ API key).';
+      return;
+    }
+    guardarClave();
+
+    enviando = true;
+    renderTurno({ rol: 'user', texto: mensaje });
+    msgEl.value = '';
+
+    btn.disabled = true;
+    estado.textContent = 'Consultando al modelo... (~1 min, 2 llamadas)';
+    mostrarTyping();
+
+    fetch('/chatbot/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        uid: uidEl.value,
+        mensaje: mensaje,
+        api_key: clave.value,
+        conv_id: convActual,
+      })
+    })
+    .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, d: d }; }); })
+    .then(function (res) {
+      quitarTyping();
+      if (!res.ok || !res.d.ok) {
+        const msg = (res.d && res.d.error) || 'Error desconocido';
+        estado.textContent = 'Error: ' + msg;
+        renderTurno({ rol: 'bot', texto: '⚠️ ' + msg, payload: { error: msg } });
+        return;
+      }
+      if (res.d.conv_id && res.d.conv_id !== convActual) {
+        convActual = res.d.conv_id;
+      }
+      renderTurno({
+        rol: 'bot',
+        texto: res.d.respuesta,
+        payload: {
+          resumen: res.d.respuesta,
+          productos: res.d.productos || [],
+          historial: res.d.historial || [],
+          advertencias: res.d.advertencias || [],
+        }
+      });
+      estado.textContent = 'Listo.';
+      cargarListaConversaciones();
+    })
+    .catch(function (e) {
+      quitarTyping();
+      estado.textContent = 'Error de red: ' + e.message;
+      renderTurno({ rol: 'bot', texto: '⚠️ Error de red: ' + e.message, payload: { error: e.message } });
+    })
+    .finally(function () {
+      enviando = false;
+      btn.disabled = false;
+      msgEl.focus();
+    });
+  }
+
+  btn.addEventListener('click', enviar);
+  msgEl.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      enviar();
+    }
+  });
+
+  uidEl.addEventListener('change', function () {
+    convActual = null;
+    limpiarMensajes();
+    cargarListaConversaciones();
+    estado.textContent = 'Usuario: ' + (uidEl.value || 'invitado');
+  });
+
+  nuevaConv.addEventListener('click', function () {
+    convActual = null;
+    limpiarMensajes();
+    estado.textContent = 'Conversacion nueva. Escribe tu primer mensaje o haz click en una categoría.';
+    msgEl.focus();
+  });
+
+  cargarListaConversaciones();
+  msgEl.focus();
+})();
+</script>
+{% endblock %}

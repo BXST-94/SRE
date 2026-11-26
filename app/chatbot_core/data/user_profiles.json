@@ -1,0 +1,5342 @@
+{
+ "AE7AB6KKVSAUOSFBL7TZZWS4EDEQ": {
+  "interacciones": 30,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Camera & Photo",
+   "Amazon Devices",
+   "Home Audio & Theater"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B08ZDF3WT3",
+    "titulo": "Monoprice 121822 24k Gold Plated Speaker Banana Plugs, Closed Screw Type (20 Pairs)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0016LC5VY",
+    "titulo": "3.5MM Stereo Male to Two RCA Female 6 inch",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07P9V8GSH",
+    "titulo": "SanDisk Ultra 32GB UHS-I/Class 10 Micro SDHC Memory Card With Adapter - SDSDQUAN-032G-G4A",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0034DUR6W",
+    "titulo": "STK LP-E6 Battery Charger for Canon EOS 5D Mark II III and IV, 70D, 5Ds, 6D, 5Ds, 80D, 7D and 7D Mark II, 60D Cameras, LP-E6 Battery, LC-E6 Charger",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B071KTPN2X",
+    "titulo": "ESR Case for The iPad Pro 10.5\"/iPad Air 3 2019, Premium Leather Business Multi-Functional Folio Stand Cover Hand Strap Pencil Holder Organizer Pocket Smart Auto Wake & Sleep Case, Brown",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01IEBMGTE",
+    "titulo": "COWIN E7 Tailor-made Headphone Case, Waterproof Zipper Hard Travel Portable Headphone Carrying Case, Perfectly Fit for E7 Over-ear Headphones - Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00EHZYWGM",
+    "titulo": "Amazon Basics Wireless Bluetooth Dual 3W Speaker with Built-in Microphone - Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01MDRUXNZ",
+    "titulo": "MyDigitalSSD BPX 80mm (2280) M.2 PCI Express 3.0 x4 (PCIe Gen3 x4) NVMe MLC SSD (480GB)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01K8B8YA8",
+    "titulo": "Echo Dot (2nd Generation) - Smart speaker with Alexa - White",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XUVGLEU",
+    "titulo": "Noctua NH-D15S, Premium Dual-Tower CPU Cooler with NF-A15 PWM 140mm Fan (Brown)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005TCOQIQ",
+    "titulo": "Pixel Wired remote Shutter Release Control compatible with CANON TC-80N3, fits Canon EOS 7D, 5D Mark II, 5D, 1D, 1D Mark II, 1D Mark III, 1D Mark IV, 1Ds, 1Ds Mark II, 50D, 40D, 30D, 20D, 10D, D60, D30, D2000,",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08Z3HBVCG",
+    "titulo": "Hoya 40.5 mm UV(C) Digital HMC Screw-in Filter,Y5UVC040",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0753GNMW2",
+    "titulo": "Amazon Basics Wired Computer Keyboard & Mouse, 10-Pack, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B077QGS9C6",
+    "titulo": "Rii i8+ Mini Bluetooth Keyboard with Touchpad＆QWERTY Keyboard, Backlit Portable Wireless Keyboard for Smartphones laptop/PC/Tablets/Windows/Mac/TV/Xbox/PS3/Raspberry Pi.Green",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BTLTFCVR",
+    "titulo": "TP-Link Nano 2-in-1 USB WiFi Bluetooth Adapter AC600(Archer T2UB Nano)- 2.4G/5G Dual Band Wireless Network Adapter for Desktop PC, Bluetooth 4.2, WPA3, Supports Windows 11,10, 8.1,8, 7",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07YC8BY1H",
+    "titulo": "Fasgear USB C to USB C Cable, 3ft 100W Fast Charger USB 3.1 Gen 2 Type C 10Gbps Cord, 5A Power Delivery (PD) with E-Marker Chip Compatible for Galaxy S10,iPad Pro 2018,Pixelbook,Macbook,Matebook (Red)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0961LFNFG",
+    "titulo": "TCL 50\" TV & Alto 8i Sound Bar",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07L92L2WW",
+    "titulo": "NVIDIA Shield TV | 4K HDR Streaming Media Player",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BW4QW6ZC",
+    "titulo": "TP-Link Deco AX3000 WiFi 6 Mesh System(Deco X55) - Covers up to 6500 Sq.Ft. , Replaces Wireless Router and Extender, 3 Gigabit ports per unit, supports Ethernet Backhaul (3-pack)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08F1P3BCC",
+    "titulo": "Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AE7I6HXHDKTAAD53XW2X63QFKMGQ": {
+  "interacciones": 31,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Industrial & Scientific"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B001W26TIW",
+    "titulo": "Mediabridge™ Ethernet Cable (50 Feet) - Supports Cat6 / Cat5e / Cat5 Standards, 550MHz, 10Gbps - RJ45 Computer Networking Cord (Part# 31-399-50X)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01A0ZRR50",
+    "titulo": "ViewSonic XG2401 24 Inch 1080p 1ms 144 Hz Gaming Monitor with FreeSync Premium Eye Care Advanced Ergonomics HDMI and DP,Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B075MJNR95",
+    "titulo": "EVGA DG-75 Matte Black Mid-Tower, 2 Sides of Tempered Glass, Gaming Case 150-B0-2020-KR",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08ZFSTR8F",
+    "titulo": "ZOSI H.265+ 8Channel 5MP Lite Hybrid 4-in-1 Analog/AHD/TVI/CVI Surveillance Video Recorders Standalone CCTV DVR System for 720P, 1080P Security Cameras, Remote Access, Motion Detection, No Hard Drive",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01054S5FM",
+    "titulo": "Screen Cleaner Kit - Best for LED & LCD TV, Computer Monitor, Laptop, and iPad Screens – Contains Over 1,572 Sprays in Each Large 16 Ounce Bottle – Includes Premium Microfiber Cloth",
+    "categoria": "",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BMR2S19",
+    "titulo": "uphere 140mm Case Fan 3-Pack Computer Case Fan with Advanced Hydraulic Bearing for Silent Operation Standard 140 mm Case Fan 3 Pack with 3 Pin & Molex /(BK143-3)",
+    "categoria": "Industrial & Scientific",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07X8DVDZZ",
+    "titulo": "G.Skill RipJaws V Series 16GB (2 x 8GB) 288-Pin SDRAM PC4-28800 DDR4 3600 CL16-19-19-39 1.35V Dual Channel Desktop Memory Model F4-3600C16D-16GVKC",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B56VC1GZ",
+    "titulo": "ELUTENG M.2 2280 Heatsink for PS5/PC Double-Sided Heat Sink Alloy Aluminum NGFF NVME Cooling Sink with 4 Thermal Conductivity Silicone Pads M.2 SSD Cooler Set for 2280 M.2 SSD",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B8T9RF31",
+    "titulo": "SABRENT 4TB Rocket NVMe PCIe M.2 2280 Internal SSD High Performance Solid State Drive (SB-ROCKET-4TB)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BM5FP56J",
+    "titulo": "AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BG8J11B5",
+    "titulo": "EVEO Premium Dual Monitor Stand 14-32”,Dual Monitor Mount VESA Bracket, Adjustable Gas Spring Monitor Stand for Desk Screen - Full Motion Dual Monitor Arm-Computer Monitor Stand for 2 Monitors -White",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08F98WSWH",
+    "titulo": "SABRENT USB Type C External Stereo Sound Adapter for Windows and Mac. Plug and Play No Drivers Needed. (AU-MMSC)",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BW7WYB4K",
+    "titulo": "WD 8TB My Book Desktop External Hard Drive, USB 3.0, External HDD with Password Protection and Backup Software - WDBBGB0080HBK-NESN",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C1GLFVK",
+    "titulo": "NewFantasia Replacement Earpads for Sennheiser HD598 / HD598 Cs / HD598SE / HD 598 SR / HD518 / HD558 / HD595 / HD599 / HD569 / HD579 Headphones Sheepskin Leather Memory Foam Ear Cushions",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07MC2ZSNY",
+    "titulo": "Brainwavz Velor Replacements Ear Pads - for ATH-M50X, SHURE, AKG, HifiMan, ATH, Philips, Fostex Velour Memory Foam Earpads & Many Over The Ear Headphones, Oval Black",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09P82VXTF",
+    "titulo": "USB C Hub, 7 in 1 USB C Hub Multiport Adapter with HDMI 4K@60hz Output, Power Delivery Type C Charging 7 Port Hub, USB Hub with SD Card Reader, 3.0 USB C Hub for Mac MacBook Pro XPS Surface Pro",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BP88GJVZ",
+    "titulo": "PHILIPS SHP9500 HiFi Precision Stereo Over-Ear Headphones (Black)",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09FLPZ395",
+    "titulo": "USB C Extension Cable,Besgoods 3ft USB 3.2 USB-C Male to Female Extender Cord 5A Fast Charge&10Gbps Sync for USB C Hub/Dongle,Thunderbolt 3 Port,MacBook Pro,iPad,Dell XPS 13,Switch,SSD-2Pack,Black&Red",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08Q4JC37M",
+    "titulo": "Creative Sound Blaster GC7 Game Streaming DAC Amp ft Programmable Buttons, Super X-Fi, 7.1 Virtual Surround, Battle Mode, Scout Mode, GameVoice Mix, for PC, PS4/PS5, Nintendo Switch, Xbox",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BLBXQ3NB",
+    "titulo": "Cooler Master Tempest GP27Q 27\" 2K WQHD 2560 x 1440 Quantum Dot MiniLED Gaming Monitor, HDR1000 Ready, FreeSync/G-Sync, 165Hz, 1ms Response, 98% DCI-P3, VESA Mounting Tilt & Swivel Adjustment",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEBGPQYBCUI5ISFFEBIQU427VV3A": {
+  "interacciones": 19,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Home Audio & Theater"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B06XRSM8BW",
+    "titulo": "Powerextra Professional Waterproof Camera Rain Cover Protector for Nikon Sony Pentax and Other Digital SLR Cameras, Great for Rain Dirt Sand Snow Protection (Black)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B074PP3ZPF",
+    "titulo": "Sony Noise Cancelling Headphones WH1000XM2: Over Ear Wireless Bluetooth Headphones with Microphone - Hi Res Audio and Active Sound Cancellation - Gold (2017 model)",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00IDV1AMA",
+    "titulo": "EBL D Cell Batteries 10,000mAh Ultra Pro Ni-MH Rechargeable D Batteries, 4-Pack",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XXFDHM6",
+    "titulo": "EBL LCD Individual Battery Charger for AA AAA C D 9V NiMH Ni-CD Rechargeable Batteries with Discharge Function & 2 USB Port for Charging Phone and iPAD - Upgraded Charger",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07R7KZCNM",
+    "titulo": "[2 Pack] Paper Screen Protector for iPad 9.7 (6th/5th Gen, 2018/2017), iPad Pro 9.7, iPad Air 2, Air 1, Anti Glare Matte Paper Screen Protector - Write, Draw, Sketch with Apple Pencil as Using on Paper",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B53FNQFT",
+    "titulo": "Keyboard Case for iPad Pro 11 inch，iPad Air 5th 4th Generation Case with Keyboard，Touch Trackpad -360° Protective with Apple Pencil Holder for iPad Pro 11 inch 2022(4th Gen)/2021(3rd Gen)/2nd/1st Gen",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CWF332K",
+    "titulo": "Amazon Basics Double Braided Nylon USB Type-C to Type-A 3.1 Gen 1 Charger Cable | 3 feet, Silver",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07PXNPWTW",
+    "titulo": "TechMatte Charging Adapter Compatible with Apple Pencil 1st Generation, Female to Female Charger Connector (2-Pack)",
+    "categoria": "All Electronics",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09FYWWVB8",
+    "titulo": "CloudValley Webcam Cover Slide[2-Pack], 0.023 Inch Ultra-Thin Metal Web Camera Cover for MacBook Pro, iMac, Laptop, PC, iPad Pro, iPhone 8/7/6 Plus, Protect Your Visual Prvacy [Black]",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WFYXKXX",
+    "titulo": "XIRON 2 Pack Paper Screen Protector for iPad Air 3 (2019) 10.5 inch, iPad Pro 10.5 (2017), Matte PET Film for iPad Pro/Air 10.5, Write and Draw Like on Paper, Anti-Glare Screen Protector",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Z68YXWN",
+    "titulo": "WiFi Extender Repeater for 2.4 and 5G 1200Mbps WiFi Signal Booster Amplifier with 4 External Antennas WiFi Range Extender with Router/AP/Repeater Mode",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01KM6EJOY",
+    "titulo": "QWERKYTOYS Qwerkywriter S Typewriter Inspired Retro Mechanical Wired & Wireless Keyboard with Tablet Stand",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01AI2YGK4",
+    "titulo": "NB North Bayou Monitor Desk Mount Stand Full Motion Swivel Monitor Arm with Gas Spring for 17-30''Computer Monitors(Within 4.4lbs to 19.8lbs) F80",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B017LSIXDE",
+    "titulo": "Amazon Basics Rectangular 6-Outlet, 200 Joule Surge Protector Power Strip, 2 Foot, White - Pack of 2",
+    "categoria": "Home Audio & Theater",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07H42QXF1",
+    "titulo": "ARRIS SURFboard SBG10 DOCSIS 3.0 16 x 4 Gigabit Cable Modem & AC1600 Wi-Fi Router , Comcast Xfinity, Cox, Spectrum , Two 1 Gbps Ports , 400 Mbps Max Internet Speeds , SURFboard App",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BWMXQZ32",
+    "titulo": "Surge Protector Power Strip with USB, TROND Ultra Thin Flat Plug 10ft Long Extension Cord 1625W, 3 USB A & 1 Type C, 4 AC Outlets 1440J Surge Protection Wall Mount for Home Office Dorm Room, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09YLRS99D",
+    "titulo": "USB C Hub HDMI Adapter for MacBook Pro 2019/2018/2017, MOKiN 5 in 1 Dongle USB-C to HDMI, Sd/TF Card Reader and 2 Ports USB 3.0 (Space Gray)",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08T79LKSB",
+    "titulo": "Mini Projector, GooDee W18 WiFi Movie Projector with Synchronize Smartphone Screen with 1080P Support and 200’’ Video Projector Support TV Stick, HDMI, VGA, USB, Laptop, PS4, and iOS/Android Phone",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B076GVVB6R",
+    "titulo": "DanYee Cat 7 Ethernet Cable, Nylon Braided 6.5ft CAT7 High Speed Professional Gold Plated Plug STP Wires CAT 7 RJ45 Ethernet Cable 3ft 10ft 16ft 26ft 33ft 50ft 66ft 100ft (Gold 6.5ft)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEC2PO4OZ5GUWTMOSIFW7ID7SF7A": {
+  "interacciones": 46,
+  "top_categorias": [
+   "All Electronics",
+   "Amazon Devices",
+   "Computers",
+   "Cell Phones & Accessories",
+   "Camera & Photo"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B07KYJDSWN",
+    "titulo": "Lamicall Gooseneck Tablet Holder, Tablet Mount : Flexible Arm Tablet Stand Compatible with iPad Mini, Pro, Air, Switch, Galaxy Tabs, More 4.7-10.5” Devices - Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09Y541Y3F",
+    "titulo": "ZANCHIE TV Wireless Headphones, Over Ear Headsets with RF Transmitter Charging Dock, Digital Stereo TV Watching Headsets Ideal for Seniors & Hearing Impaired",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B075NWYMRY",
+    "titulo": "NuPro Anti-Glare Screen Protector for Amazon Fire HD 10 Tablet (7th & 9th Generations - 2017 & 2019 releases) (2-Pack)",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B087D9VRGC",
+    "titulo": "OontZ Ultra SUP Paddleboard Bluetooth Speaker, Waterproof Bluetooth Speaker with Aux Input, 14 Watts, Crystal Clear Stereo Sound, Rich Bass, Portable Wireless Speaker up to 20 hrs Playtime (SUP-Blue)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07PZDSY7B",
+    "titulo": "60ft (18.3M) High Speed HDMI Cable Male to Male with Ethernet Black (60 Feet/18.3 Meters) Supports 4K 30Hz, 3D, 1080p and Audio Return CNE620107",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08FLSY2F7",
+    "titulo": "Echo Flex with Smart Clock",
+    "categoria": "Amazon Devices",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B093H9PY4L",
+    "titulo": "IVANKY 4K HDMI Cable 3.3 ft, High Speed 18Gbps HDMI 2.0 Cable, 4K HDR, HDCP 2.2, 3D, 2160P, 1080P, Ethernet - Braided HDMI Cord, Audio Return (ARC) Compatible UHD TV, Blu-ray, Projector",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07YNR1R2N",
+    "titulo": "RIF6 Sound Bar - 35 Inch Home Theater TV Soundbar with LED Display, Dual Built-in Subwoofers and 4 Equalizer Settings - Connects to Bluetooth, HDMI, AUX, RCA and USB",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09J49WZXQ",
+    "titulo": "JOUNIVO USB Microphone for Computer, PC/Laptop Mic, Mute Button with LED Indicator, 360 Degree Gooseneck Design, Desktop Microphone for Streaming, Recording, Dictation, Podcasting, YouTube, JV610",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0874DN1P7",
+    "titulo": "Made For Amazon, Smart Clock for Echo Flex",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08DMXDPW5",
+    "titulo": "Echo (4th Gen) | Glacier White with Sengled Bluetooth Color bulb | Alexa smart home starter kit",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07DF9QXVS",
+    "titulo": "TUSITA Protective Cover Compatible with Garmin Striker Plus 4,Plus 4cv, Vivid 4cv (NOT Support Striker 4 4cv 4dv) - Silicone Case 010-13129-00",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FZ3G7SC",
+    "titulo": "Esinkin Wireless Audio Receiver for Music Streaming Sound System Works with Smart Phones, Tablets and Car, Wireless Adapter for Speakers",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B4DCFYF9",
+    "titulo": "etguuds [2-Pack,2ft] USB C Cable 3A Fast Charge, USB A to Type C Charger Cord Braided Compatible with Samsung Galaxy S22 S21 S20 Ultra S10 S10E S9 5G, Note 20 10 9, A10e A20 A50 A51 A71 Moto G7 G8 G9",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BMLLFRHT",
+    "titulo": "Garmin Tilt/Swivel Mount for The Striker Plus 4/4Cv, 010-12439-10",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01M19AD67",
+    "titulo": "Extra Large 4 Pack 2 x 60 Inches Hook and Loop Strap, Reusable Fastening Cable Tie Down Straps by Wisdompro - Reusable, Durable Functional Cinch Cable Straps for Your Home, Office, Workspace",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078MBL6KM",
+    "titulo": "PERLESMITH Universal Table Top TV Stand for 22-65 Inch Flat Screen, LCD TVs Premium Height Adjustable Leg Stand Holds up to 110lbs, VESA up to 800x500mm",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B1LYJSW3",
+    "titulo": "Adhesive Mounts for GoPro Cameras - 3x Curved & 3x Flat Mounts Bundle W/ 3M Sticky Pads- Tape Mount to Your Helmet/Bike/Board/Car- Fits ALL Go Pro Models - Premium Camera Accessories - 1 Year Warranty",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B59D5468",
+    "titulo": "GoPro Gooseneck (All GoPro Cameras) - Official GoPro Mount",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B8PH3177",
+    "titulo": "SmartQ C368 USB 3.0 SD Card Reader, Plug N Play, Apple and Windows Compatible, Powered by USB, Supports CF/SD/SDHC/SCXC/MMC/MMC Micro, etc.",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AECBR53E2DN2ULLC2QGGYCPF4KDA": {
+  "interacciones": 55,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Home Audio & Theater",
+   "Camera & Photo",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B01G05YFZY",
+    "titulo": "Sonos Connect – Wireless Home Audio Receiver Component for Streaming Music, Amazon certified and Compatible with Alexa and Sonos Amp/Play:5/Beam Long Cable US (Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000YQBW5C",
+    "titulo": "Dayton Audio BS36 36\" LCR Speaker Bar Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0012KZNP4",
+    "titulo": "Pyle Home Compact Mini Stereo Power Amplifier-2x15 Watt Portable Dual Channel Home Audio Speaker Receiver Box w/ RCA Cable L/R Input For CD Player, Tuner, MP3, For Amplified Speakers Sound System PCA1",
+    "categoria": "Home Audio & Theater",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00IUUN6L2",
+    "titulo": "Universal TV Stand for TV with swivel and height adjustment",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CMK62QR",
+    "titulo": "Polaroid Cube+ 1440p Mini Lifestyle Action Camera with Wi-Fi & Image Stabilization (Red)",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00NXK3JTI",
+    "titulo": "Polaroid Helmet Mount for the Polaroid CUBE, CUBE+ HD Action Lifestyle Camera",
+    "categoria": "Camera & Photo",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08L4VBZ7Y",
+    "titulo": "GoPro AABAT-001 Camera Rechargeable Replacement Battery for HERO7 Black/HERO6 Black/HERO5 Black (GoPro Official Accessory)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0065DUJ0C",
+    "titulo": "Mediasonic ProBox K32-SU3 3.5\" SATA Hard Drive Enclosure - USB 3.0 SuperSpeed, Optimized for UASP & SATA 3 6.0Gbps hard drive transfer rate",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XGCK56D",
+    "titulo": "JAHMAI Fast Charging phone Charger portable plug Connector Compatible With Phone XS MAX/XR/XS/X/8/7/Tablet",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B071YPNMN1",
+    "titulo": "Blink XT Home Security Camera System - 3 Camera Kit - 1st Gen",
+    "categoria": "Amazon Devices",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009DUREHU",
+    "titulo": "Mediasonic ProBox 2 Port External SATA 3 / III 6.0 Gbps PCI Express Card HP1-SS3",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0792K2BK6",
+    "titulo": "Echo Dot (3rd Gen) - Smart speaker with Alexa - Heather Gray",
+    "categoria": "Amazon Devices",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00834SJ8K",
+    "titulo": "Syba SY-MRA55006 5.25\" Bay Tray Less Mobile Rack for 3.5\" and 2.5\" Sata III HDD with Extra 2 Port USB 3.0, Black/White",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BNVTZ3S",
+    "titulo": "Zyxel 5-Port Gigabit Ethernet Web Managed Switch | VLAN Support | Sturdy Metal Case | Desktop or Wall-Mount | Fanless | QoS | Ethernet Splitter | GS1200-5",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B59QBY9G",
+    "titulo": "Creative Pebble V2 - Minimalistic 2.0 USB-C Powered Desktop Speakers, 3.5 mm AUX-in, Up to 8W RMS Power for Computers and Laptops, Type-A Adapter Included and Extended Cable (Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Q41YB14",
+    "titulo": "Pyle PCA1.5 2x15 Watt Stereo Power Amplifier - Compact Mini 2-Channel Portable Home Audio Speaker Receiver Box for Amplified Speakers Sound System with RCA Cable L/R Input for CD Player, Tuner, MP3",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08FNT65ZN",
+    "titulo": "TCL 65\" TV & Alto 9+ w/ Subwoofer",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BG7KP5L4",
+    "titulo": "Logitech Signature M650 L Full Size Wireless Mouse - For Large Sized Hands, 2-Year Battery, Silent Clicks, Customizable Side Buttons, Bluetooth, for PC/Mac/Multi-Device/Chromebook - Classic Red",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZT5GQGJ",
+    "titulo": "Amazon Basics HDMI Cable, 48Gbps High-Speed, 8K@60Hz, 4K@120Hz, Gold-Plated Plugs, Ethernet Ready, 3 Foot, Black",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B3S7JVND",
+    "titulo": "LG C2 Series 48-Inch Class OLED evo Smart TV OLED48C2PUA, 2022 - AI-Powered 4K TV, Alexa Built-in",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   }
+  ]
+ },
+ "AECNGDIYQOM7ICCGHRW7QUN2DEQQ": {
+  "interacciones": 27,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Industrial & Scientific",
+   "Cell Phones & Accessories",
+   "Office Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0C6J534BX",
+    "titulo": "2 Pack Apple Earbuds for iPhone Headphones Wired Earphones with Lightning Connector (Built-in Microphone & Volume Control)[Apple MFi Certified] Noise Isolating for iPhone 14/13/12/11/XR/XS/X/8/7 White",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000BSJFFC",
+    "titulo": "DTOL Charger Charging Cable for PS5 Controller, Xbox Series X, Xbox Series S Controller, Replacement USB C Cord Nylon Braided Type-C Ports Accessories for Nintendo Switch 2 Pack 10 Feet White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0979PNPCG",
+    "titulo": "iMBAPrice 100 Feet Long Telephone Extension Cord Phone Cable Line Wire - Black",
+    "categoria": "Office Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BML2MF98",
+    "titulo": "RTL-SDR Blog V3 R860 RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio with Dipole Antenna Kit (Silver)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08J97GRK7",
+    "titulo": "Apple 2020 iPad (10.2-inch, Wi-Fi, 128GB) - Space Gray (8th Generation)",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00COW5E3A",
+    "titulo": "DHT Electronics Handheld Antenna Cable SMA Male to UHF SO-239 Female Connectors 6'' Pack of 2 for Amplifier",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B081Q17ZRQ",
+    "titulo": "KASIMO CAT 8 Ethernet Cable 1 Feet, 10 Pack Black Shielded SFTP Internet Network Patch Cord, Heavy Duty High Speed LAN Cables w Gold Plated RJ45 Connector Professional for Router, Modem, Gaming",
+    "categoria": "Industrial & Scientific",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C682GZ5X",
+    "titulo": "NETGEAR Nighthawk Cable Modem CM1200 - Compatible with all Cable Providers including Xfinity by Comcast, Spectrum, Cox | For Cable Plans Up to 2 Gigabits | 4 x 1G Ethernet ports | DOCSIS 3.1, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GZFM1ZM",
+    "titulo": "Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision",
+    "categoria": "Amazon Devices",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09WR1JDYV",
+    "titulo": "Garmin Constant Power Cable, Compatible with Garmin Dash Cam, Fits Vehicle's OBD-II Port for Power Even When Parked and Turned Off",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Q7VHRF8",
+    "titulo": "Surface Car Charger, 42W 12V 2.58A Power Supply for Microsoft Surface Pro 3/Pro 4/Pro 5/Pro 6, Surface Book, Surface Go, Surface Laptop with 5V 2.1A USB Charging Port (5Ft Cord)",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08RF461WK",
+    "titulo": "Cambridge Audio Melomania Touch Earbuds, True Wireless Bluetooth 5.0, Hi-Fi Sound, in-Ear Stereo Ear Buds for iPhone and for Android (Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C381Y5CW",
+    "titulo": "Garmin Dash Cam Live, 24/7 Live View, Always-Connected Dash Cam",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FN14VTR",
+    "titulo": "Garmin Mini Suction Cup Mount for Speak, Plus, Dash Cam 45, 55 and 65W, 010-12530-05",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C7GM1QVC",
+    "titulo": "Simple Trending 2 Pack Monitor Stand Riser, Metal Desk Organizer Stand with Anti-Slip Suction Cup for Laptop, Computer, iMac, Pc, Printer, Black",
+    "categoria": "Amazon Home",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00EZMZTBO",
+    "titulo": "Amazon Basics USB-A to Mini USB 2.0 Fast Charging Cable, 480Mbps Transfer Speed with Gold-Plated Plugs, 3 Foot, Black",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C2P7CNWG",
+    "titulo": "Anker 4-Port USB 3.0 Ultra Slim Data Hub for Macbook, Mac Pro/mini, iMac, Surface Pro, XPS, Notebook PC, USB Flash Drives, Mobile HDD, and More",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07F2323RT",
+    "titulo": "TREE.NB PA3817U-1BRS Battery for Toshiba Satellite L755 C655 M645 L750P L600 L675 L675D L700 L745 L750D L755D M640 P745 Series, Fit PA3818u-1BRS PA3819U-1BRS …",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09L89GBTC",
+    "titulo": "ITD ITANDA USB Extension Cable USB 3.0 Extension Cord Type A Male to Female 5Gbps Data Transfer for Keyboard, Mouse, Playstation, Xbox, Flash Drive, Printer, Camera and More (10FT, Black)",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B1558113",
+    "titulo": "Folishine Ethernet Cable 25 ft, Supports Cat 8/ Cat 7 High Speed Flat Design Long Ethernet Cable, Shielded RJ45 Network Cable for Routers, PS4, Backward Compatible with Cat 6e/Cat6/Cat 5e/Cat5",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEDRCHOAWHFTL4RC3AGMNEP3DXRQ": {
+  "interacciones": 27,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Home Audio & Theater",
+   "Musical Instruments",
+   "Office Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B07889L6QH",
+    "titulo": "Monoprice Audio Cable - 10 Feet - Black | Premium Stereo Male to 2 RCA Male 22AWG, Gold Plated",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08CTRW5GX",
+    "titulo": "OREI 4K@60Hz 1 in 2 Out HDMI Duplicator Splitter - with Scaler 1x2 2 Ports with Full Ultra HD, HDCP 2.2, 4K at 60Hz 4: 4: 4 1080p & 3D Supports EDID Control - UHD-PRO102",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B088DDDF3X",
+    "titulo": "uscce Digital Colorful Alarm Clock Radio - 0-100% Dimmer, Dual Alarm with Weekday/Weekend Mode, 6 Sounds Adjustable Volume, FM Radio w/Sleep Timer, 2 USB Charging Ports, Thermometer, Battery Backup",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BW4PFM58",
+    "titulo": "OontZ Angle 3 Bluetooth Speaker, Portable Wireless Bluetooth 5.0 Speaker, 10 Watts, Crystal Clear Stereo Sound, Rich Bass, IPX5 Water Resistant, Loud Portable Bluetooth Speaker (Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0831FCRW2",
+    "titulo": "4k HDR HDMI Switch, Koopman 4 Ports HDMI 2.0 Switcher Selector with IR Remote Control, Supports HDCP 2.2 4K@60Hz UltraHD HDR10 3D HD1080P Dolby DST, HDMI Splitter for PS4 Xbox Apple TV Fire Stick",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09RS2KZK4",
+    "titulo": "TP-Link USB WiFi Adapter for PC(TL-WN725N), N150 Wireless Network Adapter for Desktop - Nano Size WiFi Dongle for Windows 11/10/7/8/8.1/XP/ Mac OS 10.9-10.15 Linux Kernel 2.6.18-4.4.3, 2.4GHz Only",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0746MDWH9",
+    "titulo": "Amazon Basics HDMI Female to Female Coupler Adapter (2 Pack), 29 x 22mm, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BGNG1294",
+    "titulo": "Amazon Basics HDMI Cable, 18Gbps High-Speed, 4K@60Hz, 2160p, Ethernet Ready, 10 Foot, Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BD99CPHB",
+    "titulo": "Audio-Technica ATH-M50xBT2 Wireless Over-Ear Headphones, Black",
+    "categoria": "Musical Instruments",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00KFD0SYK",
+    "titulo": "NETGEAR 8-Port Gigabit Ethernet Unmanaged Switch (GS208) - Desktop, Ethernet Splitter, Silent Operation, Plug-and-Play",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08LXZPC1M",
+    "titulo": "Logitech MK345 Wireless Combo Full-Sized Keyboard with Palm Rest and Comfortable Right-Handed Mouse, 2.4 GHz Wireless USB Receiver, Compatible with PC, Laptop",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BBB289XK",
+    "titulo": "SNANSHI USB Extension Cable 10 ft, USB Extender Nylon Braided USB 3.0 Extension Cable for Webcam,Printer,USB Mouse/Keyboard, Flash Drive,USB Light",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08QPSB7R7",
+    "titulo": "Crucial Ballistix 3600 MHz DDR4 DRAM Desktop Gaming Memory Kit 32GB (16GBx2) CL16 BL2K16G36C16U4R (RED)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BCFFR6TD",
+    "titulo": "SanDisk 2TB Extreme Portable SSD - Up to 1050MB/s - USB-C, USB 3.2 Gen 2 - External Solid State Drive - SDSSDE61-2T00-G25",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BYDKWZQY",
+    "titulo": "Warrky 4K DisplayPort to HDMI Cable Adapter 15FT, [Aluminum Shell, Nylon Braided] High Speed (1440P 60Hz, 1080P 120Hz) Uni-Directional DP to HDMI Cord Compatible for Dell, HP, Samsung, More",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09854KSCF",
+    "titulo": "Logitech M330 SILENT PLUS Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 2-year Battery Life, Compatible with PC, Mac, Laptop, Chromebook - Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BKWMNK3J",
+    "titulo": "Crucial RAM 32GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Laptop Memory CT32G4SFD832A",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B5QKZW38",
+    "titulo": "Wireless Keyboard and Mouse Combo - Keyboard with Phone Holder, VIVEFOX 2.4GHz Silent USB Wireless Keyboard Mouse Combo, Full-Size Keyboard and Mouse for Computer, Desktop and Laptop (Pink)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09MLZ2SLM",
+    "titulo": "MillSO Headset Splitter for 2 TRRS Headphones or Mics 3FT - 3.5mm Jack Adapter TRRS 4-Pole Splitter Male to Dual Female Adapter Compatible for 2 Headsets, Microphones to Mobile Phone, Laptop - 3 Feet",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C211KFK4",
+    "titulo": "Falcon Dust, Off Compressed Gas (152a) Disposable Cleaning Duster, 1, Count, 3.5 oz Can (DPSJB),Black",
+    "categoria": "Office Products",
+    "rating": 3.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEGCKDJK2YKEYCGMSYI4EBTNDCVQ": {
+  "interacciones": 27,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Amazon Devices",
+   "Car Electronics"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B004KVLB9E",
+    "titulo": "Clarion CX501 Double-DIN CD/Bluetooth/USB Receiver",
+    "categoria": "Car Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01BKPGDP4",
+    "titulo": "TP-LINK Archer C7 AC1750 Dual Band Wireless AC Gigabit Router, 2.4GHz 450Mbps+5Ghz 1300Mbps, 2 USB Port, IPv6, Guest Network (Renewed)",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00JJR9FGU",
+    "titulo": "StarTech.com Cat5e Ethernet Cable - 10 ft - Black - Patch Cable - Molded Cat5e Cable - Network Cable - Ethernet Cord - Cat 5e Cable - 10ft (M45PATCH10BK)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00N8RB7JK",
+    "titulo": "UGREEN Network Adapter USB 3.0 to Ethernet RJ45 Lan Gigabit Adapter for 10/100/1000 Mbps Ethernet Supports Nintendo Switch Silver",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005UZHB6G",
+    "titulo": "HDE 20+4 Pin LCD Power Supply Tester for ATX, ITX, BTX, PCI-E, SATA, HDD",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00J4FJC8I",
+    "titulo": "EXCELVAN 5.25\" Multi-Function Media Dashboard Front Panel All-in-One Card Reader USB 2.0 USB3.0 20Pin ESATA SATA",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01CDVSBPO",
+    "titulo": "KuGi Raspberry Pi 3 Model B case PC Protective Case with 2x Heatsinks for Raspberry Pi 3 Model B+ ,Raspberry Pi 3 Model B, Pi 2 Model B & Pi Model B+ (Clear)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B2MTJHQW",
+    "titulo": "Creative Sound Blaster Audigy FX PCIe 5.1 Sound Card with High Performance Headphone Amp",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BMJ89V4P",
+    "titulo": "NETGEAR 24-Port Gigabit Ethernet Unmanaged Switch (JGS524) - Desktop or Rackmount, and Limited Lifetime Protection",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B083QB4T1P",
+    "titulo": "0.96 Inch Yellow and Blue I2C IIC Serial 128X64 OLED Display Module for Arduino",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B086QGXBRW",
+    "titulo": "HiLetgo 1PC ESP8266 NodeMCU CP2102 ESP-12E Development Board Open Source Serial Module Works Great for Arduino IDE/Micropython (Small)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B015PRO512",
+    "titulo": "Ubiquiti Networks Unifi 802.11ac Dual-Radio PRO Access Point (UAP-AC-PRO-US), Single,White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09M3TZ3Q6",
+    "titulo": "Z&T 130pcs Solderless Flexible Breadboard Jumper Wires Kit Male to Male 12 16 20 25cm Optional， Multicolored Arduino Wires Dupont Ribbon Cables for DIY Electronic Projects Raspberry PI",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B075KZTN4J",
+    "titulo": "Echo Spot - Smart Alarm Clock with Alexa - White",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07456BG8N",
+    "titulo": "Echo (2nd Generation) - Smart speaker with Alexa and Dolby processing - Charcoal Fabric",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BJCWSXN",
+    "titulo": "JacobsParts 5V 4A 20W Power Adapter for USB Hubs 3.5mm x 1.35mm",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B636J9N2",
+    "titulo": "Anker [2-Pack, 6ft] PowerLine+ USB-C to USB-A, Double-Braided Nylon Fast Charging Cable, for Samsung Galaxy S9/S9+/S8/S8+/Note 8, MacBook, LG V20/G5/G6, and More (Red)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B017JJ06IU",
+    "titulo": "GRIFITI Nootle Heavy Duty Bike Bar Clamp Full Metal Construction 1/4 20 Threaded for Cameras and Phone Mounts",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01NAVO5PF",
+    "titulo": "Logitech MK850 Performance Wireless Keyboard and Mouse Combo",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B072JW9LT8",
+    "titulo": "Logitech Unifying Receiver, 2.4 GHz Wireless Technology, USB Plug Compatible with all Logitech Unifying Devices like Wireless Mouse and Keyboard, PC / Mac / Laptop - Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEHGGWYF3P55SJ7QNHND3ZQ732UA": {
+  "interacciones": 40,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Amazon Devices",
+   "Automotive",
+   "Cell Phones & Accessories"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00CCILYDA",
+    "titulo": "Funai Combination VCR and DVD Recorder (ZV427FX4)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00RBGYGPG",
+    "titulo": "SanDisk Ultra 64GB USB 3.0 OTG Flash Drive With micro USB connector For Android Mobile Devices(SDDD2-064G-G46)",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00RW10WBC",
+    "titulo": "UClear Digital Pulse Wired Drop-in High Definition Helmet Speakers",
+    "categoria": "Automotive",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZLBL1L9",
+    "titulo": "TP-Link 24 Port Gigabit Ethernet Switch | Desktop/ Rackmount | Limited Lifetime Protection | Plug & Play | Shielded Ports | Sturdy Metal | Fanless Quiet | Traffic Optimization | Unmanaged (TL-SG1024S)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000QGOPO0",
+    "titulo": "ACDelco GM Genuine Parts 15038566 Front Door Radio Speaker",
+    "categoria": "Automotive",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009OU8PRC",
+    "titulo": "EEEKit Bundle for Printer Switch,2 Port USB 2.0 Manual Printer Scanner Sharing Switch Hub 2 PC to 1 Splitter Adapter,2 Pack USB A to B Printer Cable",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0753R71ZH",
+    "titulo": "Amazon Basics Ventilated Adjustable Laptop Computer Desk Stand, 6-Pack",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09TGJGSQD",
+    "titulo": "APC UPS Battery Replacement, APCRBC109, for APC UPS Models BX1500LCD BR1500LCD, BR1200G, BR1300LCD, BX1300LCD, BN1250LCD and select others",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07F3WM4H7",
+    "titulo": "ABLEGRID Charger Compatible with Swann Lorex Q-See Security Camera 12V 5A 60W 2-Prong Plug AC to DC 2.5x5.5mm w/8-Way Power Splitter Cable Power Supply for CCTV Security Camera DVR, LED Strip Lights",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078LNJ2JR",
+    "titulo": "LUYED Super Bright 3020 6-EX LED backup Camera illumination system.NEWEST PATENT Auxiliary Reverse Light Enhances Backup camera performance at night (Black)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GZFM1ZM",
+    "titulo": "Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision",
+    "categoria": "Amazon Devices",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B092FKXJGX",
+    "titulo": "Jabra Speak 410 Corded Speakerphone for Softphones, MS-Optimized – Easy Setup, Portable USB Speaker for Holding Meetings Anywhere with Outstanding Sound Quality",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B095K2FSMJ",
+    "titulo": "UGREEN Cat 7 Ethernet Cable 6FT High Speed Braided Internet Cord Cat7 RJ45 Shielded Indoor Heavy Duty LAN Network Cables Compatible for Gaming PC PS5 PS4 PS3 Xbox Modem Router Smart TV 6FT",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08NQZ12WV",
+    "titulo": "Amazon eero Pro 6 mesh Wi-Fi 6 system | Fast and reliable gigabit speeds | connect 75+ devices | Coverage up to 3,500 sq. ft. | 2-pack, 2020 release",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09TB1MYCZ",
+    "titulo": "APC UPS Battery Replacement APCRBC154 for APC Back-UPS Models BE600M1, BE670M1, BN650M1, BN675M1",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B079ZNSHDN",
+    "titulo": "Tripp Lite 3 Outlet Portable Surge Protector Power Strip, Direct Plug In, $5,000 INSURANCE (SK3-0)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07D9KCG1T",
+    "titulo": "RCA Male to RCA Female Connectors Right Angle Plug Adapters M/F 90 Degree Elbow Gold-Plated (10 Black + 10 Red) (20-Pack)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078PDH6Z8",
+    "titulo": "AMTIFO RV Backup Camera Wireless Touch-Key: Pre-Wired for Furrion System Recording Trailer Rear View Camera with 7-Inch Monitor Split Screen 4 Channels for Camper Tractor Motorhome A7",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C3NMZ2C7",
+    "titulo": "Fire TV Stick 4K, brilliant 4K streaming quality, TV and smart home controls, free and live TV",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C7CJQ7BJ",
+    "titulo": "COMSOON Bluetooth AUX Adapter for Car, Noise Reduction Bluetooth 5.0 Receiver for Music/Hands-Free Calls, Wireless Audio Receiver for Home Stereo/Speaker, 16H Battery Life/Dual Connect (Black+Gray)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AELOKI76FKJ7K4JKGLZ3ORJFDIOA": {
+  "interacciones": 30,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Home Audio & Theater",
+   "Amazon Home"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00NC088EA",
+    "titulo": "Acer Chromebook13 CB5-311-T9B0 (13.3-inch Full HD, NVIDIA Tegra K1, 2GB)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01GSHIRGM",
+    "titulo": "LG HBS-910 Tone Infinim Bluetooth Stereo Headset (Renewed) (Silver)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00BQ5RYI4",
+    "titulo": "Logitech Harmony Smart Control with Smartphone App and Simple All in One Remote - Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07953S2FD",
+    "titulo": "TP-Link EAP225-Outdoor | Omada AC1200 Wireless Gigabit Outdoor Access Point | Business WiFi Solution w/ Mesh Support, Seamless Roaming & MU-MIMO | PoE Powered | SDN Integrated | Cloud Access & App",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00MLZ467A",
+    "titulo": "Kingwin 140mm Silent Fan for Computer Cases, Mining Rig, CPU Coolers, Computer Cooling Fan, Long Life Bearing, and Provide Excellent Ventilation for PC Cases-[Black] CF-014LB",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00KXTZ3BE",
+    "titulo": "Mounting Dream TV Wall Mount for Most 26-55 Inch TVs, Full Motion TV Mount with Perfect Center Design, Articulating Mount Max VESA 400x400mm up to 77 LBS, Wall Mount TV Bracket MD2413-MX",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01B6ZOMIS",
+    "titulo": "UPTab DisplayPort 1.4 to HDMI 2.1 Active Adapter with HDR Support Displays 4k 120Hz up to 8K 60Hz with HDR - Connect PC or Tablet with DisplayPort to HDMI Enabled Monitor, TV or Projector",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CYJ4GS3",
+    "titulo": "Mushkin Pilot – 500GB PCIe NVMe – M.2 (2280) Internal Solid State Drive (SSD) – Gen3 x4 – 3D TLC - (MKNSSDPL500GB-D8)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09N42GVF7",
+    "titulo": "Corsair CMK32GX4M2F4000C19 Vengeance LPX 32GB (2x16GB) DDR4 4000 C19 1.35V Desktop Memory for Intel X299 Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07QXNDBF6",
+    "titulo": "Wall Mount Compatible with Echo Dot (3rd Gen) - Mounting Alternative for Your Alexa Smart Speaker (White, 1 Pack)",
+    "categoria": "Amazon Home",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09RS2KZK4",
+    "titulo": "TP-Link USB WiFi Adapter for PC(TL-WN725N), N150 Wireless Network Adapter for Desktop - Nano Size WiFi Dongle for Windows 11/10/7/8/8.1/XP/ Mac OS 10.9-10.15 Linux Kernel 2.6.18-4.4.3, 2.4GHz Only",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WNYZJ7Y",
+    "titulo": "PowerColor Red Dragon AMD Radeon RX 5700 XT 8GB AXRX 5700XT 8GBD6-3DHR/OC",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B9T8JKPD",
+    "titulo": "Noctua NF-P14r redux-1500 PWM, High Performance Cooling Fan, 4-Pin, 1500 RPM (140mm Grey)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Y4822BG",
+    "titulo": "SAMSUNG SWA-8500S 2.0 Speaker System Wall Mountable Black Model (SWA-8500S/ZA)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Q2GY97C",
+    "titulo": "Monoprice High Speed HDMI Cable - 1 Feet - Black| Certified Premium, 4K@60Hz, HDR, 18Gbps, 36AWG, YUV, 4:4:4 - Ultra Slim Series",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BHZ1GDVT",
+    "titulo": "Amazon Basics USB 2.0 Extension Cable - A-Male to A-Female Adapter Cord - 3.3 Feet (1 Meters) , Printer",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XAJD7NA",
+    "titulo": "Cable Matters Toslink Cable (Toslink Optical Cable, Digital Optical Audio Cable) 50 Feet with Metal Connectors and Braided Jacket",
+    "categoria": "All Electronics",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXPPZ3MK",
+    "titulo": "IVANKY Optical Audio Cable 10ft/3M, Slim Braided Fiber Audio Cable, Digital Optic Cord,Toslink Cable, Aluminum Shell, Gold-Plated for Sound Bar, TV, PS4, Xbox, Samsung, Vizio - CL3 Rated",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01BMJ1Y98",
+    "titulo": "KingWin AM2/AM3 Socket Retention Mounting Bracket (KWI-AM23-MB)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08KDX5H5Z",
+    "titulo": "Soundcore by Anker Life A2 NC Multi-Mode Noise Cancelling Wireless Earbuds, ANC Bluetooth Earbuds with 6-Mic Clear Calls, 35-Hr Playtime, and Deep Bass, Fast Charging, Transparency, and App",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   }
+  ]
+ },
+ "AENB356QSSQLE2NAMKE2CF7LGZ4A": {
+  "interacciones": 26,
+  "top_categorias": [
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Apple Products",
+   "Camera & Photo",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B079BQSPDZ",
+    "titulo": "Jiusion WiFi USB Digital Handheld Microscope, 50 to 1000x Wireless Magnification Endoscope 8 LED Mini Camera with Metal Stand Compatible with iPhone iPad Mac Windows Android",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08HT5G2NM",
+    "titulo": "Echo Show 5 (Charcoal) with All-new Blink Outdoor- 3 camera kit",
+    "categoria": "Amazon Devices",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BLNQ6B3L",
+    "titulo": "Power Strip - 10ft Long Extension Cord with USB C Ports, 3 Outlets 4 USB Desktop Charging Station, Flat Plug Power Strip Non Surge Protector for Cruise Ship, Travel Essetials, ETL Listed",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B071FXZBMV",
+    "titulo": "Cable Clips, OHill 16 Pack Black Adhesive Cord Holders, Ideal Cords Management for Organizing Cable Wires-Home, Office, Car, Desk & Nightstand",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00NHS96PW",
+    "titulo": "Mounting Dream Tilt TV Wall Mount TV Bracket for Most of 42-70 Inches TV, TV Mount Tilt up to 20 Degrees with VESA 200x100 to 600x400mm and Loading 132 lbs, Fits 16\", 18\", 24\" Studs MD2165-LK",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09B4X5MF2",
+    "titulo": "Power Strip Surge Protector, SUPERDANNY 15Ft Long Extension Cord with 6 USB Charging Ports and 22 AC Outlets, 1875W/15A, 2100 Joules, Flat Plug Power Outlet for Home, Office, Dorm, Gaming Room, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BKGW4MDY",
+    "titulo": "[Apple MFi Certified] USB C to Lightning Cable 3Pack 6FT iPhone Fast Charger Cable Type C Charging Cord Compatible with iPhone 14 13 13 Pro Max 12 12 Pro Max 11 XS XR X 8 iPad,White",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09HLD1C4F",
+    "titulo": "TP-Link Deco Powerline Mesh WiFi 6 System (Deco PX50), Covers up to 6,500 sq.ft, Replaces Routers and Extenders, Signal Through Walls and Floors, Compatible with Alexa and Google Home, 3-Pack",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BNN1H94G",
+    "titulo": "Outlet Wall Mount for Blink Sync Module 2, Mount Bracket Holder for Blink Outdoor Camera No Messy Wires Outdoor and Indoor Home Security Camera Mount with Short Cable (2 Pack)…",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C337TNGS",
+    "titulo": "Beats Powerbeats Pro Wireless Earbuds - Apple H1 Headphone Chip, Class 1 Bluetooth Headphones, 9 Hours of Listening Time, Sweat Resistant, Built-in Microphone - Ivory",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B3J6BWH2",
+    "titulo": "cimetech Wireless Mouse, 2.4G Wireless Ergonomic Optical Mouse, Slim Silent Mouse with USB Receiver and 3 Adjustable DPI Cordless Computer Mouse for Laptop, Desktop, MacBook, PC (Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BM2YG2K7",
+    "titulo": "Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts, and Alexa enabled — wired or wire-free (White)",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0961LFNFG",
+    "titulo": "TCL 50\" TV & Alto 8i Sound Bar",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B1VWCFXZ",
+    "titulo": "Apple Watch SE (Gen 1) [GPS 40mm] Smart Watch w/Silver Aluminium Case with Abyss Blue Sport Band. Fitness & Activity Tracker, Heart Rate Monitor, Retina Display, Water Resistant",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C38XWF4T",
+    "titulo": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 22 Hours of Listening Time, Built-in Microphone - Defiant Black-Red (Latest Model)",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0951TMG1F",
+    "titulo": "ProCase iPad 9.7 Inch Case iPad 6th 5th Generation Cases, iPad Air 2, iPad Air Case, Slim Soft TPU Cover Stand Smart Case for iPad 9.7 2018 2017 Model iPad Air 2 Air 1 -Teal",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BMG8VFNW",
+    "titulo": "Desktop Power Strip with 3 Outlet 4 USB Ports 4.5A, Flat Plug and 5 ft Long Braided Extension Cords for Cruise Ship Travel Home Office, ETL Listed",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BJPSZ739",
+    "titulo": "Apple Pencil (1st Generation)",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07XXWZKBT",
+    "titulo": "apiker 2 Pack Screen Protector Compatible with iPad 9th 8th 7th Generation 10.2 Inch, Tempered Glass for iPad 9 8 7 (2021/2020/2019)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08P6B8GR9",
+    "titulo": "Mastten Case Compatible with iPad 9th/8th/7th Generation Case, iPad 10.2 Inch Case with Pencil Holder, TPU Smart Stand Back Case Cover for iPad Case 2021/2020/2019, Auto Wake/Sleep, Blue Camo",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AEO7E45QXEXKUQASKINMDTBA7DDA": {
+  "interacciones": 25,
+  "top_categorias": [
+   "Computers",
+   "Home Audio & Theater",
+   "All Electronics",
+   "Automotive",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B004VMM718",
+    "titulo": "Cloth Addiction Microfiber Screen Cleaning Cloth 2-pack",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007GR44PM",
+    "titulo": "Tap2Pass Receiver",
+    "categoria": "Automotive",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0080S2XMC",
+    "titulo": "RCA HP59MIC Noise-Isolating Stereo In-Ear Earbuds with In-Line Microphone (Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003PL0AME",
+    "titulo": "Belkin Fusive Portable Bluetooth Speaker (Discontinued by Manufacturer)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00HQYJ3E2",
+    "titulo": "Spracht Conference Mate Portable NFC Enabled Bluetooth Speakerphone, Black",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B084DWF13J",
+    "titulo": "3M Privacy Filter for Dell 2 In1 Latitude 5285/5290 with Comply Attachment System (PFNDE010), 12.3\"",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00H8K2DQ4",
+    "titulo": "Buffalo Anti-Glare Screen Protector Kit for Kindle Fire HDX 7\" (will only fit Kindle Fire HDX 7\"), 2 pack",
+    "categoria": "Amazon Devices",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00NAOZNR8",
+    "titulo": "Logitech H570e Wired Headset, Mono Headphones with Noise-Cancelling Microphone, USB, In-Line Controls with Mute Button, Indicator LED, PC/Mac/Laptop - Black",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009UNGYHG",
+    "titulo": "Poly (Plantronics + Polycom) Voyager Legend Portable Charge Case - Headset Case Charger, black",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B010NA2NBU",
+    "titulo": "Philips Performance Earphones with Mic - Black (SHE9105/27)",
+    "categoria": "Home Audio & Theater",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XKN45EQ",
+    "titulo": "Case Logic Arca 13-Inch Laptop Carrying Case (ARC-113 Black)",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0119FYO74",
+    "titulo": "Epson VS240 SVGA 3LCD Projector 3000 Lumens Color Brightness",
+    "categoria": "",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BGNG1294",
+    "titulo": "Amazon Basics HDMI Cable, 18Gbps High-Speed, 4K@60Hz, 2160p, Ethernet Ready, 10 Foot, Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01G48RH20",
+    "titulo": "Bang & Olufsen Beoplay H5 Wireless Bluetooth Earbuds - Black - 1643426",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09854KSCF",
+    "titulo": "Logitech M330 SILENT PLUS Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 2-year Battery Life, Compatible with PC, Mac, Laptop, Chromebook - Black",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07JDGZ8KY",
+    "titulo": "NewFantasia Replacement Audio Upgrade Cable Compatible with Bose QuietComfort 25, QuietComfort 35, QC25, QC35 II, QC35 Headphones 1.5meters/4.9feet",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06VSWQDHJ",
+    "titulo": "Samsung Galaxy Tab S3 Keyboard Cover, Grey (EJ-FT820USEGUJ)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CGRDKP6",
+    "titulo": "Fit & Fresh Protective Laptop Sleeve with Zippered Storage Pocket, Laptop Bag fits Apple/Microsoft/Acer/Samsung/Google/Lenovo with up to 15.6\" Displays, Space Dyed, Gray",
+    "categoria": "Amazon Home",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C6JCFY5",
+    "titulo": "Logitech MX900 Performance Premium Backlit Keyboard and MX Master Mouse Combo , Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07LFVL4NF",
+    "titulo": "NETGEAR SRR60-100NAS - Discontinued by Manufacturer",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   }
+  ]
+ },
+ "AER2OVSX7L6N3DRGPFVUKECR2ABA": {
+  "interacciones": 25,
+  "top_categorias": [
+   "Home Audio & Theater",
+   "Camera & Photo",
+   "Cell Phones & Accessories",
+   "All Electronics",
+   "Computers"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00NTQ2JL0",
+    "titulo": "Elgato Game Capture HD60 - Next Generation Gameplay Sharing for Playstation 4, Xbox One & Xbox 360, 1080p Quality with 60 fps",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00JIXRXKA",
+    "titulo": "JJC MC-SD12 Water Resistant Holder Storage Memory Card Case fits 12 SD Cards",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00906D9GM",
+    "titulo": "2 Pack Battery and Charger Kit for Nikon D3500, D5600, D5500, D5300, D3400,D3300, D5200, D5100, D3100, D3200, Nikon Df DSLR Includes 2 Replacement Nikon EN-EL14a, EN-EL14 Batteries (Fully Decoded!) +",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00GJVF766",
+    "titulo": "Beats Pill 2.0 Portable Speaker - Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08P72Y8MN",
+    "titulo": "Fujifilm Instax Mini Variety Film Value Pack 60 Count",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BVFTMCC",
+    "titulo": "Bastex iPod Touch 4 Case, Hybrid Slim Fit Black Rubber Silicone Cover Hard Plastic Purple & Black Shock Case for Apple iPod Touch 4, 4th Generation",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007JFAE14",
+    "titulo": "Snap-on Protector Hybrid Hard/Gel Case for Apple iPod Touch 4th Generation / 4th Gen - White/Black",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07KPLTMYB",
+    "titulo": "Fujifilm INSTAX Mini Instant Film Twin Pack (White) - International Version",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B014TUZ92U",
+    "titulo": "Fujifilm Instax Mini 8 Instant Film Camera (Black) (Discontinued by Manufacturer)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0009RKL6C",
+    "titulo": "TDK 16X DVD+R 50 Pack Spindle, model # DVD+R47FCCB50*M",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001MZXUI6",
+    "titulo": "Mediabridge™ HDMI Cable (3 Feet) Supports 4K@60Hz, High Speed, Hand-Tested, HDMI 2.0 Ready - UHD, 18Gbps, Audio Return Channel",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0019EHU8G",
+    "titulo": "Mediabridge™ HDMI Cable (6 Feet) Supports 4K@60Hz, High Speed, Hand-Tested, HDMI 2.0 Ready - UHD, 18Gbps, Audio Return Channel",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B012VWH6PQ",
+    "titulo": "Anker PowerLine Micro USB (3ft) - Durable Charging Cable, with 5000+ Bend Lifespan for Samsung, Nexus, LG, Motorola, Android Smartphones and More",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08MXVP2CL",
+    "titulo": "APC Power Strip with USB Charging Ports, Surge Protector P8U2, 2630 Joules, Flat Plug, 8 Outlets",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00V3KLZSW",
+    "titulo": "iGotTech Cable Clips and Cord Management System 6 Pack of Dual Slotted Adhesive Desktop Cable Organizers | Phone & Computer Wire Holder (Multicolor)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01D2PRL42",
+    "titulo": "Mudder 12 Pack Multipurpose Cable Clips Holders Cord Management System for Computer, Charging or Mouse Cord, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BRJH53N7",
+    "titulo": "Monoprice Hook & Loop Fastening Cable Ties 6inch, 100pcs/Pack - Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01I0VD8JA",
+    "titulo": "Anker iPhone Charger Cable [3-Pack] Powerline Lightning Cable (3ft) MFi Certified—Lightning Cables for iPhone SE / 11/11 Pro / 11 Pro Max/XS/XS Max/XR / 8, iPad 8, and More",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BSRGRWNG",
+    "titulo": "Cable Matters Unidirectional DisplayPort to HDMI Adapter Cable (DP to HDMI) 35 Feet",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B079L1RSF7",
+    "titulo": "meross Outdoor Smart Plug, Outdoor Wifi Outlet with 2 Grounded Outlets, Remote Control, Timer, Waterproof, Support Amazon Alexa, Google Assistant, SmartThings and IFTTT, FCC Certified",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AF4UUTPH6AYENZHPYYIWNK2SZZWA": {
+  "interacciones": 61,
+  "top_categorias": [
+   "Camera & Photo",
+   "Computers",
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Car Electronics"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B09Z5YPGY2",
+    "titulo": "USA GEAR Professional Camera Grip Hand Strap with Galaxy Neoprene Design and Metal Plate - Compatible with Canon , Fujifilm , Nikon , Sony and more DSLR , Mirrorless , Point & Shoot Cameras",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003WD2SLQ",
+    "titulo": "A&R BRAND Professional 58mm Digital Tulip Flower Lens Hood For canon 18-55mm , 28-80mm , 28-90mm , 28-105mm , 55-250mm , 70-300mm , 75-300mm , 100-300mm , 50mm 1.4 , 85mm 1.8 with Lens cap Holder and Lens cleaning Kit",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07NR9NF42",
+    "titulo": "Fotodiox Pro Auto Macro Extension Tube, 21mm Section - for Canon EOS EF/EF-s Lenses for Extreme Close-up with Autofocus and Auto-Exposure",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00DW1UNS8",
+    "titulo": "Lenovo IX2 2-Bay Diskless Network Storage (70A69003NA)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FCHTPJ4",
+    "titulo": "TECKNET Bluetooth Wireless Mouse, 3200 DPI Computer Mouse, 24-Month Battery Life and 6 Adjustable DPI Levels, 6 Buttons Compatible with Ipad Pro/Laptop/Surface Pro/Windows Computer/Chromebook-Red",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00GBA8X48",
+    "titulo": "GW Security 5MP HD 1920P Hidden Camera with IR LED 2592TVL 3.7mm Lens Wide Angle View Super Small Pinhole Camera",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005CLOFXU",
+    "titulo": "Crazy Cart USB Male A to 3x RCA AV A/V TV Adapter Lead Cable 5Feet",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0116TN7AS",
+    "titulo": "VCE CAT5e RJ45 Keystone Coupler Insert of 5 Pack, CAT5 Inline Coupler Female to Female UTP CAT5E Coupler Keystone - White",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01FCE77N6",
+    "titulo": "Xenocam CCTV Security Camera DC Male Power Plug Pigtail Cable - Pack of 10 (Black/Red)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003ZUQSUI",
+    "titulo": "Pyle Home PHCT45 Network Cable Tester",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01DA0Y7SW",
+    "titulo": "Air Mouse,MX3 Pro Backlit Mini Keyboard,Voice Remote Control,Mini Wireless Keyboard & IR Learning Air Mouse Remote,Best for Raspberry Pi 4 Android Smart Tv Box HTPC IPTV PC Pad Xbox",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C39QNX1",
+    "titulo": "NOAUKA Waterproof IP68 Night Vision 170 Degree Car Rear View/Reversing/Reverse Camera Universal Color CMOS Imaging Chip Backup Parking HD Front View Camera",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00W0SJ0HY",
+    "titulo": "JOOAN 1080P 8CH DVR Security Video Recorder P2P Service Mobile Remote Monitoring 8 Channel DVR Smartphone & PC Easy Remote Access 5 in 1 Multi-Function Digital Video Recorder (No hard disk inside)",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07TXGXVZ8",
+    "titulo": "Pioneer 6.8\" Double DIN Touchscreen Display, Apple iPhone and Android Music Support, Bluetooth in-Dash AM/FM Front USB Digital Multimedia Car Stereo Receiver/Free Alphasonik Earbuds",
+    "categoria": "Car Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01E7EPKUO",
+    "titulo": "Vantec SATA/IDE TO USB 3.0 Adapter (CB-ISA225-U3)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B4WNMWTK",
+    "titulo": "BATIGE Single Port USB 3.0 Male to Female AUX Car Mount Flush Cable Waterproof Extension for Car Truck Boat Motorcycle Dashboard Panel - 3ft",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09G3MBH6V",
+    "titulo": "NETGEAR Nighthawk Smart Wi-Fi Router, R6700 - AC1750 Wireless Speed Up to 1750 Mbps | Up to 1500 Sq Ft Coverage & 25 Devices | 4 x 1G Ethernet and 1 x 3.0 USB Ports | Armor Security",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078XDLDNM",
+    "titulo": "SMALLElectric iPhone Charger 3-Pack,3ft Lightning Cable, MFi-Certified iPhone Charger Cable 3 Foot Charging Cord for iPhone 12 11 Pro X XS Max XR/8 Plus/7 Plus/6/6s Plus/5s /5c/iPad Mini Air(red)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0072K1OWY",
+    "titulo": "Cable Matters UL Listed Rackmount or Wall Mount 1U 24 Port Network Patch Panel (19-inch Cat6 Patch Panel / RJ45 Patch Panel) for Gigabit Network Switch, 110 or Krone Impact Tools Compatible",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C7G97PSS",
+    "titulo": "KAMRUI AK1 Plus Mini PC, Intel 12th Gen N95(up to 3.4GHz) Mini Desktop Computers Windows 11 Pro, 8GB RAM/256GB M.2 SSD Micro Computer Tower Support 4K UHD, Dual Wi-Fi, BT 4.2 for Business Home Office",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AF4WDOI4R6G3TKYHADBFZR7PGGLA": {
+  "interacciones": 36,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Cell Phones & Accessories"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0BML16B3L",
+    "titulo": "CaSZLUTION Wall Mount and Under Desk Mount Laptop Holder, Universal Laptop Storage Bracket for Devices Up to 1.18\" Thick Macbooks, Surface, Keyboards, Tablets & More (Metal Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BTLWJFB3",
+    "titulo": "JUCONU Wireless HDMI Display Adapter,Video Mirroring Receiver,HDMI Cable Adapter Used for iPhone Mac iOS Casting/Mirroring to TV/Projector/Monitor",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BBRJNR6K",
+    "titulo": "CC Store Keyboard Case for iPad Pro 11\" 4th Gen 2022/3rd Gen 2021/2nd Gen 2020/1st Gen 2018,iPad Air 5th/4th Gen 10.9, Detachable Bluetooth Keyboard and Pencil Holder,Multi-Angle Adjustment (Blue)",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BTM3LBK5",
+    "titulo": "New Cord Management Organizer Kit 313Pcs Desk kit Organizers Accessories 6 Cable Sleeve Split 77Cable Clips 8Cord Clips Holder 22adhesive Cable Tie 200zip Ties for TV Office Computer Home Electronics",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BRM5YT4Y",
+    "titulo": "bagswan Laptop Backpack for Women Bookbag: 15.6 Inch Waterproof Computer Bags Stylish Business Travel BackPacks Purse with USB Charging Port Anti-theft Waterproof Work Bag for College Teacher",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZMCGTS3",
+    "titulo": "UGoCoCue for Airpods Pro 2nd Generation Case Cover 2022, Soft Silicone Skin Cover Shock-Absorbing Full Protective Case with Keychain&Lanyard, Compatible with New Airpods Pro Case [Front LED Visible]",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BVZQBP7R",
+    "titulo": "BOBOLEE Keyboard Case for iPad 10.9 inch Air 5th /4th 2020 (Not for 10th 10.9), iPad Pro 11 inch 2022 2021 2020 2018 Release, Wireless Detachable BT Backlit 7 Colors Keyboard, 360 Rotatable Slim Cover",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C8CYY9VY",
+    "titulo": "Samsung Galaxy Tab S8 Plus/S7 FE/S7 Plus 12.4” Keyboard Case, 7 Color Backlight Keyboard Protective Cover with Detachable Bluetooth Keyboard for Tab S7FE 2021/S7+ 2020/S8+ 2022-Black（Tab Not Included）",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BTKHPLP5",
+    "titulo": "tomtoc Vertical iPad Pro Tri-Mode Case for 12.9 Inch iPad Pro 6th/5th Gen (M2&M1), Protective Case with iPad Pencil Holder, Magnetic Kickstand for 3 Use Modes, Support iPad Pencil Wireless Charging",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BJZZBPQ6",
+    "titulo": "ProElife 12-13 Inches Tablet Sleeve Case for Surface Pro 9 13'' (2022) | iPad Pro 12.9'' with M2 2022 / M1 2021 Accessories Carrying Bag Canvas Sleeve Case for Travel, Office and School (Black)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BPCZ7JX2",
+    "titulo": "INI iPad Keyboard Case for iPad Air 10.9\" 5th & 4th Gen, 2022 iPad Pro 11\" 4th & 3rd & 2nd & 1st Gen with Trackpad Multifunctional Gesture Touchpad Magnetic Absorption Anti-Fingerprint & Anti-Scratch",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXKTTYQ5",
+    "titulo": "HOU iPad Air 5th Generation Case with Keyboard(2022),iPad pro 11 inch case with keyboard(4th/3rd/2nd/1st),iPad Air 4th Generation Case with Keyboard,Folio,Ultra Slim,Magnetic Charging,Adjustable Angle",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C8NF1L4J",
+    "titulo": "SIXFU Pencil Case for Apple Pencil 2nd Generation/Apple Pencil 1st Generation, Storage Case Design for Apple Pencil Tips Stylus iPad Pencil Accessories(White+Blue)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXP5GY5Z",
+    "titulo": "MoKo Universal Keyboard Case for 7\" - 8\" iPad Mini/Samsung Galaxy Tab A/Kindle Fire Tablets/Huawei Tablet, Lightweight Tablet Cover with Removable Wireless Bluetooth Keyboard - Indigo",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B3XBHLN4",
+    "titulo": "85W Wall Charger for Mac Book Pro 15/17 inch Retina (Made Mid 2010-Mid 2012), Replacement for Magnetic 1 L-Type Tip Adapter A1286 with USB Port, Portable Travel Laptop Power Supply",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZS266LR",
+    "titulo": "EooCoo Compatible with New MacBook Air 13.6 inch Case 2022 A2681 M2 Chip with Retina Display，Plastic Hard Shell Case + Keyboard Skin Cover + Screen Protector - Art Painting",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C7QKP43S",
+    "titulo": "Laptop Backpack,Commuting Backpack for Men,Work Backpack with Compartment,Durable Laptop Travel Backpack Anti-theft Business Laptop Bookbag with USB Charging Port,Best Backpack Water Resistance",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BRXJ4PGS",
+    "titulo": "ULANZI Super Suction Power Holder - for Tablet and Cell Phones, iPhone 13 Pro Max, iPad Pro 12.9/9.7, iPad, iPad Air 2, iPad Mini, Surface Pro Series, and Samsung Galaxy Suitable for Tab and Fire",
+    "categoria": "All Electronics",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXT5HMFN",
+    "titulo": "Laptop Docking Station, 8 in 1 iPad Pro USB C Hub, Type-C Tablet Stand with HDMI, 3.5mm Audio Jack, LAN, 100W PD Charging, 2*USB 3.0, SD/TF Card Reader, for iPad, MacBook, Samsung, Switch.",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C6GWM3XK",
+    "titulo": "Doohoeek Case for iPad Air 10.9\" & iPad Pro 11\", Compatible with Magic Keyboard, Magic-Keyboard-Compatible Case with Smart Connectors for iPad Air 10.9 inch & iPad Pro 11 inch, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AF7D4KJ6Q3UADU3KEJPWUVEX2XTA": {
+  "interacciones": 28,
+  "top_categorias": [
+   "All Electronics",
+   "Musical Instruments",
+   "Computers",
+   "Home Audio & Theater",
+   "Industrial & Scientific"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0C2VN9KW9",
+    "titulo": "Etymotic ER4XR Extended Response Earphone",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BSB17J1V",
+    "titulo": "Shure AONIC 5 Wired Sound Isolating Earbuds, High Definition Sound + Natural Bass, Three Drivers, Secure In-Ear Fit, Detachable Cable, Durable Quality, Compatible with Apple & Android Devices - Red",
+    "categoria": "Musical Instruments",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008LUNOH2",
+    "titulo": "Etymotic Research ER23-HF3-BLACK Noise-Isolating In-Ear Earphones with 3 Button Microphone Control,Black,With Mic",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09GNLLS7B",
+    "titulo": "Brainwavz Replacement Earpads for ATH M50X, M50BT, Steelseries Arctis, Pro Wireless & Stealth, HyperX Cloud, AKG, SHURE & Many More Headphones with Memory Foam Ear Pad Cushions (Brown)",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BLHMP8FL",
+    "titulo": "Shure RMCE-UNI Remote Mic Universal Communication Cable for Detachable SE Earbuds Earphones - 3.5mm Connector, 50-inches Long - Calls, Voice Prompts, Volume/Playback Control on Apple & Android Devices",
+    "categoria": "Musical Instruments",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07HYMWSGY",
+    "titulo": "Shure RMCE-BT2 High-Resolution Bluetooth 5.0 Communication Cable",
+    "categoria": "Musical Instruments",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BLM2HK53",
+    "titulo": "Shure EAYLF1-10 Yellow Foam Sleeves (10 Included/5 Pair), Replacements for E1, E3, E4, E5, SCL3, SCL4, SCL5, SE110, SE210, SE310, SE420, SE530, SE112, SE115, SE215, SE315, SE425, SE535 (EAYLF1-10)",
+    "categoria": "Musical Instruments",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07QFR15LW",
+    "titulo": "Godox V1-C Flash with Godox AK-R1 Accessories Kit for Canon, 76Ws 2.4G TTL Round Head Flash Speedlight, 1/8000 HSS, 1.5 sec. Recycle Time, 2600mAh Lithimu Battery, 10 Level LED Modeling Lamp",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01AYB5L9Y",
+    "titulo": "Seismic Audio Speakers Premium 1 Foot Dual RCA Male to Dual RCA Male Audio Patch Cables, Pack of 2, Red Color Cables, 2RCA to 2RCA Audio Cord",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07KWHWV1M",
+    "titulo": "Schiit Modi 3 D/A Converter - Delta-Sigma DAC (Silver)",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B071ZHF6KD",
+    "titulo": "KEF Q350 Bookshelf Speakers (Pair, Walnut)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01AH0TQ2K",
+    "titulo": "Mediabridge™ Banana Plugs - Corrosion-Resistant 24K Gold-Plated Connectors - 4 Pair/8 Banana Plugs (Part# SPC-BP2-4)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08Q3NGT1C",
+    "titulo": "Winegard Elite 360 Amplified Omnidirectional HDTV Antenna",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BWV31NF4",
+    "titulo": "Apple 2021 11-inch iPad Pro Wi-Fi + Cellular 256GB - Space Gray",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08XY3ZMWB",
+    "titulo": "ESR Clear Case Compatible with iPad Pro 11 Inch 2021 (3rd Generation), Soft Protective Back Shell, Supports Pencil 2 Wireless Charging, Project Zero Series, Clear",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B62NG1V7",
+    "titulo": "Logitech Combo Touch iPad Pro 11-inch (1st, 2nd, 3rd, 4th gen - 2018, 2020, 2021, 2022) Keyboard Case - Detachable Backlit Keyboard, Click-Anywhere Trackpad - Sand; USA Layout",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01AHGIDE6",
+    "titulo": "Tablift iPad Holder for Bed - Flexible Universal Tablet Stand - Mount - Bed or Table",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZX5PWXR",
+    "titulo": "Satechi R1 Multi-Angle Foldable Tablet Stand - Compatible with 2022 iPad Air M1, 2021 iPad Pro M1, 2020/2018 iPad Pro, iPhone 13 Pro Max/13 Pro/13 Mini/13, iPhone 12 Pro Max/12 Mini/12 (Blue)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08Y8XW37R",
+    "titulo": "Lamicall Tablet Pillow Stand, Pillow Soft Pad for Lap Tablet Holder Dock for Bed with 6 Viewing Angles, for iPad Pro 9.7, 10.5,12.9 Air Mini 4 3, Kindle, Galaxy Tab, E-Reader - Purplish Red",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WHNJ9H8",
+    "titulo": "MOBDIK [2 PACK] Paperfeel Screen Protector Compatible with iPad Pro 11 (2022&2021&2020&2018) / iPad Air 5th Generation / iPad Air 4th Generation (10.9 Inch), Write and Draw Like on Paper, Anti Glare with Easy Installation Kit",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFAQ7HPLSZ7A3XNRP4T7B5LGCSCA": {
+  "interacciones": 24,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Home Audio & Theater",
+   "Cell Phones & Accessories",
+   "Camera & Photo"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B007M4Z7GO",
+    "titulo": "TomTom START 55TM 5-Inch GPS Navigator with Lifetime Traffic & Maps and Roadside Assistance",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00EIB70N2",
+    "titulo": "FM Dipole Antenna - Male \"F\" connector",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00DHHOZBI",
+    "titulo": "Stellar Labs,Outdoor FM Antenna OMNIDIRECTIONAL",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003MTTJOY",
+    "titulo": "Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004OVECU0",
+    "titulo": "Logitech Harmony 650 Infrared All in One Remote Control, Universal Remote Logitech, Programmable Remote (Silver)",
+    "categoria": "Home Audio & Theater",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00M0SQM2U",
+    "titulo": "Klipsch R-10B Bluetooth Soundbar with Wireless Subwoofer (Satin Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01MQHCN8R",
+    "titulo": "Sony STRDH550 5.2 Channel 4K AV Receiver",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BPWSQ5DK",
+    "titulo": "Polk Monitor XT10 Home Subwoofer (2022 Model), 10\" Deep Bass Woofer, 100W Class D Amplification, Dolby Atmos, Auro 3D & DTS:X Compatible, Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B083TH1B45",
+    "titulo": "Cheetah Mounts APDAM3B Dual Articulating Arm TV Wall Mount Bracket for 20-65” TVs up to VESA 400 and 115lbs,Mounts on Studs up to 16”, Includes Twisted Veins 10’HDMI Cable and 6” 3-Axis Bubble Level",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00E4TOWR0",
+    "titulo": "HP Wired USB Keyboard K1500 (Black)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003U4R3IA",
+    "titulo": "Honeywell Intrusion 5800PIR-RES WIRLESS PIR, Residential",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07P1FN7KQ",
+    "titulo": "Logitech Speaker System Z323 with Subwoofer",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07D4F2P26",
+    "titulo": "Toshiba 43LF621U19 43-inch Smart 4K UHD TV - Fire TV",
+    "categoria": "",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BGH728LT",
+    "titulo": "BENFEI USB C to HDMI 10 Feet Cable, USB Type-C to HDMI Cable [Thunderbolt 3 Compatible] for MacBook Pro 2020/2019/2018, MacBook Air/iPad Pro 2018, Samsung Galaxy S10/S9, Surface Book 2 and More",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BNLJR5TB",
+    "titulo": "USB C to HDMI Cable 10ft 4K@60Hz, uni USB Type-C to HDMI Braided Cable (Thunderbolt 3 Compatible) with Samsung S21 / S20, MacBook Pro 2021/2020, MacBook Air/iPad Pro 2020, and More",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08CXLJXTG",
+    "titulo": "Surround Sound Speaker Stands for Satellite Speakers & Bookshelf Speakers up to 22lbs, Universal Floor Speaker Mount 26 Inch with Cable Management Black fits Most Speakers (PGSS6)",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08XMTG46N",
+    "titulo": "Zip Tie Mounts - Small Cable Tie Adhesive Mount, 3/4in black 100PCS. Wires Zip Tie Adhesive-backed anchors perfect for Pedal Board Cable Management Outdoor Indoor",
+    "categoria": "Tools & Home Improvement",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07H1KQ3SH",
+    "titulo": "U MUST HAVE Amplified Digital HD TV Antenna Long 250+ Miles Range - Support 4K 8K 1080p Fire tv Stick & All TV's - Indoor Smart Switch Amplifier Signal Booster - 18ft HDTV Cable/AC Adapter (White)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BL2DKZM",
+    "titulo": "5.5MM x 2.1MM 10Pack Male DC Power Plug Power Jack Adapter Connector&5.5MM x 2.1MM Female Dc Power Jack 3Pin Panel Mount Connector&10Pack Dustproof Plug, Lsgoodcare",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08XQJCRV8",
+    "titulo": "Foscam SD2X 18X Optical Zoom 1080P HD Outdoor PTZ Security Camera, 2.4g/5gHz WiFi IP Surveillance camera,Speed Dome, 165ft Night Vision, IP66, WDR, Built-in Audio, Works with Alexa Google Assistant",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFEABXSN7AXZUAXTXWPQ6TMYXGLA": {
+  "interacciones": 42,
+  "top_categorias": [
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Home Audio & Theater",
+   "Computers",
+   "Apple Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B01N75TWSA",
+    "titulo": "Amazon Basics Toslink Digital Optical Audio Cable, Multi-Channel, for Audio System, Sound Bar, Home Theatre, Gold-Plated Connectors, 9.8 Foot, Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01MRHYD9G",
+    "titulo": "Aiwa Exos-9 Infared Remote Control",
+    "categoria": "Home Audio & Theater",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07H5S7X4X",
+    "titulo": "TCL 75S425 75 Inch 4K UHD HDR Smart Roku TV (2019)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00L2LRV9O",
+    "titulo": "Kerr AC-04 Adapter",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FN14VTR",
+    "titulo": "Garmin Mini Suction Cup Mount for Speak, Plus, Dash Cam 45, 55 and 65W, 010-12530-05",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07G51PJL5",
+    "titulo": "Garmin DriveAssist 51 NA LMT-S w/Lifetime Maps/Traffic, Dash Cam, Camera-assisted Alerts, Lifetime Maps/Traffic,Live Parking, Smart Notifications, Voice Activation",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XIVH2LI",
+    "titulo": "Amazon Basics Hard Travel Carrying Case for 5 Inch GPS, Black",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07R5WVZT8",
+    "titulo": "SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00HCGPD4I",
+    "titulo": "Beats Studio Wireless Over-Ear Headphones - Blue",
+    "categoria": "Apple Products",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07YBJFG2Y",
+    "titulo": "Bluelounge CableBox cable organizer hides messy, loose, tangled cables White color (CB01WH)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C49F961T",
+    "titulo": "Chouky Cable Organizer Box Set of Three, Power Cover Cord Holder Surge Protector for Desk (Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07PFJQ59Q",
+    "titulo": "VIMVIP USB-C to 3.5mm Aux Cable, USB C to 3.5mm Male Headphone Audio Aux Adapter Type C to 3.5mm Car Aux Cord Compatible with Pad Pro 2018, Google Pixel 3/3XL/2/2XL, USB C Phone (1M)",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0006HVM5E",
+    "titulo": "3M Adjustable Monitor Stand, Three Leg Segments Simply Adjust Height From 1\" to 5 7/8\", Sturdy Platform Holds Up to 80 lbs, 11-inch Space Between Columns for Storage, Silver/Black (MS80B)",
+    "categoria": "Office Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07VX67Y2M",
+    "titulo": "ARKTEK USB-C to 3.5 mm Female Headphone Jack Adapter, USB C to Aux Audio Dongle Nylon Cable Cord Compatible with Samsung Galaxy S22 S21 S20 Ultra Pixel 6 5 4 iPad Pro MacBook and More Type C Devices",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B7BH2S2R",
+    "titulo": "Coolbestda 2Pcs Key Fob Cover Keyless Entry Jacket Protector for 2017 2018 2019 2020 2021 Jeep Grand Cherokee Compass Dodge Challenger Charger Dart Durango Journey Chrysler 300 200",
+    "categoria": "Automotive",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BDF4DVXC",
+    "titulo": "USB Type C to 3.5mm Female Headphone Jack Adapter, JSAUX USB C to Aux Audio Dongle Cable Cord Compatible with Pixel 4 3 2 XL, Samsung Galaxy S22 S21 S20 Ultra S20+ Note 10 S10 S9 Plus, iPad Pro(Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XAJD7NA",
+    "titulo": "Cable Matters Toslink Cable (Toslink Optical Cable, Digital Optical Audio Cable) 50 Feet with Metal Connectors and Braided Jacket",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08BG7J2MN",
+    "titulo": "Aftershokz Aeropex Mini (Rebranded as Shokz OpenRun Mini) Bone Conduction Wireless Bluetooth Headphones",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BWPL44G8",
+    "titulo": "Mission Darkness Non-Window Faraday Bag for Phones // Device Shielding for Law Enforcement & Military, Executive Privacy, Travel & Data Security, Anti-Hacking Anti-Tracking Anti-Spying Assurance",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08YFJ1D9V",
+    "titulo": "Amazon Fire HD 10 Plus tablet, 10.1\", 1080p Full HD, 64 GB, latest model (2021 release), Slate",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFEI34ABWDXHUUAZNP4CZVM25RPQ": {
+  "interacciones": 24,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Camera & Photo",
+   "Cell Phones & Accessories",
+   "AMAZON FASHION"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B003VAHYNC",
+    "titulo": "Logitech MK550 Wireless Wave Keyboard and Mouse Combo - Includes Keyboard and Mouse, Long Battery Life, Ergonomic Wave Design, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0043GW86G",
+    "titulo": "InvisibleShield GARGPS62STS for Garmin GPS Map 62ST -Screen",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004PYEEZO",
+    "titulo": "Samsung 3.5 mm Premium Stereo Headset Bulk Packaging - Black",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008J0Z9TA",
+    "titulo": "SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter - SDSDQUA-064G-U46A [Old Version]",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003PVCTWS",
+    "titulo": "ABC Products® VMC-MD2 VMCMD2 USB Cable Cord Lead for Sony Cybershot DSC-HX1, DSC-HX5, DSC-HX5V, DSC-H20, DSC-H55, DSC-TX7, DSC-TX9, DSC-T500, DSC-T900, DSC-W210, DSC-W215, DSC-W220, DSC-W230, DSC-W270, DSC-W275, DSC-W290 Cyber-Shot Digital Camera",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00BMMPPBE",
+    "titulo": "Samsung VG-KBD2000 Wireless Keyboard (2014 Model)",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001XXUOQI",
+    "titulo": "Samsung Replacement USB Data Charging Cable for Samsung SPH-M330, SCH-R100, SGH-T939, and SCH-R850 (Bulk Packaging)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B002PAR1FK",
+    "titulo": "Logitech Pro 9000 PC Internet Camera Webcam with 2.0-Megapixel Video Resolution and Carl Zeiss Lens Optics",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003ESXQGK",
+    "titulo": "Pwr USB-C PD Replacement Adapter Compatible with Toshiba Portege, Tecra PA5257E-1AC3 PA5257U-1ACA PA5257U-1ACA; Samsung Notebook 7 Spin, 9 Pro W16-030N1A BA44-00336A Power Cord 12 Ft",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001UOXPIY",
+    "titulo": "Bose Wave FM Antenna",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00DGRUY3M",
+    "titulo": "Amazon Basics Micro-USB to USB 2.0 Cable - 6 Feet (1.8 Meters)",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005DIYQA4",
+    "titulo": "STK EN-EL3e Battery for Nikon D80 D700 D90 D300 D100 D200 D300s D50 D70s D70 MH-18a MB-D200 MB-D10",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B012X7B32G",
+    "titulo": "Plantronics 202649-01 Backbeat Sense Stereo Bluetooth Wireless Headphones - Black/Espresso",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00YLM3WB2",
+    "titulo": "SanDisk High Endurance Video Monitoring Card with Adapter 64GB (SDSDQQ-064G-G46A), White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01N40GDF6",
+    "titulo": "Snowkids USB Type C Cable, USB C to USB A (USB 3.0) 6.6ft+3.3ft Nylon Braided Fast Charger Cord for Samsung Galaxy Note 9 Note 10 S10,Google Pixel 2, LG V30 V20 G6 5, Switch, OnePlus (Grey)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01NAVO5PF",
+    "titulo": "Logitech MK850 Performance Wireless Keyboard and Mouse Combo",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BVDYMHP",
+    "titulo": "Kattee Leather Canvas Camera Bag Vintage DSLR SLR Messenger Shoulder Bag",
+    "categoria": "AMAZON FASHION",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01KIOU4EO",
+    "titulo": "Echo Show - 1st Generation Black",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WQZ4322",
+    "titulo": "HomeHawk by PANASONIC Indoor Home Monitoring Camera, Privacy Shutter, Wide Angle, 1080p HD, Wall Mountable, No Monthly fee with Local SD Storage, Night Vision, 2 Way Talk (KX-HNC800B),Black",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FDLXW4N",
+    "titulo": "[New 2019] FullHD 1080p WiFi Home Security Camera Pan/Tilt/Zoom - Best Rated Smart App, Work with Alexa - Wireless IP Indoor Surveillance System - Night Vision, Remote Baby Monitor iOS (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFIN7V7AOBTQS6IDKPLWOKGLFN7Q": {
+  "interacciones": 35,
+  "top_categorias": [
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Computers",
+   "Arts, Crafts & Sewing",
+   "Office Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0BVLLMQS6",
+    "titulo": "typecase Edge Keyboard for iPad 10th Generation (10.9\", 2022) - 10 Colors Backlit, Thin, Multi-Touch Trackpad, BT, Magnetic Clasp Keyboard Case for iPad 10th Gen 10.9 - White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BKG27JX5",
+    "titulo": "OhO Bluetooth Glasses,Voice Control and Open Ear Style Smart Glasses Listen Music and Calls with Volume UP and Down,Audio Glasses with Blue Light Blocking Healthy Lens for Gaming,Reading and Computer",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C5J7N7WF",
+    "titulo": "XJ-HOME Travel Laptop Backpack, Backpack for Men and Women with USB Charging/Headphone Port,Durable Water Resistant College School Backpack Laptop Bag for Fits 15.6 Inch Computer,Rose Red",
+    "categoria": "",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BP7XPML7",
+    "titulo": "Bone Conduction Open-Ear Bluetooth Sport Headphones, Premium Wireless Over-Ear Earphones with Built-in Dual Mic works for Running, Workouts, Bicycling, Hiking, Gym, Driving, Office and Many More",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BFCR1L83",
+    "titulo": "RQUTI- Airtag Bracelet for Kids, Stretchy Wristband Compatible Air Tag Tracker, Silicone Holder Case Cover for Airtag (Rainbow 4Pack)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BS78SGNN",
+    "titulo": "Cleer Audio Scene Smart Bluetooth Speaker - IPX7 Waterproof, Built-in Echo Canceling Microphone, USB-C Charging Digital Amplifier, Dual 48mm Passive Radiators for Powerful Music and Sound",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BYD9132R",
+    "titulo": "NUROUM Wired Headset, Dual-Ear (Stereo) Headphones with Noise Canceling Microphone, On Ear Computer Headset with in-line Control, USB/Type-C, PC Headset for Home Office Online Class Skype Zoom",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BVMCKTQN",
+    "titulo": "Docking Station Dual Monitor, cakitte 9 in 1 USB C Dock with Dual 4K HDMI, 1000Mbps Ethernet, SD/TF Card Reader, USB 3.0, PD(100W), USB C Laptop Docking Stations for Dell XPS MacBook Hp Lenovo Surface",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BWMNTQXS",
+    "titulo": "Power Strip with USB C, 3 Outlets 2 Type-C & 1 USB-A Ports, 5FT Flat Extension Cord & Plug, Desktop Charging Station, Wall Extender for Cruise Ship Essentials, 3 Prong Thin Rectangular Travel, White",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B9S1Y6LD",
+    "titulo": "GAMSOD Action Camera Accessories Kit Compatible with Go Pro 11 10 9 8 7 6 5 4 Gopro Max Yi DJI Insta360 AKASO Campark XTU Camworld Sport Cameras (50 in 1)",
+    "categoria": "Arts, Crafts & Sewing",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BK7LMMKD",
+    "titulo": "USB C Hub Multiport Adapter 11 in 1, USB C Docking Station with 4K HDMI/VGA/3.5mm Audio/100W Power/4 USB 3.0 Ports/MicroSD/TF/1Gbps Ethernet Adapter for MacBook, Switch，Steam Deck， Type C Devices.",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BKGCKC84",
+    "titulo": "Laptop Backpack for Women, Work Laptop Bag Large Capacity with USB Port, School BookBag for Women, 15.6 Inch Water Resistant Computer Backpack Purse College Travel Business Teacher Nurse, Purple",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BK389XK5",
+    "titulo": "Multi Plug Outlet Extender with USB Outlets, Power Strip Non Surge Protector Electric Outlet Splitter with 3 USB Wall Charger (1 USB C), Multiple Outlet Expander for Cruise, Dorm, Travel, Home, Office",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BX7X72GJ",
+    "titulo": "Safuciiv MP3 Player Wired Earphones, Earphones with Heavy Bass Stereo Noise Blocking Compatible with Android Devices, iPad, MP3, Support All 3.5mm Interface Devices",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BPLGQM1N",
+    "titulo": "Compressed air Duster - Keyboard Cleaner - Good Replace Compressed for air can - Reusable no Canned air Duster - Computer Cleaner - Car Duster - pc Duster Electric Cordless air Duster 91000RPM 7600mAh",
+    "categoria": "Office Products",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXHGW5DJ",
+    "titulo": "ONDASHCAM 4K Dash Cam with 3.5\" LCD Display, UHD 2160P Car Camera Built in WiFi & GPS with Night Vision, WDR, 170° Wide Angle, G-Sensor & Parking Monitor（32GB Micro SD Card Included）",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BL15QTHX",
+    "titulo": "Danale Indoor Security Camera 4MP, 2.4GHz Wi-Fi Indoor Camera for Home Security, Motion Detection for Baby/Pets/Elder, 180-Day Free Cloud Storage & Built-in Storage Work w/Alexa & Google Assistant",
+    "categoria": "Camera & Photo",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B463G3CC",
+    "titulo": "Universal 7-9 inch Kids Tablet Sleeve Case Bag, Shock-Proof Neoprene Zipper Handle Pouch Portable Case Bag Compatible with 7\" 8\" 8.5\" 8.9\" 9\" Apple iPad Mini, Samsung, HP (Lily)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BHT6YBCV",
+    "titulo": "Computer Wireless Keyboards Mouse Combos, Typewriter Office Keyboard with Round Keycaps, 2.4GHz USB& Type C Connection and Optical Mouse, Compatible with Windows, (Creamy-Yellow)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0CBBMC596",
+    "titulo": "Pelsee P10 Pro 10\" 4K Mirror Dash Cam, Rear View Mirror Camera Smart Driving Assistant w/ADAS and BSD, Night Vision Dash Cameras Front and Rear, Voice Control,Parking Monitoring,Free 32GB Memory Card",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFU25QR3IRQ2J6XY6LIRRZSMXNMA": {
+  "interacciones": 26,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Amazon Devices",
+   "Camera & Photo",
+   "Home Audio & Theater"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0716T7XVQ",
+    "titulo": "faleemi Wireless Security Camera, WiFi Pet Camera, Indoor Pan/Tilt Smart Security Camera with Cell Phone App, Night Vision, Motion Detection for Home/Office/Dog/Baby",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07DD79G2M",
+    "titulo": "JVC HAFR6R Gumy Plus Headphones (Red)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09M93BVBY",
+    "titulo": "NETGEAR Cable Modem CM500 - Compatible with All Cable Providers Including Xfinity by Comcast, Spectrum, Cox | for Cable Plans Up to 400Mbps | DOCSIS 3.0",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07G61JRYR",
+    "titulo": "Ring Chime, A Wi-Fi-Enabled Speaker for Your Ring Video Doorbell",
+    "categoria": "Amazon Devices",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C1D3JB4R",
+    "titulo": "NETGEAR WiFi Router (R6230) - AC1200 Dual Band Wireless Speed (up to 1200 Mbps) | Up to 1200 sq ft Coverage & 20 Devices | 4 x 1G Ethernet and 1 x 2.0 USB ports",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01C3SOJGW",
+    "titulo": "Nikon COOLPIX B500 Digital Camera (Red) Starter Bundle",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07PKRTZLR",
+    "titulo": "Soul Inscriptions Press Belkin AC1900 Wi-Fi Dual-Band AC+ Gigabit Router (F9K1124)",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06X42H9VZ",
+    "titulo": "Little World The VHS to Digital Converter - USB 2.0 Audio/Video Converter, Video Capture Card VHS Box VHS VCR TV to Digital Converter Windows 2000/Win Xp/Win Vista/Win 7/Win 8/ Win 10/ Win 11/ Mac",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00O1C5R24",
+    "titulo": "VIDBOX Video Conversion Suite",
+    "categoria": "Software",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B072MKFNV6",
+    "titulo": "Supershieldz (3 Pack) Anti Glare and Anti Fingerprint (Matte) Screen Protector Designed for Fire HD 8 Tablet 8 inch (8th and 7th Generation Only, 2018 and 2017 release)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07F4P3JH7",
+    "titulo": "Fire HD 8 Tablet (8\" HD Display, 16 GB) - Black (Previous Generation - 8th)",
+    "categoria": "Amazon Devices",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BS2TMK39",
+    "titulo": "TP-Link N300 WiFi Extender(TL-WA855RE)-WiFi Range Extender, up to 300Mbps speed, Wireless Signal Booster and Access Point, Single Band 2.4Ghz Only",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07J6NQ1KN",
+    "titulo": "IBERLS USB to DC 5V Power Cord, Universal DC Plug 5.5 x 2.1mm Jack Charging Cable with 10 Connector Tips (5.5x2.5, 2.5mm, Type-C, Micro USB, 4.0x1.7, 3.5x1.35, LED Interface, 3.0x1.1, 2.5x0.7, Mini)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09C7R12WC",
+    "titulo": "Lexar High-Performance 633x 512GB microSDXC UHS-I Card w/ SD Adapter, C10, U3, V30, A2, Full-HD & 4K Video, Up To 100MB/s Read, for Smartphones, Tablets, and Action Cameras (LSDMI512BBNL633A)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09Q1KHS5H",
+    "titulo": "LG 80 Series 43” Alexa Built-in, 4K UHD Smart TV, Native 60Hz Refresh Rate, Dolby Cinema, Director Settings, Gaming Mode, with Magic Remote (43UP8000, Old Model)",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0837MNZ6B",
+    "titulo": "TFY Security Hand Strap with Leather Belt Holder Stand Compatible with Kindle Voyage, 6Inch / Kindle Paperwhite/Kindle Fire 6Inch",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09B36FJVT",
+    "titulo": "Fire TV Gaming Bundle with Fire TV Stick 4K Max and Luna Controller",
+    "categoria": "Amazon Devices",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BMGZXST9",
+    "titulo": "Polaroid 2x3ʺ Premium Zink Photo Paper (50 Pack) Compatible with Polaroid Mint Camera, Snap/Snap Touch Instant Print Cameras & Polaroid Mint and Zip Photo Printers",
+    "categoria": "Camera & Photo",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BW4PFM58",
+    "titulo": "OontZ Angle 3 Bluetooth Speaker, Portable Wireless Bluetooth 5.0 Speaker, 10 Watts, Crystal Clear Stereo Sound, Rich Bass, IPX5 Water Resistant, Loud Portable Bluetooth Speaker (Black)",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09GBPVD27",
+    "titulo": "Cambridge Soundworks OontZ Angle Solo Bluetooth Portable Speaker, Compact Size, Surprisingly Loud Volume & Bass, 100 Foot Wireless Range, IPX5, Perfect Travel Speaker, Bluetooth Speakers (Red)",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   }
+  ]
+ },
+ "AFV3GWH2ALN24PLY6LZ43A2L6QLQ": {
+  "interacciones": 30,
+  "top_categorias": [
+   "Camera & Photo",
+   "All Electronics",
+   "Computers",
+   "Home Audio & Theater",
+   "Apple Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B004W88SBE",
+    "titulo": "LG USB Powered Slim Ergonomic Sleek Design 8 X DVD / 24 X CD Portable External Super Multi Drive - for all Netbooks, Laptops, Notebooks or Desktop Computers - Reads All Formats - DVD-RW - DVD+RW - CD-ROM - CD-RW – Compatible with Microsoft and Mac Systems",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0097BEFWC",
+    "titulo": "Apple 5W USB Power Adapter - iPhone Charger, Type A Wall Charger",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0034CSUZ8",
+    "titulo": "TP-Link 10/100/1000Mbps Gigabit PCI Network Adapter/Card, Includes Low-profile Bracket (TG-3269)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00G9TIR9W",
+    "titulo": "IPAD AIR SMART COVER BLACK-USA",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00BONB6SW",
+    "titulo": "Sony MDRZX300/BLK Stereo Headphones",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUOEKN2",
+    "titulo": "Sennheiser HD-201 Lightweight Over Ear Headphones (Discontinued by Manufacturer)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000KU5CN0",
+    "titulo": "Mini Battery Charger Kit for Sony NP-F550, NP-F750, NP-F960, NP-F570, NP-F770, NP-F970, NP-FM50, NP-QM71D, NP-QM91D Batteries - with fold-in wall plug, car & EU adapters",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0015ADLOQ",
+    "titulo": "Chamberlain NLS2 Wireless Portable Intercom-Double Unit",
+    "categoria": "Office Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003A281AG",
+    "titulo": "Canon Battery Charger LC-E8E",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUFWCE0",
+    "titulo": "Maxell 190400 Noise Cancellation Headphone",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BN2S5XP1",
+    "titulo": "Kastar NP-F570 Battery Replacement for Sony NP-F550 NP-F330 Digital Camera Battery and Sony DCR-SD1000 DCR-SR40 DCR-TRV900 DCR-VX2000 DCR-VX2100 DCR-VX2200 HVR-HD1000 HVR-V1 HVR-Z1 HVR-Z5 HVR-Z7",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00PFQPX5Q",
+    "titulo": "Transcend 16GB SDHC Class 10 Flash Memory Card Up to 30MB/s (TS16GSDHC10)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009RUZ7TS",
+    "titulo": "SanDisk 32GB Class 4 SDHC Memory Card, Frustration-Free Packaging- SDSDB-032G-AFFP (Label May Change)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004M8STL8",
+    "titulo": "Sony ICD-AX412 Stereo Digital Voice Recorder",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUIDMSC",
+    "titulo": "Nikon EN-EL15 Rechargeable Li-Ion Battery for Select DSLR Cameras (Retail Packaging)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B002ZIN9DU",
+    "titulo": "Kensington Mouse-in-a-Box Wired USB Mouse (K72356US),Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00336G7MI",
+    "titulo": "Sony BCTRV Travel Charger -Black",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0058EBMFK",
+    "titulo": "Sony NP-FV100 Rechargeable Battery Pack (Retail Packaging)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B074TMJ44M",
+    "titulo": "Davis & Sanford EXPLORERV Vista Explorer 60” Tripod with Tripod Bag, BONUS Smartphone Adapter and 10 Year Warranty",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005F77Z9C",
+    "titulo": "5 pcs Black Neck Strap Band Lanyard for USB Flash/Pen Drives, Cell Phone, mp3, mp4 and Other Lightweight (Under 50 Grams) Electronic Devices",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AG3FEXIZOCYEPKXZXSPH6YC72BIA": {
+  "interacciones": 31,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Industrial & Scientific",
+   "Home Audio & Theater",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B000V71XVM",
+    "titulo": "Cables Unlimited UTP-7010-50 Cat6 2-Piece RJ45 Connector for Solid Wire 50 Pack (Clear)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00Y3QPG1A",
+    "titulo": "TP-Link 2-Port Gigabit Powerline ethernet Adapter Kit",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00LX4RJXS",
+    "titulo": "(OLD MODEL) Crucial MX200 250GB SATA 2.5” 7mm (with 9.5mm adapter) Internal Solid State Drive - CT250MX200SSD1",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00BUCLVZU",
+    "titulo": "TiVo Mini with IR Remote (Old Version)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00N7474CS",
+    "titulo": "Intel Dual Band Wireless-AC 7260 2x2 Network plus Bluetooth adapter (7260.HMWWB.R)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00MY9S692",
+    "titulo": "Intel 7260.HMW Dual Band Wireless-AC 7260 Network Adapter PCI Express Half Mini Card 802.11 b/a/g/n/ac",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0083X8UJ4",
+    "titulo": "Cat6 Ethernet Cable - 15 ft White - Gold Plated Contacts Male to Male Patch Cord (2 Pack)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00Z0V2NQ8",
+    "titulo": "NETGEAR Smart WiFi Router with Dual Band Gigabit for Amazon Echo/Alexa - AC1750 (R6400-100NAS)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B071HVYGNJ",
+    "titulo": "Rankie DisplayPort (DP) to HDMI Cable, 4K Resolution Ready, 10 Feet, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01FJ4S9JK",
+    "titulo": "GL.iNet GL-AR150 Mini Travel Router with 2dbi External Antenna, Wi-Fi Converter, OpenWrt Pre-Installed, Repeater Bridge, 150Mbps High Performance, OpenVPN, Programmable IoT Gateway",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09P4FVYK9",
+    "titulo": "ASUS AC1750 WiFi Router (RT-AC66U B1) - Dual Band Gigabit Wireless Internet Router, ASUSWRT, Gaming & Streaming, AiMesh Compatible, Included Lifetime Internet Security, Adaptive QoS, Parental Control",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BX7KZHSN",
+    "titulo": "Cat 6 Ethernet Cable 15 ft - with a Flat, Space-Saving Design High-Speed Internet & Network LAN Patch Cable, RJ45 Connectors - [15ft / White / 10 Pack] - Perfect for Gaming, Streaming, and More!",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XTQ2QHF",
+    "titulo": "Logitech Harmony 650 Remote Control - Silver (915-000159) (Renewed)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004OVECU0",
+    "titulo": "Logitech Harmony 650 Infrared All in One Remote Control, Universal Remote Logitech, Programmable Remote (Silver)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00U87A5FU",
+    "titulo": "Kindle Paperwhite E-reader (Previous Generation - 7th) - Black, 6\" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi + Free Cellular Connectivity - Includes Special Offers",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078HMDDVS",
+    "titulo": "Motorola MoCA Adapter for Ethernet Over Coax, Plug and Play, Ultra Fast Speeds, Boost Home Network for Better Streaming and Gaming (1 Gbps – MoCA 2 Pack)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078MS93LL",
+    "titulo": "Garmin Drive 61 USA+CAN LM GPS Navigator System with Lifetime Maps, Spoken Turn-by-Turn Directions, Direct Access, Driver Alerts, TripAdvisor and Foursquare Data (Renewed)",
+    "categoria": "GPS & Navigation",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BSJ6JHP1",
+    "titulo": "ViewSonic VX2452MH 24 Inch 2ms 60Hz 1080p Gaming Monitor with HDMI DVI and VGA inputs",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B091ZHX225",
+    "titulo": "Motorola MB8600 DOCSIS 3.1 Cable Modem - Approved for Comcast Xfinity, Cox, and Charter Spectrum, Supports Cable Plans up to 1000 Mbps | 1 Gbps Ethernet Port",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B077MRD2P4",
+    "titulo": "Inteset IReTV USB IR Receiver for use with Nvidia Shield (2nd Gen & 2019 Pro), F-TV, Kodi, PCs, Raspberry Pi & Other Streamers with The INT422 & Harmony Remotes (Remote not Included)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AGKMIMO2DGDJ6ATVBDVPZIKLAWPQ": {
+  "interacciones": 31,
+  "top_categorias": [
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Computers",
+   "Home Audio & Theater",
+   "Camera & Photo"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00F3QFKNS",
+    "titulo": "DSLRKIT 2.5\" SSD to 3.5\" SATA Hard Disk Drive HDD Adapter Caddy Tray CAGE Hot Swap Plug",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B081R1GQXH",
+    "titulo": "ECHOGEAR TV Cord Hider Pair For Wall Mounted TV - White Cable Management Kit Hides TV Wires Behind The Wall - Includes 4 Pass Throughs, Locking Brackets, and Hole Saw Drill Attachment For Easy Install",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09XV7XWC4",
+    "titulo": "Sintron Wall Mount Speaker Mounts for Dot 2 - Smart Home Outlet Wall Mount Stand for Dot 2nd Generation Speaker Holder with Charging Cord Cable,Space Saving Accessories Without Messy Wires",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B8NTNY8X",
+    "titulo": "Laptop Stand 360° Rotating Adjustable - Ergonomic Foldable Computer Riser for Desk Compatible with 10-17\" iPad Macbook Pro/Air Hp Dell Lenovo Asus Notebook for Men Working from Home Tech Gifts",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B2K3CGNN",
+    "titulo": "60'' Tripod Selfie Stick 6/6/10 FT UsbC to Lightning Cable Fast Charging",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B97FKSMN",
+    "titulo": "HATTERTOP CD Storage Box Set of 3, DVD Storage Case 14.2 x 6.3 x 5.5 Inch CD Case Storage with Lids & Handles to Store up to 165 Discs for Home Car Travel - Beige",
+    "categoria": "Amazon Home",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B78JNSPM",
+    "titulo": "【Ultra-Slim Quiet】STARSIKI Undetectable Mouse Jiggler Interval Timer Adjustable, Mouse Mover with On/Off Switch, Automatic Device to Keep Moving Mouse Wiggler Shaker Clicker Random Movement DriverFree",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B8MQSMN2",
+    "titulo": "GMCELL Bluetooth Aux Adapter Receiver for Car Audio, 3.5mm Jack Bluetooth Transmitter Receiver for TV, Airplane, PC, Projector, PS4, Gym Equipment",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BLNHCMS7",
+    "titulo": "Bonweise Wireless Earbuds Bluetooth Headphones, Ear Buds Wireless Bluetooth Earbuds with Microphone,IPX7 Waterproof Headphones Sport Earbuds for Gym Running Workout,30Hrs Playtime/LED Digital (Black)",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B87XZT6M",
+    "titulo": "Adjustable Laptop Stand with 360° Rotating Base, ZKSIND Ergonomic Laptop Riser for Collaborative Work, Dual Rotary Shaft Fully Foldable for Easy Storage, Fits MacBook/All Laptops up to 16 inches",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BGSG6RVM",
+    "titulo": "4K Dual Dash Cam,Built in GPS Dash Camera with 4K+1080P Front and Inside Dual Car Camera, IR Night Vision, 170° Wide Angle,24 Hour Parking Mode,WDR, Loop Recording, G-Sensor,Support 256GB Max",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BKL8VT9M",
+    "titulo": "Arteck Multi-Device Wireless Bluetooth Mouse with Nano USB-A, USB-C Receiver Ergonomic Right Hand Silent Clicking Rechargeable Mouse for Computer Desktop PC Laptop Mac iPad and Windows 11/10 iPad OS",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BYSN254C",
+    "titulo": "Link Dream Trucker Bluetooth Headset 20H Talktime Wireless Headset with 270°Rotatable Noise Cancelling Microphone USB Dongle for Online Meeting, Office Home, Call Center, Computer, Cell Phone (BH60)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08NGGP2TR",
+    "titulo": "Retractable Charging Cable 3A, 3Pack 4Ft Multi Charging Cable Multi Fast Charger Cable 3 in 1 Multi USB Cable with IP/Type C/Micro USB Port for Cell Phones/Tablets/Samsung Galaxy/LG/Huawei/PS & More",
+    "categoria": "Industrial & Scientific",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BNN84759",
+    "titulo": "NBZZ Replacement Battery Compatible with Insta 360 X3 Battery CINAQBT/A 3.85V 1800mAh 6.93Wh Insta360 x3 Accessories (Fully Compatible with Original)",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BJVCLHHW",
+    "titulo": "CYNOVA Insta 360 X3 Sticky Lens Guard Screen Tempered Film Set, Screen Protector for Insta360 X3 Accessories LCD Tempered Glass 9H Hardness",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C6B3MWNR",
+    "titulo": "USB Bluetooth 5.3 Adapter for Desktop PC, Real Plug & Play Mini EDR Bluetooth Dongle Receiver & Transmitter for Laptop Computer Support Headphones Keyboard Mouse Speakers Printer Windows 11/10/8.1",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C9DLQ813",
+    "titulo": "LOKASS Convertible Vintage Floral Tote Daypack Laptop Backpack for Women, Ladies Carry-on Travel Bag Waterproof Handbag 15.6''Computer Backpack Purse with USB Port for College Work Business",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BRB25VN4",
+    "titulo": "Kids Headphones with Pouch, Wired On-Ear Child Headset with Mic, HD Sound Sharing Function and 85dB Volume Limited Hearing Protection for Phone Tablet PC",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B9XM2BWG",
+    "titulo": "seenda Mouse Jiggler, Undetectable Mouse Mover - USB and Type C 2 in 1 Tiny Mouse Wiggler, Driver-Free, Plug-and-Play Mouse Shaker Keeps PC/Laptop/Computer Awake",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   }
+  ]
+ },
+ "AGOXHMFS7YFZI2SJ7VENTF66MMZQ": {
+  "interacciones": 21,
+  "top_categorias": [
+   "Camera & Photo",
+   "All Electronics",
+   "Home Audio & Theater"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B01MSTHCDX",
+    "titulo": "Kingston Digital 16GB DataTraveler 101 G2 USB 2.0 Drive - Black (DT101G2/16GBZ)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUIENJO",
+    "titulo": "Neewer 24\"x24\"/60cmx60cm Professional Protable Foldable Off-Camera Flash Photography Studio, Portrait Soft Box with L-shaped bracket & flash Ring, Outer Diffuser and Carrying Case",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007ZTNBBO",
+    "titulo": "Pro PBL Heavy Duty 8ft Light Stands, Air Cushioned Set of 2 Photographic Lighting",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CH2V7WM",
+    "titulo": "58MM Lens Filter Kit by Altura Photo, Includes 58MM ND Filter, 58MM CPL Filter, 58MM UV Filter, (UV, CPL Polarizing Filter, Neutral Density ND4) for Camera Lens with 58MM Filters + Lens Filter Case",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00LX3P2XS",
+    "titulo": "Kingston Ultimate 16 GB 266x CompactFlash Memory Card CF/16GB-U2",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0064I7J60",
+    "titulo": "Sigma 70-200mm f/2.8 APO EX DG HSM OS FLD Large Aperture Telephoto Zoom Lens for Sony Digital DSLR Camera",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005XOIFNW",
+    "titulo": "LimoStudio Photo Studio 92\" Tall Lighting Reflector Arm Stand Reflector Stand Holder Boom Arm, Light Stand, Sandbags Saddlebag, Adapter Clamp Connects Boom Arm to Stand, AGG812",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007ZK3BQS",
+    "titulo": "Neewer BestDealUSA Camera Quick Release Assembly and Sliding Plate Mount-Black",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUIP7YO",
+    "titulo": "NEEWER 43 Inch/110 Centimeter Light Reflector Light Diffuser 5 in 1 Collapsible Multi Disc with Bag - Translucent, Silver, Gold, White, and Black for Studio Photography Lighting and Outdoor Lighting",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00EE1ZH6I",
+    "titulo": "hossen White Flash Bounce Diffuser for YONGNUO YN 560, 565, YN560 I II II & YN565EX",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005AY9278",
+    "titulo": "BM 2 Pack LP-E6N Batteries and Charger for Canon EOS R, EOS R5, EOS 90D, EOS 60D, EOS 70D, EOS 80D, EOS 5D II, EOS 5D III, EOS 5D IV, EOS 5Ds, EOS 6D, EOS 6D II, EOS 7D, EOS 7D II, XC10, XC15 Cameras",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005LZX81W",
+    "titulo": "Tamron AF 28-75mm f/2.8 SP XR Di LD Aspherical (IF) Lens for Konica Minolta and Sony Digital SLR Cameras (Model A09M)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FZ9Q1G4",
+    "titulo": "Fotodiox EZ-Pro 32x48in Quick Collapse Softbox Compatible with Select Speedotron (Black/Brown Line) Bayonet Mount Studio Flash Units",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01DZ56MX0",
+    "titulo": "Anker SoundCore Sport XL Outdoor Portable Bluetooth Speaker - 16W Output and 2 Subwoofers, IP67 Waterproof Weatherproof Shockproof, 66ft Bluetooth Range, 15H Playtime, Built-in Mic, USB Charging Port",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01M6D654I",
+    "titulo": "Mudder Backdrop Background Clips Holder for Photo Video Studio, 12 Pack, Black",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09PG8GH6D",
+    "titulo": "Selens 20 Pieces Universal Gels Lighting Filter Kit for Camcorder LED Video Light, 3.74” x 2.56” Transparent Color Correction Lighting Film Plastic Sheets",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B015XK1XMU",
+    "titulo": "Dell XPS x8900-2506BLK Desktop (6th Generaton Intel Core i7, 16 GB RAM, 1 TB HDD) NVIDIA GTX 745",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007B8Y1KO",
+    "titulo": "Yongnuo Single Transceiver of YN622 YN-622C TTL Flash Trigger with HSS for Canon",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005OJ4N6E",
+    "titulo": "Canon EOS 60D 18 MP CMOS Digital SLR Camera with EF-S 18-200mm f/3.5-5.6 IS Lens (discontinued by manufacturer)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00BGGIZ2W",
+    "titulo": "58MM Lens Hood Set (Tulip Flower + Collapsible Rubber Lens Hood)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AGPGVKJYDIWXQMJIUWVRX4ECTWSA": {
+  "interacciones": 44,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Home Audio & Theater",
+   "Camera & Photo",
+   "Cell Phones & Accessories"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00C9UJLOU",
+    "titulo": "Channel Master Ultra Mini 4 TV Antenna Amplifier, TV Antenna Signal Booster with 4 Outputs for Connecting Antenna or Cable TV to Multiple Televisions (CM-3414),White",
+    "categoria": "Home Audio & Theater",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004UAKCS6",
+    "titulo": "IOGEAR Universal Ethernet to Wi-Fi N Adapter for Home or Office, GWU627",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B7FN67QT",
+    "titulo": "RCA Compact Outdoor or Attic Yagi TV Antenna – HD Antenna with Super Long 75 Mile Range – Long Range Digital OTA Antenna for Clear VHF & UHF Reception, NexGenTV ™ Compatible, Supports 4K/8K 1080p TVs",
+    "categoria": "Home Audio & Theater",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B019ZY1ZWS",
+    "titulo": "MOTOROLA 8x4 Cable Modem, Model MB7220, 343 Mbps DOCSIS 3.0, Certified by Comcast XFINITY, Time Warner Cable, Cox, BrightHouse, and More (No Wireless)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GXDLJP9",
+    "titulo": "Amcrest ProHD 1080P WiFi 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00R8KBGLW",
+    "titulo": "Cable Matters Micro HDMI to VGA Adapter (Micro HDMI to VGA Converter) in Black",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01IU9UMVY",
+    "titulo": "WD 2TB Black My Passport Ultra Portable External Hard Drive - USB 3.0 - WDBBKD0020BBK-NESN",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00NKZ5R28",
+    "titulo": "Mounting Dream Tilting TV Mounts for Most 26-55 Inch LED, LCD TVs up to VESA 400 x 400mm and 88 LBS Loading Capacity, TV Wall Mount with Unique Strap Design for Easily Lock and Release MD2268-MK",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00X3TUHWG",
+    "titulo": "TCL 32S3800 32-Inch 720p Roku Smart LED TV (2015 Model)",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00INHG5QA",
+    "titulo": "Mediasonic HD TV Antenna Support 1080P 4K UHF / VHF - 35 Mile Range High Performance Indoor HDTV Antenna (HW-210AN)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009ZGK6QS",
+    "titulo": "BAFX Products (Infrared) IR Remote Control Extender or IR Repeater Kit - Control 1 to 8 Devices (Expandable to 12!)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003L1ZYYW",
+    "titulo": "Amazon Basics High-Speed HDMI Cable 9.8 Feet/3.0 m Supports Ethernet / 3D / Audio Return (Newest Standard)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B006V72AHC",
+    "titulo": "Netgear WN2500RP-100NAS N600 Desktop WiFi Range Extender (WN2500RP)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B014ZQ07NE",
+    "titulo": "Anker 7-Port USB 3.0 Data Hub with 36W Power Adapter and BC 1.2 Charging Port for iPhone 7/6s Plus, iPad Air 2, Galaxy S Series, Note Series, Mac, PC, USB Flash Drives and More",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01LXUZPQU",
+    "titulo": "Roku Premiere - HD and 4K UHD Streaming Media Player with HDR",
+    "categoria": "All Electronics",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BGNG1294",
+    "titulo": "Amazon Basics HDMI Cable, 18Gbps High-Speed, 4K@60Hz, 2160p, Ethernet Ready, 10 Foot, Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00Z08TZNU",
+    "titulo": "Rankie DisplayPort (DP) to VGA Adapter, Gold Plated Converter, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09RCQFWWV",
+    "titulo": "Cable Matters Short USB 3.0 Cable (USB 3 Cable, USB 3.0 A to B Cable) in Blue 3 ft",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C13ZXJCW",
+    "titulo": "TP-Link AC4000 Tri-Band WiFi Router (Archer C4000) -MU-MIMO, VPN Server, 1.8GHz CPU, Gigabit Ports, Beamforming, Link Aggregation",
+    "categoria": "Computers",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FCNP2VL",
+    "titulo": "BrosTrend Linux USB WiFi Adapter 1200Mbps Supports Ubuntu, Mint, Kali, Debian, Kubuntu, Mate, Zorin, PureOS, Raspberry Pi 2+, Windows 11, USB3.0 Wireless Dual Band Wi-Fi 5GHz/867Mbps + 2.4GHz/300Mbps",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   }
+  ]
+ },
+ "AGU3FEVK7TKMWW5KUTDBZXPLKS4A": {
+  "interacciones": 24,
+  "top_categorias": [
+   "Camera & Photo",
+   "Cell Phones & Accessories",
+   "Computers",
+   "Home Audio & Theater",
+   "Sports & Outdoors"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B004S494WO",
+    "titulo": "Rode VideoMic with Rycote Lyre Suspension System and Fuzzy Windbuster Kit",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004ZGN6MY",
+    "titulo": "Ravelli APLT2 50\" Light Weight Aluminum Tripod with Bag",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B007LBOCVY",
+    "titulo": "AM amFilm (TM) Premium Screen Protector Film Clear (Invisible) for iPad 2 and the New iPad (iPad 3 and iPad 4, the 3rd and 4th generation) (2-Pack) [in AM retail package]",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00AFYYRL4",
+    "titulo": "Xtreme Bluetooth Wireless Music Receiver - Retail Packaging - Black",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005Z4ROIW",
+    "titulo": "Fancierstudio Heavy Duty Photography L Bracket with 2 Standard Flash Hot Shoe Mounts",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00WUI0WOY",
+    "titulo": "NEEWER® 160 LED CN-160 Dimmable Ultra High Power Panel Digital Camera / Camcorder Video Light, LED Light compatible with Canon, Nikon, Pentax, Panasonic,SONY, Samsung and Olympus Digital SLR Cameras",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008R3875C",
+    "titulo": "ViewSonic VFD1028W-11 10.1-Inch Digital Photo Frame Features High Resolution 1024x600 (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00139XOCI",
+    "titulo": "Ravelli Video Tripod (67 inch Professional)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0012LLYPG",
+    "titulo": "Tamron Auto Focus 70-200mm f/2.8 Di LD IF Macro Lens for Canon Digital SLR Cameras (Model A001E)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0045EOWS8",
+    "titulo": "Cables Unlimited 15-Feet HDMI Male to Male Cable",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005005EEM",
+    "titulo": "HDE 1/4 - Inch- 20 Tripod Screw to Hot Shoe Adapter",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0092HP3IQ",
+    "titulo": "iXCC Jumbo Defender 3ft (Three FEET) White 8-Pin Lightning Cable",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0087BDWBI",
+    "titulo": "Jawbone Jambox Bluetooth Speaker, Diamond Black (Discontinued by Manufacturer)",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0047T79VS",
+    "titulo": "Belkin F8Z492TTP Bluetooth Music Receiver",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00JJGFRIQ",
+    "titulo": "Samsung External Blu-ray Writer TSST SE-506CB/RSBD 6X USB 2.0 Slim (Black), M-Disc support",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GXDLJP9",
+    "titulo": "Amcrest ProHD 1080P WiFi 2MP (1920TVL) Indoor Pan/Tilt Security Wireless IP Camera IP2M-841B (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01E70CX62",
+    "titulo": "Bossblue Black Replacement Band for Garmin Vivoactive, Silicone Replacement Fitness Bands Wristbands with Metal Clasps for Garmin vivoactive GPS Smart Watch",
+    "categoria": "Sports & Outdoors",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B078NQPCTR",
+    "titulo": "Nixplay Seed 10.1 Inch Widescreen WiFi Cloud Digital Photo Frame with IPS Display, iPhone & Android App, Free 10GB Online Storage, Alexa Integration and Hu-Motion Sensor (W10B)",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BQHMC2WR",
+    "titulo": "AEEZO 10.1 Inch WiFi Digital Picture Frame, IPS Touch Screen Smart Cloud Photo Frame with 16GB Storage, Easy Setup to Share Photos or Videos via Frameo APP, Auto-Rotate, Wall Mountable (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BZ4MFNY1",
+    "titulo": "BRAVEEAGLE FAT32 32GB Micro SD Card Class 10 microSD Memory Card for Dash Cam/Tablet/Phone (32GB U1)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AGVPAMQ65YZ4ZL22WD73BSETW2QQ": {
+  "interacciones": 26,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Camera & Photo",
+   "Home Audio & Theater",
+   "Cell Phones & Accessories"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0052SCU8U",
+    "titulo": "Amazon Basics High-Speed HDMI Cable 2-Pack - 6.5 Feet (2 Meters) Supports Ethernet, 3D, 4K and Audio Return",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00H7PBWK8",
+    "titulo": "Silicon Power 32GB USB 3.0 Flash Drive, Blaze B30",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00W8XXYS2",
+    "titulo": "WD 3TB Blue My Passport Ultra Portable External Hard Drive - USB 3.0 - WDBBKD0030BBL-NESN",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0798KX9VM",
+    "titulo": "BASEQI Aluminum MicroSD Adapter for Microsoft Surface Book & Surface Book 2 & Surface Book 3 15\" (Model-351A)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01C9I5S1Q",
+    "titulo": "Patriot LX Series 200GB High Speed Micro SDXC Class 10 UHS-I Transfer Speeds For Action Cameras, Phones, Tablets, and PCs",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008GVOVK0",
+    "titulo": "Fosmon 3-Port HDMI Switcher, Intelligent 3x1 Auto Switch Selector Support Full HD 3D 1080p HDCP, 3 In 1 Out HDMI Splitter with 24K Gold Plated HDMI Cable for HDTV DVD PS3 PS4 Xbox One Bluray Apple TV",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08X2DCF2B",
+    "titulo": "Verbatim 4.7GB Up to 16X Datalifeplus White Inkjet Printable Recordable Disc DVD-R, 50 -Disc Spindle",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01ABQTBTS",
+    "titulo": "AGPTek C05 8GB Portable Bluetooth MP3 Player with FM Radio, 12 Hours Lossless Playing Support up to 64 GB (Black)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01694XMF0",
+    "titulo": "Logitech M510 Wireless Computer Mouse – Comfortable Shape with USB Unifying Receiver, Back/Forward Buttons and Side-to-Side Scrolling - Red",
+    "categoria": "",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07D4RF9LT",
+    "titulo": "Samsung EVO+ 256GB UHS-I microSDXC U3 Memory Card with Adapter (MB-MC256DA/AM)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00D2CSIUW",
+    "titulo": "BM Premium 2 Pack of DMW-BCM13E Batteries and Charger for Panasonic Lumix DC-TS7,DMC-FT5A, LZ40, TS5, TS6, TZ37, TZ40, TZ41, TZ55, TZ60, ZS27, ZS30, ZS35, DMC-ZS40, DMC-ZS45, DMC-ZS50 Digital Cameras",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009OXTWZI",
+    "titulo": "AC Infinity AXIAL 8038, Quiet Muffin Fan, 120V AC 80mm x 38mm Low Speed, UL-Certified for DIY Cooling Ventilation Exhaust Projects",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01D3QZ8EK",
+    "titulo": "Symphonized Wired Earbuds with Microphone - Noise Isolating Headphones with Wire, Ear Buds with Wire, Headphones with Microphone for Computer, Corded Earbuds, Travel Headphones 3.5mm Graduation Gift",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B087WYCS5C",
+    "titulo": "Soke iPad Mini 5 Case 2019 with Pencil Holder, Premium Trifold Case with Strong Protection, Ultra Slim Soft TPU Back Cover with Auto Sleep/Wake Function for Apple iPad Mini 5th Gen,Dark Blue",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07PS2W2B1",
+    "titulo": "Ztotop for iPad Mini 5 Case, Leather Folio Stand Protective Case Smart Cover with Multi-Angle Viewing, Paperwork Card Pocket, Functional Elastic Strap for iPad Mini 5th Gen 2019 - Dual Color",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07JJ1ZP6T",
+    "titulo": "Symphonized Wired Earbuds with Microphone 3.5mm - Noise Isolating Headphones with Wire, Earphones Wired, Headphones with Microphone for Computer, Ear Phones Android Electronics Wired, Graduation Gift",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C4F2NHWH",
+    "titulo": "ORICO 2.5'' Hard Drive Enclosure USB 3.0 to SATA Portable External Enclosures for 7mm/9.5mm SSD HDD 5Gbps Tool Free Support UASP (2521U3)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00HNCPR92",
+    "titulo": "Fosmon A1602 RCA Splitter with 3-Way Audio, Video RCA Switch Box + RCA Cable for Connecting 3 RCA Output Devices to Your TV",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09H72W2BQ",
+    "titulo": "Cord Hider, Delamu Cord Cover Wall, Hinge Cable Hider, Wire Covers for Cords Cable Raceway, TV Wire Hider Cable Cover Cable Management, Paintable Cable Cord Concealer White, L15.7 W0.9 H0.5in",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BXL2HW5P",
+    "titulo": "Extension Cord 10 Ft, Power Strip Surge Protector with 12 Outlets 4 USB Ports, Large Desk Power Strip with Long Cord, Flat Plug, Wall Mount, Multi Plug Outlet Extender for Office Home White ETL Listed",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   }
+  ]
+ },
+ "AH3PTAJWVAPCS7U7QKEXYRYAQMJA": {
+  "interacciones": 21,
+  "top_categorias": [
+   "Camera & Photo",
+   "Home Audio & Theater",
+   "Computers",
+   "Office Products",
+   "Apple Products"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B005D2JE2A",
+    "titulo": "Pelican 0915 SD Memory Card Case (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003BYRGKY",
+    "titulo": "V-MODA Crossfade LP Over-the-Ear Headphones (Gunmetal Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005JZ7EV4",
+    "titulo": "Peak Design Capture Camera Clip PEAKCAMCLIP",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07465763G",
+    "titulo": "Channel Master Digital Advantage 100 Directional Outdoor TV Antenna - Long Range VHF, UHF and HDTV Aerial - Install Outside or Attic - CM-2020",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09WJJF4PR",
+    "titulo": "DYMO Standard D1 45017 Labeling Tape ( Black Print on Red Tape , 1/2'' W x 23' L , 1 Cartridge)",
+    "categoria": "Office Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B4DFWFS6",
+    "titulo": "DYMO Standard D1 45800 Labeling Tape (Black Print on Clear Tape, 3/4'' W x 23' L, 1 Cartridge), DYMO Authentic",
+    "categoria": "Office Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BRJJKD65",
+    "titulo": "Monoprice 105139 10ft Micro USB / Micro-B 2.0 A Male to 5pin Male 28/28AWG Cable compatible with Samsung Galaxy , Note , Android, LG , HTC One,Nexus, Tablets and More!, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C111V91",
+    "titulo": "Monoprice Titan Series Wide Fixed TV Wall Mount Bracket for TVs 37in to 70in Max Weight 165 lbs VESA Patterns Up to 750x450 UL Certified Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00JPJI7B6",
+    "titulo": "N116BGE-EA2 REV. C1 New 11.6\" WXGA HD 1366x768 LED LCD Screen 30PIN MATTE Replacement Display Revc1 (Original Version)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008ALAAV0",
+    "titulo": "Apple 85W MagSafe 2 Power Adapter for MacBook Pro with Retina Display",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B005MX9OSE",
+    "titulo": "Nikon D7000 16.2 Megapixel Digital SLR Camera with 18-55mm Lens (Black)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09L6XQF1C",
+    "titulo": "Pelican 1200 Camera Case With Foam (Desert Tan)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01M7TUWIN",
+    "titulo": "Tripp Lite Metered PDU, 15A, 16 Outlets (5-15R), 120V, 5-15P, 15 ft. Cord, 0U Vertical Rack-Mount Power (PDUMV15)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00006393Y",
+    "titulo": "Pacific Laser Systems PLS-20351 5/8-11 by 1/4-20 Threaded Female to Male Tripod Adapter",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B014ZQ07NE",
+    "titulo": "Anker 7-Port USB 3.0 Data Hub with 36W Power Adapter and BC 1.2 Charging Port for iPhone 7/6s Plus, iPad Air 2, Galaxy S Series, Note Series, Mac, PC, USB Flash Drives and More",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XHWWJRW",
+    "titulo": "SanDisk Ultra Fit 128GB USB 3.0 Flash Drive - SDCZ43-128G-GAM46",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C1RSV9C",
+    "titulo": "Mediabridge™ 3.5mm Male to 2-Male RCA Adapter (12 Feet) - Step Down Design - (Part# MPC-35-2XRCA-12)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01BHV14EQ",
+    "titulo": "StarTech.com 1000 ft Bulk Cat6 Ethernet Cable - Stranded - CM-Rated for In-Wall Use - Cat 6 UTP Patch Cable - Black (WIRC6PATBKRL)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00005LEOO",
+    "titulo": "Nikon 80-400mm f/4.5-5.6D ED Autofocus VR Zoom Nikkor Lens (OLD MODEL)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B077W2XXWR",
+    "titulo": "Sony - FE 50mm F1.8 Standard Lens (SEL50F18F/2)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AH3XCV7OH4K47YA4WT4RZRNAMP4Q": {
+  "interacciones": 44,
+  "top_categorias": [
+   "Computers",
+   "Camera & Photo",
+   "Cell Phones & Accessories",
+   "All Electronics"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B077W2XXWR",
+    "titulo": "Sony - FE 50mm F1.8 Standard Lens (SEL50F18F/2)",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BJW5LJ4J",
+    "titulo": "SanDisk 128GB Extreme PRO SDXC UHS-I Card - C10, U3, V30, 4K UHD, SD Card - SDSDXXY-128G-GN4IN",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CM65ZH9",
+    "titulo": "2 Pack JJC FDA-EP18 Eyecup Eyepiece Eye Cup for Sony A7 A7II A7III A7R A7RII A7RIII A7RIV A7S A7SII A9 A99II A58 for Sony A7 A7 II A7 III A7R A7R II A7R III A7R IV A7S A7S II A99 II A58 Camera",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B079FKTHQJ",
+    "titulo": "QIBOX Screen Protector Compatible with Sony Alpha a7RIII a7RIV A7R3 A9 A7RII A7SII A77II RX100 Camera, Tempered Glass Screen Guard Full Coverage Edge to Edge[3 Pack], Not for A7IV Camera",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B072R49R5N",
+    "titulo": "Rokinon IO35AF-E 35mm f/2.8 Ultra Compact Wide Angle Lens for Sony E Mount Full Frame, Black",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FVYKFXF",
+    "titulo": "ASRock B450M PRO4 AM4 AMD Promontory B450 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09N42GVF7",
+    "titulo": "Corsair CMK32GX4M2F4000C19 Vengeance LPX 32GB (2x16GB) DDR4 4000 C19 1.35V Desktop Memory for Intel X299 Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XNQY6PJ",
+    "titulo": "Anwenk Grey Card White Balance Card 18% Exposure Photography Card 5X4 Custom Calibration Camera Checker Video, DSLR and Film",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WDLHPY1",
+    "titulo": "AMD Ryzen 7 2700 Processor with Wraith Spire LED Cooler - YD2700BBAFBOX",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09D5D6PXR",
+    "titulo": "WD_BLACK 1TB SN750 NVMe Internal Gaming SSD Solid State Drive with Heatsink - Gen3 PCIe, M.2 2280, 3D NAND, Up to 3,470 MB/s - WDS100T3XHC",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07C5VG64V",
+    "titulo": "Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08TBRZMY3",
+    "titulo": "Soft Silicon Camera Viewfinder Eyecup Eyeshade for Sony A7C Alpha 7C (ILCE7CL/S) Eyepiece Eye Cup Protector",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WLT77K8",
+    "titulo": "AMD Ryzen 9 3900X 12-core, 24-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler with MSI MEG X570 ACE Motherboard",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09NBSBMP9",
+    "titulo": "StarTech.com 2x M.2 SATA SSD Controller Card - PCIe - PCI Express M.2 SATA III Controller - NGFF Card Adapter (PEX2M2), Red",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0878GN4J9",
+    "titulo": "Speaker Grill Cloth Stereo Mesh Fabric for Speaker Repair, Gray - 55 x 20 in / 140 x 50 cm",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07MKCG5ZG",
+    "titulo": "SSK Aluminum USB 3.2 Gen 1 to M.2 SATA NGFF SSD Enclosure Adapter, External SATA Based M.2 Solid State Drive Enclosure Reader (for M.2 SATA SSD only)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09WCW4L4G",
+    "titulo": "Scythe Mugen 5 Rev.C CPU Air Cooler, 120mm Single Tower, Black Edition, Intel LGA1700, LGA1151, AMD AM5/AM4/Ryzen 120mm, Single Tower",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07WQKKS8V",
+    "titulo": "XPG SX8200 Pro 256GB 3D NAND NVMe Gen3x4 PCIe M.2 2280 Solid State Drive R/W 3500/3000MB/s SSD (ASX8200PNP-256GT-C)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09KRTLKYW",
+    "titulo": "UNISHEEN USB 3.0 Game Capture Card 4K HDMI Video Adapter Card, Broadcast Live Stream and Record, HDMI to USB 3.0 Dongle HD 1080P Live Streaming Video Game Grabber Converter (UC2500H)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BD92612Y",
+    "titulo": "SmallRig 62.2\" Carbon Fiber Tripod with Center Column, Travel Lightweight Tripods & Detachable Monopod, 360° Ball Head, Quick Release Plate, Load up to 26.5 lbs/12 kg-4059",
+    "categoria": "Camera & Photo",
+    "rating": 2.0,
+    "precio": null
+   }
+  ]
+ },
+ "AHBIEBBF5OV4B4WENRM3SR7WH2OA": {
+  "interacciones": 27,
+  "top_categorias": [
+   "Computers",
+   "Cell Phones & Accessories",
+   "All Electronics",
+   "Home Audio & Theater",
+   "Car Electronics"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B01MG8HV3L",
+    "titulo": "Acoustic Audio PSW-10 400 Watt 10-Inch Down Firing Powered Subwoofer (Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00G9DIR34",
+    "titulo": "ZXUY 15 Pcs BNC Female to BNC Female CCTV Security Camera Adapter Straight Connector",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0041OOFE8",
+    "titulo": "Mediabridge ULTRA Series Subwoofer Cable (35 Feet) - Dual Shielded with Gold Plated RCA to RCA Connectors - Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XJQTV1G",
+    "titulo": "Pyle Backup Rear View Car Camera Screen Monitor System - Parking & Reverse Safety Distance Scale Lines, Waterproof, Night Vision, 170° View Angle, 7\" LCD Video Color Display for Vehicles - (PLCM7700)",
+    "categoria": "Car Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0081GZDQQ",
+    "titulo": "HDE E336 Backup Camera With 135 degree Viewing Angle",
+    "categoria": "Car Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08145LN1D",
+    "titulo": "Beastron Waterproof Car Rear Vehicle Backup View Camera, HD Color Reverse Rear View Camera, Super Wide Angel for Universal cars Trucks SUVs RVs Vans and more",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00D477YFA",
+    "titulo": "LG MAIN-494759 Electronics Tone+ HBS-730 Bluetooth Headset - Retail Packaging - Orange",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00PEHSJ98",
+    "titulo": "Roku Mini USB Cable Designed to Power Your Roku Streaming Stick",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00MWCJ8VQ",
+    "titulo": "Roku 3500XB Streaming Stick (HDMI) (Renewed)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BM11XSB1",
+    "titulo": "Cable Matters Plug & Play USB to Ethernet Adapter with PXE, MAC Address Clone Support (Ethernet to USB 2.0 Adapter, Ethernet Adapter for Laptop) Supporting 10/100 Mbps Ethernet Network in Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0C5B6TQNL",
+    "titulo": "Cable Matters Plug & Play USB to Ethernet Adapter with PXE, MAC Address Clone Support (USB 3.0 to Gigabit Ethernet, Ethernet to USB, Ethernet Adapter for Laptop) Supporting 10/100/1000Mbps in Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000NJOHW0",
+    "titulo": "Koolatron 110V AC to 12V DC Power Adapter with Circuit Breaker, AC to DC Power Converter, 12V 5A DC Power Supply, Black, 6 Ft Cord for 12V Portable Devices, Compressor, Cooler, Car Fridge, and More",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BPL157WQ",
+    "titulo": "SanDisk 64GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-064G-G46",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06XHWWJRW",
+    "titulo": "SanDisk Ultra Fit 128GB USB 3.0 Flash Drive - SDCZ43-128G-GAM46",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00H4J5B9U",
+    "titulo": "Plugable HDMI to VGA Adapter, Driverless 6 Foot (1.8 Meter) Converter Cable Supporting Up to 1920 x 1080 (60Hz)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B081D9XHPK",
+    "titulo": "Twisted Veins HDMI 90 Degree, 3-Pack, Right Angle Adapters/Connectors",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001TIG36C",
+    "titulo": "VideoSecu Mounts Tilt TV Wall Mount Bracket for Most 23\"- 85\" LCD UHD LED Plasma TV with 75X75 100x100 400x400 684x400 700x400mm, with Magnetic Stud Finder and HDMI Cable MF609B BXM",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GKH4SLV",
+    "titulo": "WD Purple 1TB Surveillance Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD10PURX [Old Version]",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07DFJDP4T",
+    "titulo": "SAMSUNG Galaxy S7 Active G891A 32GB Unlocked GSM Shatter,Dust and Water Resistant Smartphone w/ 12MP Camera - Titanium Gray",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004VRGRI2",
+    "titulo": "Neewer 1-Port USB 2.0 TCP/IP LPR DHCP Network Print Server with Ethernet Cable, Works with 10Base-T 100Base-T Networks",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AHBYTEJ25FWY6HRZZGZHKC5I4X3A": {
+  "interacciones": 28,
+  "top_categorias": [
+   "All Electronics",
+   "Computers",
+   "Cell Phones & Accessories",
+   "Apple Products",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0BGCWQ8R1",
+    "titulo": "Protective case for Shokz openrun, openrun pro, openrun Mini, openmove, opencomm, Aftershokz Aeropex, OpenMove, Trekz, Trekz Mini, Trekz Air, Bluez 2, 2S; KSCAT, Sades, DIGICare, allmity",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07LBRZ5TH",
+    "titulo": "BESTEK 4,000 Joules Surge Protector with USB, Power Strips with 8 AC Outlet, 3 USB-A 2.4A 1USB-C 3A, MAX Output 1625W 13A, Long 5 Feet Heavy Duty Extension Cords",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01D6MZ0YO",
+    "titulo": "Earbuds in-Ear Headphones/Earphones : Noise Isolating with Powerful Massive Bass Driver, The Absolute IEM, Ultra Clear Highs and Mids from Dynamic Dual Drivers : The Audiophile Elite",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08LCTBRBF",
+    "titulo": "EMK 90 Degree Optical Audio Cable(6.6ft/2m) Nylon Braided Digital SPDIF Audio Optical Cable[360 Degree Rotatable,Super Practical] Toslink Cable for Sound Bar, TV, PS4, Xbox - Blue Series",
+    "categoria": "Industrial & Scientific",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XHU3354",
+    "titulo": "Apple Lightning to Digital AV Adapter",
+    "categoria": "Apple Products",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06Y2VP3C7",
+    "titulo": "Ubeesize Flexible Mini Phone Tripod, Portable and Adjustable Camera Stand Holder with Wireless Remote and Universal Clip, Compatible with Cellphones, Sports Cameras",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08B7P7CJX",
+    "titulo": "Anker Power Strip with USB C, 30W PowerPort Strip PD 2 Mini with 2 Outlets & 3 USB (18W USB C), 5 ft Cord, Flat Plug, high-Speed Charge to Phones, Tablets, for Hotel, Dorm Room, Cruise Ship and Home",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08L5M9BTJ",
+    "titulo": "Apple 20W USB-C Power Adapter - iPhone Charger with Fast Charging Capability, Type C Wall Charger",
+    "categoria": "Apple Products",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00TEAX5FO",
+    "titulo": "Polaroid Wireless Camera Shutter Remote with Interval Timer for Select Canon SLR Cameras",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07B6L2QCF",
+    "titulo": "Alexa Voice Remote (2nd Gen) with power and volume controls – requires compatible Fire TV device",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07Z9W4V78",
+    "titulo": "KINPS [MFI Certified 10ft USB C to Lightning Fast Charging Cable Compatible with iPhone 12 Pro Max/12 Mini/12/11 Pro Max/XS, Supports Power Delivery(for Use with Type C Chargers), White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B075XL16DN",
+    "titulo": "JJC EF & EF-S Mount Auto Focus Extension Tube Set for Canon EOS 90D 80D 70D 60D 77D Rebel T6 T7 T5 T8i T7i T6i T6s T5i T4i SL3 SL2 EOS 6D Mark II 7D Mark II 5D Mark IV III 5Ds R 1Dx Mark III and More",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07GZFM1ZM",
+    "titulo": "Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision",
+    "categoria": "Amazon Devices",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B075Q4WSXD",
+    "titulo": "MoKo Case for Amazon Fire HD 10 Tablet (7th and 9th Generation, 2017 and 2019 Release) 10” - Slim Folding Stand Cover with Auto Wake/Sleep for 10.1 Inch Tablet, Black",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09JK6JZ74",
+    "titulo": "[Apple MFi Certified] Lightning to 3.5 mm Headphone Jack Adapter, 2 Pack Earphone Audio Jack Aux, Dongle Cable Compatible with iPhone 13/12/11 Pro/XR/XS Max/X/8/7 Support All iOS& Music Control",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07RRZQBRN",
+    "titulo": "VITADE PC Webcam for Streaming Full HD 1080P, 960A USB Pro Computer Web Camera Video Cam for Mac Windows Laptop Conferencing Gaming Webcam with Ring Light & Microphone, Black, Small",
+    "categoria": "Camera & Photo",
+    "rating": 1.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FCKYFRC",
+    "titulo": "Amazon Basics USB Plug-n-Play Computer Speakers for PC or Laptop, Black - Set of 2",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B073QLZ9BT",
+    "titulo": "DoHonest External USB 2.0 DVD Drive, DVD +/-RW CD +/-RW Writer Burner Player with Classic Silvery for MacBook Air, MacBook Pro, Mac OS, PC Laptop",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08TJXX3MD",
+    "titulo": "Amazon Basics microSDXC Memory Card with Full Size Adapter, A2, U3, Read Speed up to 100 MB/s, 64 GB, Pack of 2, Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07LG5WBTS",
+    "titulo": "Micro Center 64GB Class 10 MicroSDXC Flash Memory Card with Adapter for Mobile Device Storage Phone, Tablet, Drone & Full HD Video Recording - 80MB/s UHS-I, C10, U1 (1 Pack)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AHCWSSJ5JGMIGX5DPF2EZFTRZQTQ": {
+  "interacciones": 34,
+  "top_categorias": [
+   "Camera & Photo",
+   "Computers",
+   "All Electronics",
+   "Tools & Home Improvement",
+   "Industrial & Scientific"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B0987C9SFD",
+    "titulo": "Canon EF 50mm f/1.2L USM Ultra-Fast Standard AutoFocus Lens - International Version (No Warranty)",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00NM6U662",
+    "titulo": "Magic-T 5pcs High-Speed Micro USB Extra long 6ft 2m Sturdy Nylon Braided Data Cable Charging Cord for Samsung Galaxy S4 S3 Note 1 2 HTC ONE M8 NOKIA PDA X-BOX (Red/Orange/Yellow/Green/Blue)",
+    "categoria": "Industrial & Scientific",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B009RVUYAY",
+    "titulo": "SanDisk Extreme PRO 256GB up to 95MB/s UHS-I/U3 SDXC Flash Memory Card - SDSDXPA-256G-G46",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000JQ36Z6",
+    "titulo": "Logisys 15\" Blue Deluxe Sound Activated CCFL Kit",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0006M1HWW",
+    "titulo": "Honeywell Ademco 5800WAVE Wireless Siren",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00LEUF4HE",
+    "titulo": "LYNX Touch 7000 Control System by Honeywell 7\" full-color touchscreen WiFi ZWave compatible",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008LMX2E0",
+    "titulo": "Honeywell L5100-ZWAVE - Z-Wave Control Communication Module",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B008LMW1J2",
+    "titulo": "Honeywell L5100-WIFI - L5100 WiFi Module for Lynx Touch 5100",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00MHYMA9Q",
+    "titulo": "Foscam US Standard DC Power Supply 5V - Black",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001UKH4OY",
+    "titulo": "Honeywell 5853 Wireless Glass Break Detector",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00F3ZN55E",
+    "titulo": "Corsair CC-9011034-WLEDCORSAIR CARBIDE AIR 540 ATX Cube Case, High-Airflow - Steel Silver",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00QYILVRS",
+    "titulo": "PAPAGO Dash Camera for Cars GoSafe 520 Super HD 2304x1296 Dash Cam - Car DVR Dashboard Camera with Superior Night Vision, Parking Monitor, G-Sensor,3\" Screen GS520-US",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004CRSM4I",
+    "titulo": "Corsair Vengeance 8 GB (2 x 4 GB) DDR3 1600 MHz PC3 12800 240-Pin DDR3 Dual Channel Memory Kit 1.5V (CMZ8GX3M2A1600C9)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B06ZXXJFMJ",
+    "titulo": "Yamaha AVENTAGE Audio & Video Component Receiver, Black (RX-A2070BL), Works with Alexa",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0748KJY4Q",
+    "titulo": "LG 32UD59-B 32-Inch 4K UHD LED-Lit Monitor with FreeSync (31.5\" Display)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01553D9CC",
+    "titulo": "Fluance SXBP-BK High Definition Bipolar Surround Sound Wide Dispersion Speakers",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01N94J8L9",
+    "titulo": "HDMI Cable 6FT (3 Pack) Fosmon CL3 Rated (In-Wall Installation) 4K Latest Standard 2.0 Supports 2160p 3D 18Gbps ARC HDR UHD 1080p, Nylon Braided with 24K Gold Plated Connectors",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B004SUO5QS",
+    "titulo": "Mopar Jeep Wrangler JK Kicker Speaker Upgrade",
+    "categoria": "Automotive",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08FBLJN1V",
+    "titulo": "Soft Camera Eyecup Eyepiece Viewfinder Eyeshade for Canon EOS 6DM2 5DM2 6D 5D Mark II 90D 80D 77D 70D 60D 50D 4000D 2000D Rebel T100 T8i T7i T7 T6s T6i T6 T5i T5 T4i SL3 SL2 Replac Canon EB EF Eye Cup",
+    "categoria": "Camera & Photo",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07V39FNRW",
+    "titulo": "Tenergy Premium 16 Pack NonRechargeable CR123A 3V Lithium Battery, 1600mAh Primary Battery for Arlo Cameras, Photo Lithium Batteries, Security Cameras, Smart Sensors, and More",
+    "categoria": "All Electronics",
+    "rating": 2.0,
+    "precio": null
+   }
+  ]
+ },
+ "AHSAGP76WCV5RDJHKS4SXA2NPNPA": {
+  "interacciones": 31,
+  "top_categorias": [
+   "Computers",
+   "All Electronics",
+   "Home Audio & Theater",
+   "Automotive",
+   "Cell Phones & Accessories"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B00AJHDZSI",
+    "titulo": "ARRIS SURFboard SB6141 8x4 DOCSIS 3.0 Cable Modem - Retail Packaging- White",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07BW18XZP",
+    "titulo": "SanDisk Extreme 16 GB SDHC Class 10 UHS-1 Flash Memory Card 45MB/s SDSDX-016G-X46",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01MYMMZS1",
+    "titulo": "StarTech.com 6 ft Slim 3.5mm Stereo Audio Cable - M/M - 3.5mm Male to Male Audio Cable for Your Smartphone, Tablet or MP3 Player (MU6MMS) Black",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B000GZ6ZQW",
+    "titulo": "Parts Express 12-Feet 3.5mm Stereo Male to Male Cable",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B4FJ4G3J",
+    "titulo": "Monoprice 6-Feet USB 2.0 A Male to Mini-B 5 Pin Male 28/24AWG Cable with Ferrite Core and Gold Plated (105448), Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001JT1CEE",
+    "titulo": "RoadPro – 25' Hardwire Replacement 2 Wire 22-Gauge Parallel Wire,Black/Red",
+    "categoria": "Automotive",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0949SYKMX",
+    "titulo": "Cable Matters 2-Pack USB to USB Extension Cable 6 ft (USB 3.0 Extension Cable/USB Extender) in Blue for Webcam, VR Headset, Printer, Hard Drive and More - 6 Feet",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B011U71IZW",
+    "titulo": "Axess SPBT1033 Portable Bluetooth Indoor/Outdoor 2.1 Hi-Fi Cylinder Loud Speaker with Built-In 4\" Sub and FM Radio, SD Card, AUX Inputs in Brown",
+    "categoria": "Home Audio & Theater",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08HRLQNY3",
+    "titulo": "Mancro Laptop Backpack for Travel, 15.6 in Anti-Theft Business Backpack for Men Women with USB Charging Port & Lock, Gifts for Men Women, Water Resistant Travel Computer Bag Daypack, Grey",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07KXSPY7L",
+    "titulo": "JSAUX Printer Cable, 6FT USB Printer Cable USB 2.0 Type A Male to B Male Scanner Cord USB B Cable High Speed for HP, Canon, Epson, Dell, Brother, Lexmark, Xerox, Samsung etc and Piano, DAC",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BVH24H94",
+    "titulo": "SABRENT USB 3.0 to SATA External Hard Drive Lay Flat Docking Station with Built in Cooling Fan for 2.5 or 3.5in HDD, SSD [Support UASP and 22TB] (EC-DFFN)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09JF83P1H",
+    "titulo": "Samsung Galaxy Buds Plus, True Wireless Earbuds (Wireless Charging Case Included), White – US Version",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07CQMZVZ6",
+    "titulo": "Sony MDR7506 Professional Large Diaphragm Headphone",
+    "categoria": "Musical Instruments",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B74NKZF4",
+    "titulo": "Sleep Headphones, Sleep Headphones for Side Sleepers - Noise Cancelling Headphones for Sleeping, Joseche Sports Sleeping Headphones Headband for Insomnia Nuit Travel, Gift for Women Men Mom Dad",
+    "categoria": "All Electronics",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08TFRX9LM",
+    "titulo": "SAMSUNG Electronics 870 EVO 2TB 2.5 Inch SATA III Internal SSD (MZ-77E2T0B/AM)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BVH2C84P",
+    "titulo": "SABRENT 4-Bay External SSDs Docking Station for Rocket XTRM-Q, Rocket Nano, Rocket Pro with USB Type-C, 10Gbps Speeds, Cooling Fan, LED Indicators (DS-4BNE)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07FW38SF8",
+    "titulo": "Alex Tech 10ft - 3/8 inch Cord Protector Wire Loom Tubing Cable Sleeve Split Sleeving For USB Cable Power Cord Audio Video Cable – Protect Cat From Chewing Cords - Blackred",
+    "categoria": "Tools & Home Improvement",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0BS7N6VFD",
+    "titulo": "SABRENT USB 3.0 Extension Cable 22AWG A Male to A Female [Black] 10 Feet for Data Transfer/Charging (CB-3010)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B2TJTHKK",
+    "titulo": "SABRENT 7 Port USB 3.0 HUB + 2 Charging Ports with 12V/4A Power Adapter [Black] (HB-U930)",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08Z3B5QL3",
+    "titulo": "Anker USB C to 3.5mm Audio Adapter, Male to Female Nylon Cable for Samsung S20/S20+/S20 Ultra, Pixel 4/+ 4XL, and More Type C Devices",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   }
+  ]
+ },
+ "AHYNYOEKKWY5SHVD3N27JVUFILHA": {
+  "interacciones": 28,
+  "top_categorias": [
+   "Computers",
+   "Home Audio & Theater",
+   "All Electronics",
+   "Cell Phones & Accessories",
+   "Amazon Devices"
+  ],
+  "rango_precio": null,
+  "historial_resumen": [
+   {
+    "parent_asin": "B09CDNM3VW",
+    "titulo": "OMOTON Tablet Stand Holder Adjustable, T1 Desktop Aluminum Tablet Dock Cradle Compatible with iPad Air/Mini, iPad 10.2/9.7, iPad Pro 11/12.9, Samsung Tab and More, Gold",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00XVP4EEE",
+    "titulo": "iSeeker Bundle of 3 Durable 6.6ft/2m Nylon Braided Tangle-Free Micro USB Cable for Android, Samsung, HTC, Motorola, Nokia and More",
+    "categoria": "Cell Phones & Accessories",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01690F5KO",
+    "titulo": "KabelDirekt – 6ft – Headphone Extension Lead Cable, 3.5mm connectors (aux Audio Cable, Male Jack Plug/Female Jack, Practically Unbreakable Metal casing, Perfect for Headphones, Black)",
+    "categoria": "Home Audio & Theater",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0936VQD71",
+    "titulo": "KingDian 480GB 3D NAND 2.5 Inch Internal SSD, Performance Solid State Drive SATA III 6 Gb/s, 7mm, Up to 560 MB/s",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0184SAWXY",
+    "titulo": "NVIDIA SHIELD K1 8\" Tablet - Black",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00TZAO9G2",
+    "titulo": "Ring Wi-Fi Enabled Video Doorbell in Polished Brass, Works with Alexa",
+    "categoria": "Amazon Devices",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00OBRE5UE",
+    "titulo": "SAMSUNG 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01BCWKBZI",
+    "titulo": "Samsung T3 Portable SSD - 2TB - USB 3.1 External SSD (MU-PT2T0B/AM)",
+    "categoria": "Computers",
+    "rating": 3.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08B4YZWG7",
+    "titulo": "Cooler Master RC-130-KKN1 Elite 130 - Mini-ITX Computer Case with Mesh Front Panel and Water Cooling Support",
+    "categoria": "Computers",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0949SYKMX",
+    "titulo": "Cable Matters 2-Pack USB to USB Extension Cable 6 ft (USB 3.0 Extension Cable/USB Extender) in Blue for Webcam, VR Headset, Printer, Hard Drive and More - 6 Feet",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B09NM6TXRN",
+    "titulo": "EVGA SuperNOVA 850 P2, 80+ PLATINUM 850W , Fully Modular , EVGA ECO Mode, 10 Year Warranty , Includes FREE Power On Self Tester, Power Supply 220-P2-0850-X1,Black",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B00GXXJF72",
+    "titulo": "Logitech Ultrathin Touch Mouse T630 for Windows 8 Touch Gestures",
+    "categoria": "Computers",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B001TDEBZ2",
+    "titulo": "Corsair Dominator Triple Channel Airflow Memory Fan (CMXAF2)",
+    "categoria": "All Electronics",
+    "rating": 4.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07V5DQK54",
+    "titulo": "Fractal Design Silent Series R2 Blackout Edition 120mm Case Fan FD-FAN-SSR2-120-BK",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B0B285L64J",
+    "titulo": "RCA 3-Device Palm-Sized Universal Remote, Long Range IR, Replaces Most Major Remote Brands, Designed for Comfort, RCR503BE",
+    "categoria": "Home Audio & Theater",
+    "rating": 2.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01J42JMQ2",
+    "titulo": "Acer Chromebook 14, Aluminum, 14-inch Full HD, Intel Celeron N3160, 4GB LPDDR3, 32GB, Chrome, Gold, CB3-431-C0AK",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B01MSNCDTA",
+    "titulo": "Gigabyte Geforce GTX 1050 2GB GDDR5 128 Bit PCI-E Graphic Card (GV-N1050D5-2GD)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B08SCF2HC2",
+    "titulo": "SABRENT 3.5 Inch to x2 SSD / 2.5 Inch Internal Hard Drive Mounting Kit [SATA and Power Cables Included] (BK-HDCC)",
+    "categoria": "Computers",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B003VAGXZC",
+    "titulo": "Logitech MK320 Wireless Desktop Keyboard and Mouse Combo — Entertainment Keyboard and Mouse, 2.4GHz Encrypted Wireless Connection, Long Battery Life (Discontinued by Manufacturer)",
+    "categoria": "All Electronics",
+    "rating": 5.0,
+    "precio": null
+   },
+   {
+    "parent_asin": "B07TYKS8SF",
+    "titulo": "AKASO V50X Native 4K30fps WiFi Action Camera with EIS Touch Screen 4X Zoom 131 feet Waterproof Camera Support External Mic Remote Control Sports Camera with Helmet Accessories",
+    "categoria": "Camera & Photo",
+    "rating": 4.0,
+    "precio": null
+   }
+  ]
+ }
+}

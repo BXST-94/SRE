@@ -6,7 +6,7 @@
   <title>{% block title %}Recomendador explicable{% endblock %}</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-<body>
+<body class="{% if active_tab == 'chatbot' %}chat-page-dark{% endif %}">
 <div class="app-shell">
 
   <header class="topbar">
@@ -18,6 +18,8 @@
       </div>
     </div>
     <nav class="tabs">
+      <a href="{{ url_for('chatbot_view') }}"
+         class="tab {% if active_tab == 'chatbot' %}active{% endif %}">Chatbot</a>
       <a href="{{ url_for('cargar') }}"
          class="tab {% if active_tab == 'cargar' %}active{% endif %}">Cargar usuario</a>
       <a href="{{ url_for('historial') }}"

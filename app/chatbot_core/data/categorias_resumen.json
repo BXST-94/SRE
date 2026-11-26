@@ -1,0 +1,1146 @@
+{
+ "generado": "2026-11-26T12:31:29",
+ "total_items": 95658,
+ "categorias": [
+  {
+   "nombre": "All Electronics",
+   "items": 27236,
+   "top10": [
+    {
+     "parent_asin": "B0BSFT117F",
+     "title": "SanDisk Cruzer Blade 16GB USB 2.0 Flash Drive",
+     "price": "5.38",
+     "average_rating": 4.7,
+     "rating_number": 260446
+    },
+    {
+     "parent_asin": "B08XNCHTCY",
+     "title": "TOZO T6 True Wireless Earbuds Bluetooth 5.3 Headphones Touch Control with Wireless Charging Case IPX8 Waterproof Stereo Earphones in-Ear Built-in Mic Headset Premium Deep Bass White (2022 Upgraded)",
+     "price": "26.99",
+     "average_rating": 4.4,
+     "rating_number": 249207
+    },
+    {
+     "parent_asin": "B0BW4PFM58",
+     "title": "OontZ Angle 3 Bluetooth Speaker, Portable Wireless Bluetooth 5.0 Speaker, 10 Watts, Crystal Clear Stereo Sound, Rich Bass, IPX5 Water Resistant, Loud Portable Bluetooth Speaker (Black)",
+     "price": "24.99",
+     "average_rating": 4.5,
+     "rating_number": 190291
+    },
+    {
+     "parent_asin": "B094PMZB6V",
+     "title": "Roku Express | HD Roku Streaming Device with Simple Remote (no TV controls), Free & Live TV",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 177618
+    },
+    {
+     "parent_asin": "B0BGS23YKX",
+     "title": "JSAUX USB-C to USB A Cable 3.1A Fast Charging [2-Pack 6.6ft], USB Type C Charger Cord Compatible with Samsung Galaxy S10 S9 S8 S20 Plus A51 A12 A11, Note 10 9 8, PS5 Controller USB C Charger-Green",
+     "price": "11.99",
+     "average_rating": 4.7,
+     "rating_number": 157069
+    },
+    {
+     "parent_asin": "B0BXZ4D1C2",
+     "title": "GE Pro 3-Outlet Power Strip with Surge Protection, 8 Ft Designer Braided Extension Cord, Grounded, Flat Plug, 250 Joules, Warranty, UL Listed, Gray/White, 38433",
+     "price": "12.17",
+     "average_rating": 4.8,
+     "rating_number": 143891
+    },
+    {
+     "parent_asin": "B07XY2ZKYB",
+     "title": "ProCase iPad 10.2 Case iPad 9th Generation 2021/ iPad 8th Generation 2020/ iPad 7th Generation 2019 Case, Slim Stand Hard Back Shell Protective Smart Cover Case for iPad 10.2 Inch -Purple",
+     "price": "16.99",
+     "average_rating": 4.5,
+     "rating_number": 129585
+    },
+    {
+     "parent_asin": "B0CDPYGLTJ",
+     "title": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+     "price": "57.0",
+     "average_rating": 4.7,
+     "rating_number": 125516
+    },
+    {
+     "parent_asin": "B08TMJFSV3",
+     "title": "Soundcore Anker Life P2 True Wireless Earbuds, Clear Sound, USB C, 40H Playtime, IPX7 Waterproof, Wireless Earphones for Work, Home Office",
+     "price": "39.99",
+     "average_rating": 4.2,
+     "rating_number": 117047
+    },
+    {
+     "parent_asin": "B099V8GPR4",
+     "title": "JBL Flip 4, Black - Waterproof, Portable & Durable Bluetooth Speaker - Up to 12 Hours of Wireless Streaming - Includes Noise-Cancelling Speakerphone, Voice Assistant & JBL Connect+",
+     "price": "82.95",
+     "average_rating": 4.8,
+     "rating_number": 113588
+    }
+   ]
+  },
+  {
+   "nombre": "Computers",
+   "items": 25985,
+   "top10": [
+    {
+     "parent_asin": "B08CLNX58K",
+     "title": "SanDisk 32GB 2-Pack Ultra MicroSDHC UHS-I Memory Card (2x32GB) - SDSQUAR-032G-GN6MT",
+     "price": "13.4",
+     "average_rating": 4.7,
+     "rating_number": 402800
+    },
+    {
+     "parent_asin": "B09V1FT19S",
+     "title": "SanDisk 256GB Extreme microSDXC UHS-I Memory Card with Adapter - Up to 160MB/s, C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-256G-GN6MA",
+     "price": "28.99",
+     "average_rating": 4.8,
+     "rating_number": 337225
+    },
+    {
+     "parent_asin": "B073JWXGNT",
+     "title": "SanDisk 32GB Ultra MicroSDHC UHS-I Memory Card with Adapter - 98MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUAR-032G-GN6MA",
+     "price": "8.66",
+     "average_rating": 4.7,
+     "rating_number": 233718
+    },
+    {
+     "parent_asin": "B0BRZG5TK4",
+     "title": "SanDisk 256GB Ultra microSDXC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUA4-256G-GN6MA",
+     "price": "25.49",
+     "average_rating": 4.7,
+     "rating_number": 230266
+    },
+    {
+     "parent_asin": "B073JYC4XM",
+     "title": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter - 100MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUAR-128G-GN6MA",
+     "price": "14.49",
+     "average_rating": 4.7,
+     "rating_number": 218045
+    },
+    {
+     "parent_asin": "B09ZQ4GHM8",
+     "title": "WD 2TB Elements Portable HDD, External Hard Drive, USB 3.0 for PC & Mac, Plug and Play Ready - WDBU6Y0020BBK-WESN",
+     "price": "61.99",
+     "average_rating": 4.7,
+     "rating_number": 200186
+    },
+    {
+     "parent_asin": "B08CKZ36N7",
+     "title": "Kingston 1.92TB A400 SATA 3 2.5\" Internal SSD SA400S37/1920G - HDD Replacement for Increase Performance",
+     "price": "nan",
+     "average_rating": 4.8,
+     "rating_number": 193561
+    },
+    {
+     "parent_asin": "B0BN74ZJDK",
+     "title": "SABRENT 10 Port 60W USB 3.0 Hub with Individual Power Switches and LEDs Includes 60W 12V/5A Power Adapter (HB-BU10)",
+     "price": "49.95",
+     "average_rating": 4.6,
+     "rating_number": 184507
+    },
+    {
+     "parent_asin": "B0BPL157WQ",
+     "title": "SanDisk 64GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-064G-G46",
+     "price": "8.79",
+     "average_rating": 4.7,
+     "rating_number": 156817
+    },
+    {
+     "parent_asin": "B0BJW5LJ4J",
+     "title": "SanDisk 128GB Extreme PRO SDXC UHS-I Card - C10, U3, V30, 4K UHD, SD Card - SDSDXXY-128G-GN4IN",
+     "price": "25.5",
+     "average_rating": 4.8,
+     "rating_number": 149385
+    }
+   ]
+  },
+  {
+   "nombre": "Camera & Photo",
+   "items": 15193,
+   "top10": [
+    {
+     "parent_asin": "B07KPLTMYB",
+     "title": "Fujifilm INSTAX Mini Instant Film Twin Pack (White) - International Version",
+     "price": "17.26",
+     "average_rating": 4.7,
+     "rating_number": 168774
+    },
+    {
+     "parent_asin": "B08RLW7918",
+     "title": "WYZE Cam v2 - White",
+     "price": "nan",
+     "average_rating": 4.5,
+     "rating_number": 121629
+    },
+    {
+     "parent_asin": "B08P72Y8MN",
+     "title": "Fujifilm Instax Mini Variety Film Value Pack 60 Count",
+     "price": "43.62",
+     "average_rating": 4.8,
+     "rating_number": 115327
+    },
+    {
+     "parent_asin": "B077W8JVFY",
+     "title": "Amazon Basics 50-inch Lightweight Camera Mount Tripod Stand With Bag",
+     "price": "23.89",
+     "average_rating": 4.5,
+     "rating_number": 96315
+    },
+    {
+     "parent_asin": "B08R5N6VQ5",
+     "title": "Wyze Cam Pan 1080p Pan/Tilt/Zoom Indoor Smart Home Camera with Wyze 32GB MicroSD Card Class 10",
+     "price": "nan",
+     "average_rating": 4.5,
+     "rating_number": 76629
+    },
+    {
+     "parent_asin": "B07BX4X77P",
+     "title": "Amazon Basics 60-Inch Lightweight Tripod With Bag, Black",
+     "price": "35.99",
+     "average_rating": 4.6,
+     "rating_number": 74702
+    },
+    {
+     "parent_asin": "B0C1VP1GGK",
+     "title": "WYZE Cam v3 with Color Night Vision, Wired 1080p HD Indoor/Outdoor Video Camera, 2-Way Audio, Works with Alexa, Google Assistant, and IFTTT",
+     "price": "34.18",
+     "average_rating": 4.5,
+     "rating_number": 69836
+    },
+    {
+     "parent_asin": "B01LXDNNBW",
+     "title": "NEEWER Ring Light Kit: 18\"/48cm Outer 55W 5600K Dimmable LED Ring Light, Light Stand, Carrying Bag for Camera, Smartphone, YouTube, TikTok, Self Portrait Shooting, Black",
+     "price": "75.64",
+     "average_rating": 4.7,
+     "rating_number": 60969
+    },
+    {
+     "parent_asin": "B01171X0UW",
+     "title": "NEEWER 50 in 1 Action Camera Accessory Kit Compatible with GoPro Hero 11 10 9 8 7 6 5 4 GoPro Max GoPro Fusion Insta360 DJI Osmo Action Action 2 AKASO, and more",
+     "price": "35.99",
+     "average_rating": 4.5,
+     "rating_number": 54444
+    },
+    {
+     "parent_asin": "B015IY34FA",
+     "title": "Fujifilm Instax Mini Instant Film, 10 Sheets×5 Pack(Total 50 Shoots)",
+     "price": "42.99",
+     "average_rating": 4.8,
+     "rating_number": 50332
+    }
+   ]
+  },
+  {
+   "nombre": "Home Audio & Theater",
+   "items": 7657,
+   "top10": [
+    {
+     "parent_asin": "B0BGNG1294",
+     "title": "Amazon Basics HDMI Cable, 18Gbps High-Speed, 4K@60Hz, 2160p, Ethernet Ready, 10 Foot, Black",
+     "price": "8.55",
+     "average_rating": 4.7,
+     "rating_number": 507202
+    },
+    {
+     "parent_asin": "B08XPWDSWW",
+     "title": "TOZO T10 Bluetooth 5.3 Wireless Earbuds with Wireless Charging Case IPX8 Waterproof Stereo Headphones in Ear Built in Mic Headset Premium Sound with Deep Bass for Sport White (2022 Upgraded)",
+     "price": "21.99",
+     "average_rating": 4.3,
+     "rating_number": 349254
+    },
+    {
+     "parent_asin": "B01N75TWSA",
+     "title": "Amazon Basics Toslink Digital Optical Audio Cable, Multi-Channel, for Audio System, Sound Bar, Home Theatre, Gold-Plated Connectors, 9.8 Foot, Black",
+     "price": "9.8",
+     "average_rating": 4.6,
+     "rating_number": 148591
+    },
+    {
+     "parent_asin": "B07GVWH35S",
+     "title": "HDMI Cable 8K / 4K – 15ft – with A.I.S Shielding – Designed in Germany (Supports All HDMI Devices Like PS5, Xbox, Switch – 8K@60Hz, 4K@120Hz, High Speed HDMI Cord with Ethernet, Black) by CableDirect",
+     "price": "10.99",
+     "average_rating": 4.7,
+     "rating_number": 147751
+    },
+    {
+     "parent_asin": "B07S764D9V",
+     "title": "Panasonic ErgoFit Wired Earbuds, In-Ear Headphones with Microphone and Call Controller, Ergonomic Custom-Fit Earpieces (S/M/L), 3.5mm Jack for Phones and Laptops - RP-TCM125-A (Blue)",
+     "price": "13.99",
+     "average_rating": 4.3,
+     "rating_number": 136251
+    },
+    {
+     "parent_asin": "B0B3T4JWN9",
+     "title": "Anker Soundcore 2 12W Portable Wireless Bluetooth Speaker: Better Bass, 24-Hour Playtime, 66ft Bluetooth Range, IPX7 Water Resistance & Built-in Mic, Dual-Driver Speaker for Beach, Travel, Party- Blue",
+     "price": "44.99",
+     "average_rating": 4.6,
+     "rating_number": 110144
+    },
+    {
+     "parent_asin": "B00PKTU83U",
+     "title": "Sony ZX Series Wired On-Ear Headphones with Mic, White MDR-ZX110AP",
+     "price": "18.25",
+     "average_rating": 4.5,
+     "rating_number": 104579
+    },
+    {
+     "parent_asin": "B0199HAOAU",
+     "title": "Amazon Basics HDMI to DVI Adapter Cable, Bi-Directional 1080p, Gold Plated, Black, 3 Feet, 1-Pack",
+     "price": "6.92",
+     "average_rating": 4.7,
+     "rating_number": 81186
+    },
+    {
+     "parent_asin": "B0B59QBY9G",
+     "title": "Creative Pebble V2 - Minimalistic 2.0 USB-C Powered Desktop Speakers, 3.5 mm AUX-in, Up to 8W RMS Power for Computers and Laptops, Type-A Adapter Included and Extended Cable (Black)",
+     "price": "24.99",
+     "average_rating": 4.6,
+     "rating_number": 76319
+    },
+    {
+     "parent_asin": "B01MDKJXCH",
+     "title": "Amazon Basics 3.5mm Aux to 2 RCA Adapter Audio Cable for Stereo Speaker or Subwoofer with Gold-Plated Plugs, 8 Foot, Black",
+     "price": "8.06",
+     "average_rating": 4.7,
+     "rating_number": 74807
+    }
+   ]
+  },
+  {
+   "nombre": "Cell Phones & Accessories",
+   "items": 7273,
+   "top10": [
+    {
+     "parent_asin": "B01F9RGWF0",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Silver, 6-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 201587
+    },
+    {
+     "parent_asin": "B0756HHHL2",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Silver, 3-Foot - Pack of 10",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 201544
+    },
+    {
+     "parent_asin": "B01F9RGJJO",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Dark Gray, 3-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 200936
+    },
+    {
+     "parent_asin": "B01F9RGF0M",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Silver, 3-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 194216
+    },
+    {
+     "parent_asin": "B01F9RGOI0",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Rose Gold, 3-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 194177
+    },
+    {
+     "parent_asin": "B01F9RGSFE",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Gold, 6-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 194173
+    },
+    {
+     "parent_asin": "B01F9RH0R4",
+     "title": "Amazon Basics Nylon Braided Lightning to USB A Cable, MFi Certified Apple iPhone Charger, Dark Gray, 6-Foot",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 193660
+    },
+    {
+     "parent_asin": "B082WJBWX4",
+     "title": "JETech Case for iPad 10.2-Inch (2021/2020/2019 Model, 9/8/7 Generation), Auto Wake/Sleep Cover (Pink)",
+     "price": "14.99",
+     "average_rating": 4.5,
+     "rating_number": 122337
+    },
+    {
+     "parent_asin": "B092HSPZJ3",
+     "title": "Nulaxy Bluetooth Car FM Transmitter Audio Adapter Receiver Wireless Handsfree Voltmeter Car Kit TF Card AUX 1.44 Display – KM18 Peacock Blue",
+     "price": "19.99",
+     "average_rating": 4.4,
+     "rating_number": 121846
+    },
+    {
+     "parent_asin": "B07V6CGGW2",
+     "title": "R-fun AirPods Case Cover, Soft Silicone Protective Cover with Keychain for Women Men Compatible with Apple AirPods 2nd 1st Generation Charging Case, Front LED Visible-Pink Sand",
+     "price": "6.0",
+     "average_rating": 4.6,
+     "rating_number": 117795
+    }
+   ]
+  },
+  {
+   "nombre": "Industrial & Scientific",
+   "items": 3492,
+   "top10": [
+    {
+     "parent_asin": "B00EZMZTBO",
+     "title": "Amazon Basics USB-A to Mini USB 2.0 Fast Charging Cable, 480Mbps Transfer Speed with Gold-Plated Plugs, 3 Foot, Black",
+     "price": "5.73",
+     "average_rating": 4.6,
+     "rating_number": 55355
+    },
+    {
+     "parent_asin": "B0BTSVTK32",
+     "title": "iPhone Charger Cord 3ft 3Pack MFi Certified Lightning Cable Fast Charging Nylon Braided Phone Charger Cable Compatible with iPhone 14 13 Pro 12 Pro 11 Pro Xs Max Xr 8 7Plus SE",
+     "price": "10.99",
+     "average_rating": 4.3,
+     "rating_number": 46257
+    },
+    {
+     "parent_asin": "B09ZLL36JF",
+     "title": "WALI Universal TV Stand Tabletop, for Most 22 to 65 inch LCD Flat Screen TV, Mounting Holes up to 800 by 500mm (TVS001-W), White",
+     "price": "26.99",
+     "average_rating": 4.5,
+     "rating_number": 38832
+    },
+    {
+     "parent_asin": "B08FT8J1RR",
+     "title": "Nikolable Lightning Cable Apple Certified iPhone Charger 3Pack 6ft Braided Lighting to USB A Charging Cord Compatible with iPhone 13 12 11 Pro Max XS XR 8 Plus 7 Plus 6s Plus 5S iPad Pro and More",
+     "price": "11.99",
+     "average_rating": 4.4,
+     "rating_number": 37124
+    },
+    {
+     "parent_asin": "B08NVX6M88",
+     "title": "[Apple MFi Certified] 6Pack[3/3/6/6/6/10ft] iPhone Charger Lightning Cable Compatible iPhone 14ProMax/14Pro/14/14Plus/13Pro/13/12Pro/12/11 and More-Silver&White",
+     "price": "11.99",
+     "average_rating": 4.4,
+     "rating_number": 37025
+    },
+    {
+     "parent_asin": "B08JPHJX5S",
+     "title": "Cat 6 Ethernet Cable 100 ft (at a Cat5e Price but Higher Bandwidth) Flat Internet Network Cables - Cat6 Ethernet Patch Cable Long - Computer LAN Cable White + Free Cable Clips and Straps",
+     "price": "18.88",
+     "average_rating": 4.7,
+     "rating_number": 32419
+    },
+    {
+     "parent_asin": "B08YDSSD7P",
+     "title": "[Apple MFi Certified] 5Pack(3/3/6/6/10FT) iPhone Charger Nylon Braided Fast Charging Lightning Cable Compatible iPhone 14Pro/14/13Pro/13/12Pro/12/11and More-Silver&White",
+     "price": "10.99",
+     "average_rating": 4.4,
+     "rating_number": 30856
+    },
+    {
+     "parent_asin": "B09D7NN6YZ",
+     "title": "[Apple MFi Certified] 6Pack 3/3/6/6/6/10 FT iPhone Charger Nylon Braided Fast Charging Lightning Cable Compatible iPhone 14 Pro 13 mini 12 11 Pro XS",
+     "price": "9.99",
+     "average_rating": 4.4,
+     "rating_number": 30077
+    },
+    {
+     "parent_asin": "B00OUUX058",
+     "title": "TOSLINK Cable, Optical Audio Cable – 35 feet Long Fiber Optic Cable for soundbars (TOSLINK to TOSLINK, Digital S/PDIF Cable, Stereo Systems/amplifiers/amps, Home Cinema, Xbox One/PS5) – CableDirect",
+     "price": "16.99",
+     "average_rating": 4.7,
+     "rating_number": 28915
+    },
+    {
+     "parent_asin": "B07ZCVQQ52",
+     "title": "iPhone Charger Cord 4Pack iPhone Charger Cable MFi Certified Lightning Cable Fast iPhone Charging Cord Nylon Braided iPhone Charging Cable Compatible with Phone 11 Pro max/XR max/8/7/6/6s/SE 2020,iPad",
+     "price": "nan",
+     "average_rating": 4.2,
+     "rating_number": 28582
+    }
+   ]
+  },
+  {
+   "nombre": "Tools & Home Improvement",
+   "items": 1622,
+   "top10": [
+    {
+     "parent_asin": "B071FXZBMV",
+     "title": "Cable Clips, OHill 16 Pack Black Adhesive Cord Holders, Ideal Cords Management for Organizing Cable Wires-Home, Office, Car, Desk & Nightstand",
+     "price": "8.99",
+     "average_rating": 4.4,
+     "rating_number": 59031
+    },
+    {
+     "parent_asin": "B07FW38SF8",
+     "title": "Alex Tech 10ft - 3/8 inch Cord Protector Wire Loom Tubing Cable Sleeve Split Sleeving For USB Cable Power Cord Audio Video Cable – Protect Cat From Chewing Cords - Blackred",
+     "price": "9.99",
+     "average_rating": 4.6,
+     "rating_number": 51323
+    },
+    {
+     "parent_asin": "B0CBVWHXTS",
+     "title": "Energizer LED Book Light, Clip On Reading Light for Books and Kindles, Batteries Included, Pack of 1, Black",
+     "price": "7.99",
+     "average_rating": 4.5,
+     "rating_number": 34107
+    },
+    {
+     "parent_asin": "B06Y63W4SZ",
+     "title": "PASOW 50pcs Cable Ties Reusable Fastening Wire Organizer Cord Rope Holder 7 Inch (Black)",
+     "price": "6.49",
+     "average_rating": 4.7,
+     "rating_number": 25003
+    },
+    {
+     "parent_asin": "B09S6QPQFS",
+     "title": "TR Industrial Multi-Purpose UV Resistant Natural Cable Ties, 8 inches, 100 Pack",
+     "price": "8.99",
+     "average_rating": 4.7,
+     "rating_number": 24810
+    },
+    {
+     "parent_asin": "B07DCPJBC3",
+     "title": "100ft - 1 inch PET Expandable Braided Sleeving – Black – Alex Tech braided cable sleeve",
+     "price": "22.99",
+     "average_rating": 4.6,
+     "rating_number": 21633
+    },
+    {
+     "parent_asin": "B07TG9VMWY",
+     "title": "HMROPE 100pcs Cable Zip Ties Heavy Duty 8 Inch, Premium Plastic Wire Ties with 50 Pounds Tensile Strength, Self-Locking Black Nylon Tie Wraps for Indoor and Outdoor",
+     "price": "5.95",
+     "average_rating": 4.7,
+     "rating_number": 19745
+    },
+    {
+     "parent_asin": "B01GF0KV6G",
+     "title": "iFixit Pro Tech Toolkit - Electronics, Smartphone, Computer & Tablet Repair Kit",
+     "price": "74.99",
+     "average_rating": 4.9,
+     "rating_number": 17318
+    },
+    {
+     "parent_asin": "B09QQP7JSJ",
+     "title": "Bayco KW-110 Cord Reel, Orange",
+     "price": "9.17",
+     "average_rating": 4.3,
+     "rating_number": 16927
+    },
+    {
+     "parent_asin": "B0BM9GV17J",
+     "title": "12 Inch Zip Cable Ties Black (100 Pack), 40lbs Tensile Strength - Heavy Duty, Self-Locking Premium Nylon Cable Wire Ties for Indoor and Outdoor by Bolt Dropper",
+     "price": "4.99",
+     "average_rating": 4.7,
+     "rating_number": 16657
+    }
+   ]
+  },
+  {
+   "nombre": "Car Electronics",
+   "items": 1343,
+   "top10": [
+    {
+     "parent_asin": "B00KK4B37U",
+     "title": "Metra 40-GM12 GM Antenna Adapter (Barbless)",
+     "price": "8.35",
+     "average_rating": 4.5,
+     "rating_number": 21458
+    },
+    {
+     "parent_asin": "B00XJ5XP3W",
+     "title": "Metra Electronics 95-2001 Double DIN Installation Dash Kit for Select 1994 - 2012 GM Vehicles (packaging may vary)",
+     "price": "10.69",
+     "average_rating": 4.0,
+     "rating_number": 19119
+    },
+    {
+     "parent_asin": "B09QY1BNWW",
+     "title": "BOSS Audio Systems CH6530",
+     "price": "41.99",
+     "average_rating": 4.3,
+     "rating_number": 15295
+    },
+    {
+     "parent_asin": "B09ZF4LT72",
+     "title": "BOSS Audio Systems R1100M Riot Series Car Audio Subwoofer Amplifier - 1100 High Output, Monoblock, Class A/B, 2/4 Ohm Stable, Low/High Level Inputs, Low Pass Crossover, Mosfet Power Supply, Stereo",
+     "price": "65.99",
+     "average_rating": 4.4,
+     "rating_number": 12166
+    },
+    {
+     "parent_asin": "B01FKSEL9M",
+     "title": "Rockford Fosgate R1675X2 Prime 6.75-Inch Full Range 2-Way Coaxial Speaker - Set of 2",
+     "price": "49.99",
+     "average_rating": 4.5,
+     "rating_number": 11950
+    },
+    {
+     "parent_asin": "B00XIXCDLA",
+     "title": "Metra 72-4568 Speaker Harness for Select 1988-UP GM Vehicles",
+     "price": "8.36",
+     "average_rating": 4.6,
+     "rating_number": 10175
+    },
+    {
+     "parent_asin": "B00XITMC9W",
+     "title": "Metra 70-1761 Radio Wiring Harness For Toyota 87-Up Power 4 Speaker",
+     "price": "5.29",
+     "average_rating": 4.5,
+     "rating_number": 9674
+    },
+    {
+     "parent_asin": "B00XIYJ2PE",
+     "title": "Metra 40-CR10 Chrysler/Dodge/Jeep/Ford/GM 2002-Up Car Antenna Adapter Cable",
+     "price": "7.98",
+     "average_rating": 4.5,
+     "rating_number": 8604
+    },
+    {
+     "parent_asin": "B082YWZ77X",
+     "title": "Nulaxy Bluetooth 5.0 FM Transmitter for Car, QC3.0 & USB-C PD 18W Wireless Bluetooth Radio Adapter Music Player/Car Kit with Bass Booster, Hands-Free Calls-NX12",
+     "price": "18.99",
+     "average_rating": 4.4,
+     "rating_number": 7784
+    },
+    {
+     "parent_asin": "B09QZPR1ZP",
+     "title": "Scosche GM02B Power/Speaker Connector Stereo Wiring Harness Compatible with Select 1987-05 Buick/Cadillac/Chevy & GM Vehicles for Aftermarket Radio Installation to Non-Factory Amplified Systems",
+     "price": "6.99",
+     "average_rating": 4.3,
+     "rating_number": 7264
+    }
+   ]
+  },
+  {
+   "nombre": "Amazon Devices",
+   "items": 1158,
+   "top10": [
+    {
+     "parent_asin": "B07H65KP63",
+     "title": "Echo Dot (3rd Gen, 2018 release) - Smart speaker with Alexa - Charcoal",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 1034896
+    },
+    {
+     "parent_asin": "B07GZFM1ZM",
+     "title": "Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 819630
+    },
+    {
+     "parent_asin": "B08F1P3BCC",
+     "title": "Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 584328
+    },
+    {
+     "parent_asin": "B07KTYJ769",
+     "title": "Amazon Smart Plug, for home automation, Works with Alexa - A Certified for Humans Device",
+     "price": "24.99",
+     "average_rating": 4.7,
+     "rating_number": 542825
+    },
+    {
+     "parent_asin": "B0791TX5P5",
+     "title": "Fire TV Stick streaming device with Alexa built in, includes Alexa Voice Remote, HD, latest release",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 474536
+    },
+    {
+     "parent_asin": "B08WJSHSLC",
+     "title": "Fire TV Stick (3rd Gen) with Alexa Voice Remote (includes TV controls) + Star Wars The Mandalorian remote cover (Grogu Green)",
+     "price": "44.98",
+     "average_rating": 4.7,
+     "rating_number": 379565
+    },
+    {
+     "parent_asin": "B07HZLHPKP",
+     "title": "Echo Show 5 (1st Gen, 2019 release) -- Smart display with Alexa – stay connected with video calling - Charcoal",
+     "price": "79.99",
+     "average_rating": 4.6,
+     "rating_number": 356248
+    },
+    {
+     "parent_asin": "B075X8471B",
+     "title": "Fire TV Stick with Alexa Voice Remote, streaming media player - Previous Generation",
+     "price": "nan",
+     "average_rating": 4.5,
+     "rating_number": 315583
+    },
+    {
+     "parent_asin": "B07VXXBTX4",
+     "title": "Echo Show 8 (1st Gen, 2019 release) -- HD smart display with Alexa – stay connected with video calling - Sandstone",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 278474
+    },
+    {
+     "parent_asin": "B08F9ZCTCL",
+     "title": "Fire TV Stick Lite, free and live TV, Alexa Voice Remote Lite, smart home controls, HD streaming",
+     "price": "19.99",
+     "average_rating": 4.7,
+     "rating_number": 262857
+    }
+   ]
+  },
+  {
+   "nombre": "Office Products",
+   "items": 1158,
+   "top10": [
+    {
+     "parent_asin": "B0C211KFK4",
+     "title": "Falcon Dust, Off Compressed Gas (152a) Disposable Cleaning Duster, 1, Count, 3.5 oz Can (DPSJB),Black",
+     "price": "nan",
+     "average_rating": 4.2,
+     "rating_number": 67016
+    },
+    {
+     "parent_asin": "B07W49TV8M",
+     "title": "SOUNDANCE Laptop Stand, Aluminum Computer Riser, Ergonomic Laptops Elevator for Desk, Metal Holder Compatible with 10 to 15.6 Inches Notebook Computer, Grey",
+     "price": "32.99",
+     "average_rating": 4.8,
+     "rating_number": 48154
+    },
+    {
+     "parent_asin": "B09TWVB2TH",
+     "title": "VELCRO Brand ONE-WRAP Cable Ties, 100Pk, 8 x 1/2\" Black Cord Organization Straps, Thin Pre-Cut Design, Wire Management for Organizing Home, Office and Data Centers",
+     "price": "10.98",
+     "average_rating": 4.7,
+     "rating_number": 33498
+    },
+    {
+     "parent_asin": "B0B9GFKYSZ",
+     "title": "Monitor Stand Riser, 2 Tiers Wood Monitor Riser Stand with Storage Organizer, Desktop Ergonomic Monitor Stand Riser with Cellphone Holder and Cable Management, 16.7 Inch Shelf, Black",
+     "price": "21.45",
+     "average_rating": 4.6,
+     "rating_number": 24795
+    },
+    {
+     "parent_asin": "B09Q3NR84W",
+     "title": "SimpleHouseware Metal Desk Monitor Stand Riser with Organizer Drawer",
+     "price": "24.87",
+     "average_rating": 4.6,
+     "rating_number": 24472
+    },
+    {
+     "parent_asin": "B0C6M7FY32",
+     "title": "MarkDomain 12-Pack Label Maker Refills Replacement for Brother P Touch TZe TZ 12mm 0.47 Laminated TZe231 Black on White Label Tape, Work with Brother PT-D220 PT-D210 PT-H110 PT-D410, 12mm x 8m",
+     "price": "38.99",
+     "average_rating": 4.7,
+     "rating_number": 20886
+    },
+    {
+     "parent_asin": "B07QJY6MKD",
+     "title": "Falcon Dust-Off Electronics Compressed Gas Duster 10 oz (4 Pack) [New Improved Version]",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 17649
+    },
+    {
+     "parent_asin": "B09PY2KCZF",
+     "title": "Monitor Stand, Monitor Stand Riser 3 Height Adjustable, Monitor Riser with Airflow Vents, Laptop Stand for Desk, Laptop Riser, Desk Organizer for Monitor, 15.6\" Laptop, PC, Printer",
+     "price": "16.99",
+     "average_rating": 4.7,
+     "rating_number": 16850
+    },
+    {
+     "parent_asin": "B0CGZ1XLPX",
+     "title": "Brother Genuine P-Touch, TZe-231 2 Pack Tape (TZE2312PK) ½”(0.47”) x 26.2 ft. (8m) 2-Pack Laminated P-Touch Tape, Black on White",
+     "price": "23.56",
+     "average_rating": 4.8,
+     "rating_number": 15171
+    },
+    {
+     "parent_asin": "B0013CED4I",
+     "title": "Brother Genuine P-Touch, TZe-231 2 Pack Tape (TZE2312PK) ½”(0.47”) x 26.2 ft. (8m) 2-Pack Laminated P-Touch Tape, Black on White, Perfect for Indoor or Outdoor Use, Water Resistant, TZE2312PK, TZE231",
+     "price": "24.98",
+     "average_rating": 4.8,
+     "rating_number": 15021
+    }
+   ]
+  },
+  {
+   "nombre": "Amazon Home",
+   "items": 766,
+   "top10": [
+    {
+     "parent_asin": "B071K5BQPF",
+     "title": "GOER 3.2 ft x 9.8 ft Metallic Tinsel Foil Fringe Curtains Party Photo Backdrop Party Streamers for Birthday,Graduation,New Year Eve Decorations Wedding Decor (Champagne Gold,1 Pack)",
+     "price": "7.99",
+     "average_rating": 4.5,
+     "rating_number": 40274
+    },
+    {
+     "parent_asin": "B092W3K376",
+     "title": "Walker Edison Wren Classic 4 Cubby TV Stand for TVs up to 65 Inches, 58 Inch, Dark Walnut",
+     "price": "145.99",
+     "average_rating": 4.6,
+     "rating_number": 32181
+    },
+    {
+     "parent_asin": "B07S4KJV6W",
+     "title": "VersionTECH. Mini Handheld Fan, USB Desk Fan, Small Personal Portable Table Fan with USB Rechargeable Battery Operated Cooling Folding Electric Fan for Travel Office Room Household Black",
+     "price": "15.99",
+     "average_rating": 4.7,
+     "rating_number": 25484
+    },
+    {
+     "parent_asin": "B0BZJ9BYZ3",
+     "title": "Furinno JAYA Large Entertainment Stand for TV Up to 55 Inch, Blackwood",
+     "price": "77.03",
+     "average_rating": 4.2,
+     "rating_number": 24541
+    },
+    {
+     "parent_asin": "B08518LVFD",
+     "title": "300 PCS Stickers Pack (50-850Pcs/Pack), Colorful VSCO Waterproof Stickers, Cute Aesthetic Stickers. Laptop, Water Bottle, Phone, Skateboard Stickers for Teens Girls Kids, Vinyl Sticker.",
+     "price": "9.99",
+     "average_rating": 4.6,
+     "rating_number": 16245
+    },
+    {
+     "parent_asin": "B082MLVXRR",
+     "title": "Ergear Dual Monitor Stand for 13 to 32 inch, Heavy Duty Fully Adjustable, Mount Fits up to 17.6 lbs per Arm, EGCM1",
+     "price": "29.74",
+     "average_rating": 4.5,
+     "rating_number": 14706
+    },
+    {
+     "parent_asin": "B07PXVTTP6",
+     "title": "ODISTAR Desktop Vacuum Cleaner, Mini Table dust Sweeper Energy Saving,High Endurance up to 90 mins,Cordless&360º Rotatable Design for Keyboard/Home/School/Office(White)",
+     "price": "12.98",
+     "average_rating": 4.3,
+     "rating_number": 14122
+    },
+    {
+     "parent_asin": "B01N0VNIA9",
+     "title": "VIVO Universal Tabletop TV Stand for 22 to 65 inch LCD Flat Screens | VESA Mount with Hardware Included",
+     "price": "21.99",
+     "average_rating": 4.5,
+     "rating_number": 13541
+    },
+    {
+     "parent_asin": "B0093162RM",
+     "title": "Philips SmartSleep Wake-up Light, Colored Sunrise and Sunset Simulation, 5 Natural Sounds, FM Radio & Reading Lamp, Tap Snooze, HF3520/60",
+     "price": "88.26",
+     "average_rating": 4.4,
+     "rating_number": 13310
+    },
+    {
+     "parent_asin": "B0BBQ8VBHD",
+     "title": "GULAKI Hands Free Portable Neck Fan - Rechargeable Mini USB Personal Fan Battery Operated with 3 Level Air Flow, 7 LED lights for Home Office Travel Indoor Outdoor (Black)",
+     "price": "12.99",
+     "average_rating": 4.5,
+     "rating_number": 12646
+    }
+   ]
+  },
+  {
+   "nombre": "Musical Instruments",
+   "items": 602,
+   "top10": [
+    {
+     "parent_asin": "B08ZFS2NFC",
+     "title": "Logitech for Creators BlueSnowball iCE USB Microphone for PC, Mac, Gaming, Recording, Streaming, Podcasting, with Cardioid Condenser Mic Capsule, Adjustable Desktop Stand&USB cable, Plug&Play – Black",
+     "price": "39.99",
+     "average_rating": 4.6,
+     "rating_number": 35153
+    },
+    {
+     "parent_asin": "B07T2451BH",
+     "title": "New bee Headphone Stand Headset Holder Earphone Stand with Aluminum Supporting Bar Flexible Headrest ABS Solid Base for All Headphones Size (Black)",
+     "price": "8.99",
+     "average_rating": 4.6,
+     "rating_number": 26237
+    },
+    {
+     "parent_asin": "B07CQMZVZ6",
+     "title": "Sony MDR7506 Professional Large Diaphragm Headphone",
+     "price": "74.99",
+     "average_rating": 4.7,
+     "rating_number": 23019
+    },
+    {
+     "parent_asin": "B09WKJQKGJ",
+     "title": "Audio-Technica ATH-M20X Professional Studio Monitor Headphones, Black",
+     "price": "49.0",
+     "average_rating": 4.6,
+     "rating_number": 21383
+    },
+    {
+     "parent_asin": "B07FNL4STM",
+     "title": "Audio-Technica ATH-M40x Professional Studio Monitor Headphone, Black, with Cutting Edge Engineering, 90 Degree Swiveling Earcups, Pro-grade Earpads/Headband, Detachable Cables Included",
+     "price": "99.0",
+     "average_rating": 4.6,
+     "rating_number": 14651
+    },
+    {
+     "parent_asin": "B01AG56HYQ",
+     "title": "PowerDeWise Professional Grade Lavalier Clip On Microphone - Lav Mic for Camera Phone iPhone GoPro Video Recording ASMR - Small Noise Cancelling 3.5mm Tiny Shirt Microphone with Easy Clip On System",
+     "price": "33.33",
+     "average_rating": 4.3,
+     "rating_number": 13921
+    },
+    {
+     "parent_asin": "B07CZ2PZJM",
+     "title": "Behringer HPX2000 Headphones High-Definition DJ Headphones Black",
+     "price": "25.0",
+     "average_rating": 4.2,
+     "rating_number": 10550
+    },
+    {
+     "parent_asin": "B0C3GM8JQC",
+     "title": "Shure AONIC 215 Wired Sound Isolating Earbuds, Clear Sound, Single Driver, Secure In-Ear Fit, Detachable Cable, Durable Quality, Compatible with Apple & Android Devices - Blue",
+     "price": "89.0",
+     "average_rating": 4.4,
+     "rating_number": 10383
+    },
+    {
+     "parent_asin": "B06VX1YGQX",
+     "title": "Audio-Technica ATH-M30x Professional Studio Monitor Headphones, Black",
+     "price": "79.0",
+     "average_rating": 4.6,
+     "rating_number": 10297
+    },
+    {
+     "parent_asin": "B00B1N06PO",
+     "title": "Tascam TH-02 Closed Back Studio Headphones, Black",
+     "price": "nan",
+     "average_rating": 4.4,
+     "rating_number": 9636
+    }
+   ]
+  },
+  {
+   "nombre": "Automotive",
+   "items": 411,
+   "top10": [
+    {
+     "parent_asin": "B07BDFQDVJ",
+     "title": "Rydonair Antenna Compatible with Jeep Wrangler JK JKU JL JLU Rubicon Sahara (2007-2023) | 13 inches Flexible Rubber Antenna Replacement | Designed for Optimized FM/AM Reception",
+     "price": "25.99",
+     "average_rating": 4.6,
+     "rating_number": 14874
+    },
+    {
+     "parent_asin": "B081GGB53R",
+     "title": "UGREEN Aux to Bluetooth 5.0 Adapter 3.5mm Bluetooth Receiver for Car USB 2.0 to 3.5mm Jack Kit with Built-in Microphone Aux Input for Hands-Free Calls Compatible with Car Speaker and Home Audio",
+     "price": "11.89",
+     "average_rating": 4.5,
+     "rating_number": 13523
+    },
+    {
+     "parent_asin": "B07VWS9V5S",
+     "title": "Votex - The Original 6 3/4 Inch - Car Wash Proof Short EPDM Rubber Antenna Accessories - USA Stainless Steel Threading - Powerful Internal Copper Coil/Premium Reception",
+     "price": "29.99",
+     "average_rating": 4.4,
+     "rating_number": 10328
+    },
+    {
+     "parent_asin": "B08ZYW1J1X",
+     "title": "TomTom Adhesive Disk (2-pk.) - Black (9A00.202)",
+     "price": "9.95",
+     "average_rating": 4.3,
+     "rating_number": 9250
+    },
+    {
+     "parent_asin": "B00651CLCS",
+     "title": "AntennaX Off-Road (13-inch) Antenna for Jeep Wrangler JK JL Gladiator JT",
+     "price": "24.99",
+     "average_rating": 4.3,
+     "rating_number": 7575
+    },
+    {
+     "parent_asin": "B074VF5N14",
+     "title": "Design Engineering 050351 Boom Mat Speaker Baffles, 4\" x 6\" Oval Slim (Pack of 2)",
+     "price": "12.49",
+     "average_rating": 4.4,
+     "rating_number": 6305
+    },
+    {
+     "parent_asin": "B07KNZC63H",
+     "title": "SUMK Model 3/Y Tempered Glass Screen Protector Model 3 Model Y 15\" Center Control Touchscreen Car Navigation Touch Screen Protector 9H Anti-Scratch Shock Resistant for Model 3 Screen Protector",
+     "price": "24.98",
+     "average_rating": 4.5,
+     "rating_number": 5973
+    },
+    {
+     "parent_asin": "B09FP1QSDD",
+     "title": "RAM Mounts RAM-B-201U Double Socket Arm (Medium) Compatible with RAM B Size 1\" Ball Components",
+     "price": "18.99",
+     "average_rating": 4.8,
+     "rating_number": 5909
+    },
+    {
+     "parent_asin": "B0BB6P28BP",
+     "title": "LEXIN 2pcs B4FM 10 Riders Motorcycle Bluetooth Headset with Music Sharing, Helmet Bluetooth Intercom with Noise Cancellation/FM Radio, Universal Communication Systems for Snowmobile/ATV/Dirt Bike",
+     "price": "179.99",
+     "average_rating": 4.3,
+     "rating_number": 5704
+    },
+    {
+     "parent_asin": "B07PRNB2HS",
+     "title": "Assurant 3-Year Auto Parts Protection Plan $25-49.99",
+     "price": "4.85",
+     "average_rating": 4.5,
+     "rating_number": 5401
+    }
+   ]
+  },
+  {
+   "nombre": "Sports & Outdoors",
+   "items": 379,
+   "top10": [
+    {
+     "parent_asin": "B07J4Q48X8",
+     "title": "Wepro Waterproof Bands Compatible with Fitbit Charge 4 / Charge 3 / Charge 3 SE for Women Men, 3-Pack, Small, Large",
+     "price": "8.99",
+     "average_rating": 4.6,
+     "rating_number": 19727
+    },
+    {
+     "parent_asin": "B08DG3GT9F",
+     "title": "EVEO Premium Vinyl Record Cleaner Kit - Complete 4-in-1 Vinyl Records Cleaning Kit for Records Albums-Includes Soft Velvet Record Brush,Cleaning Liquid,Duster &Turntable Stylus Cleaning Gel",
+     "price": "21.97",
+     "average_rating": 4.7,
+     "rating_number": 10805
+    },
+    {
+     "parent_asin": "B06XT7M6P5",
+     "title": "Aurosports 10x25 Binoculars for Adults and Kids, Large View Compact Binoculars with Low Light Vision, Easy Focus Small Binoculars for Bird Watching Outdoor Travel Sightseeing Concerts Hunting Hiking",
+     "price": "20.77",
+     "average_rating": 4.5,
+     "rating_number": 10255
+    },
+    {
+     "parent_asin": "B07YY3GR18",
+     "title": "HAPAW Nylon Bands Compatible with Fitbit Versa/Versa 2, Soft Adjustable Breathable Sport Replacement Strap Band Accessories Wristband Women Man for Versa Smartwatch",
+     "price": "nan",
+     "average_rating": 4.5,
+     "rating_number": 8841
+    },
+    {
+     "parent_asin": "B07JF87143",
+     "title": "Wepro Bands Compatible with Fitbit Charge 4 / Charge 3 / Charge 3 SE, Waterproof Band with Breathable Holes for Women Men, Small, Large",
+     "price": "5.99",
+     "average_rating": 4.6,
+     "rating_number": 8404
+    },
+    {
+     "parent_asin": "B08MLFZ58K",
+     "title": "Maledan Bands Compatible with Fitbit Charge 3 and Charge 4, Breathable Sport Band Replacement Wristbands with Air Holes for Charge 4/ Charge 3/ Charge 3 SE Fitness Tracker Women Men, 3-Pack",
+     "price": "8.99",
+     "average_rating": 4.6,
+     "rating_number": 8201
+    },
+    {
+     "parent_asin": "B09DB6MZYT",
+     "title": "She’s Birdie–The Original Personal Safety Alarm for Women by Women–130dB Siren, Strobe Light and Key Chain in 5 Pop Colors",
+     "price": "29.95",
+     "average_rating": 4.5,
+     "rating_number": 8093
+    },
+    {
+     "parent_asin": "B0BQRDGFHG",
+     "title": "Vortex Optics Diamondback HD 8x32 Binoculars",
+     "price": "209.0",
+     "average_rating": 4.8,
+     "rating_number": 7866
+    },
+    {
+     "parent_asin": "B085KZ6S3Y",
+     "title": "Ouwegaga Slim Bands Multi Colors Compatible for Fitbit Versa 2/Fitbit Versa/Lite Silicone Wristbands for Women Men Small Large",
+     "price": "7.99",
+     "average_rating": 4.6,
+     "rating_number": 7280
+    },
+    {
+     "parent_asin": "B07ZQSJCMC",
+     "title": "Vortex Optics Crossfire HD Binoculars",
+     "price": "148.99",
+     "average_rating": 4.8,
+     "rating_number": 7060
+    }
+   ]
+  },
+  {
+   "nombre": "AMAZON FASHION",
+   "items": 362,
+   "top10": [
+    {
+     "parent_asin": "B075Y6Y9H5",
+     "title": "Lenovo Laptop Shoulder Bag T210, 15.6-Inch Laptop or Tablet, Sleek, Durable and Water-Repellent Fabric, Lightweight Toploader, Business Casual or School, GX40Q17229, Black",
+     "price": "15.17",
+     "average_rating": 4.7,
+     "rating_number": 20799
+    },
+    {
+     "parent_asin": "B09SLV7YZV",
+     "title": "Velavior Waterproof Bands for Fitbit Charge 4/ Fitbit Charge 3/ Charge3 SE, Replacement Wristbands for Women Men Small Large (Baby Pink, Small)",
+     "price": "6.88",
+     "average_rating": 4.3,
+     "rating_number": 16263
+    },
+    {
+     "parent_asin": "B07V44JP8G",
+     "title": "Welltin Bands Compatible with Fitbit Versa/Fitbit Versa 2/Fitbit Versa Lite for Women Men, Breathable Woven Fabric Strap, Quick Release, Adjustable Replacement Wristband for Fitbit Versa Smart Watch",
+     "price": "nan",
+     "average_rating": 4.4,
+     "rating_number": 13321
+    },
+    {
+     "parent_asin": "B0C6CNNBG9",
+     "title": "FYY Electronic Organizer, Travel Cable Organizer Bag Pouch Electronic Accessories Carry Case Portable Waterproof Double Layers All-in-One Storage Bag for Cable, Cord, Charger, Phone, Earphone, Cyan",
+     "price": "13.99",
+     "average_rating": 4.4,
+     "rating_number": 11263
+    },
+    {
+     "parent_asin": "B0BG46BX6R",
+     "title": "Targus Laptop Bag Classic Slim Briefcase Messenger Bag, Spacious, Ergonomic, Foam Padded Laptop Case for Devices",
+     "price": "nan",
+     "average_rating": 4.7,
+     "rating_number": 9285
+    },
+    {
+     "parent_asin": "B07ND3XWCD",
+     "title": "Hamile Bands Compatible with Fitbit Charge 4 / Fitbit Charge 3 / Fitbit Charge 3 SE, Waterproof Replacement Watch Strap Fitness Sport Band Wristband for Women Men, Small, Apricot",
+     "price": "6.99",
+     "average_rating": 4.5,
+     "rating_number": 8945
+    },
+    {
+     "parent_asin": "B0B88DKBB2",
+     "title": "Cardo PTB00040 - PACKTALK Special Edition Motorcycle Bluetooth Communication System Headset - Black, Single Pack",
+     "price": "253.47",
+     "average_rating": 4.5,
+     "rating_number": 8723
+    },
+    {
+     "parent_asin": "B07S7WJVY9",
+     "title": "Backpack for Men Women,VASCHY Classic Water-resistant Lightweight Travel School Backpack Casual Daypack",
+     "price": "29.89",
+     "average_rating": 4.7,
+     "rating_number": 8361
+    },
+    {
+     "parent_asin": "B07Q23MRFX",
+     "title": "Wearlizer Stainless Steel Compatible for Fitbit Versa/Versa 2 /Versa Lite/Versa SE Bands Women Men,Ultra-Thin Lightweight Replacement Compatible for Fitbit Versa",
+     "price": "17.99",
+     "average_rating": 4.4,
+     "rating_number": 7875
+    },
+    {
+     "parent_asin": "B013TGFTDY",
+     "title": "Amazon Basics 13 Inch Felt MacBook Laptop Sleeve Case - Charcoal",
+     "price": "nan",
+     "average_rating": 4.6,
+     "rating_number": 7874
+    }
+   ]
+  }
+ ]
+}

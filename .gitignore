@@ -26,3 +26,17 @@ __pycache__/
 
 # Cache
 cache/en_vivo/
+
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+
+# Base de datos del chatbot (se genera sola en Render)
+app/chatbot_core/data/conversations.sqlite
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
